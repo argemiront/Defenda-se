@@ -1,0 +1,444 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1ADDBD3B1474352D007598F0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADDBD3A1474352D007598F0 /* UIKit.framework */; };
+		1ADDBD3D1474352D007598F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADDBD3C1474352D007598F0 /* Foundation.framework */; };
+		1ADDBD3F1474352D007598F0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADDBD3E1474352D007598F0 /* CoreGraphics.framework */; };
+		1ADDBD451474352D007598F0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1ADDBD431474352D007598F0 /* InfoPlist.strings */; };
+		1ADDBD471474352D007598F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADDBD461474352D007598F0 /* main.m */; };
+		1ADDBD4B1474352D007598F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADDBD4A1474352D007598F0 /* AppDelegate.m */; };
+		1ADDBD4E1474352D007598F0 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1ADDBD4C1474352D007598F0 /* MainStoryboard.storyboard */; };
+		1ADDBD511474352D007598F0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADDBD501474352D007598F0 /* ViewController.m */; };
+		1ADDBD591474352D007598F0 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADDBD581474352D007598F0 /* SenTestingKit.framework */; };
+		1ADDBD5A1474352D007598F0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADDBD3A1474352D007598F0 /* UIKit.framework */; };
+		1ADDBD5B1474352D007598F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ADDBD3C1474352D007598F0 /* Foundation.framework */; };
+		1ADDBD631474352D007598F0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1ADDBD611474352D007598F0 /* InfoPlist.strings */; };
+		1ADDBD661474352D007598F0 /* Defenda_seTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADDBD651474352D007598F0 /* Defenda_seTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1ADDBD5C1474352D007598F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1ADDBD2D1474352D007598F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1ADDBD351474352D007598F0;
+			remoteInfo = "Defenda-se";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1ADDBD361474352D007598F0 /* Defenda-se.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Defenda-se.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1ADDBD3A1474352D007598F0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1ADDBD3C1474352D007598F0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1ADDBD3E1474352D007598F0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1ADDBD421474352D007598F0 /* Defenda-se-Info.plist */ = {isa = PBXFileReference; path = "Defenda-se-Info.plist"; sourceTree = "<group>"; };
+		1ADDBD441474352D007598F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1ADDBD461474352D007598F0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1ADDBD481474352D007598F0 /* Defenda-se-Prefix.pch */ = {isa = PBXFileReference; path = "Defenda-se-Prefix.pch"; sourceTree = "<group>"; };
+		1ADDBD491474352D007598F0 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		1ADDBD4A1474352D007598F0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1ADDBD4D1474352D007598F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		1ADDBD4F1474352D007598F0 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		1ADDBD501474352D007598F0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		1ADDBD571474352D007598F0 /* Defenda-seTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Defenda-seTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1ADDBD581474352D007598F0 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		1ADDBD601474352D007598F0 /* Defenda-seTests-Info.plist */ = {isa = PBXFileReference; path = "Defenda-seTests-Info.plist"; sourceTree = "<group>"; };
+		1ADDBD621474352D007598F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1ADDBD641474352D007598F0 /* Defenda_seTests.h */ = {isa = PBXFileReference; path = Defenda_seTests.h; sourceTree = "<group>"; };
+		1ADDBD651474352D007598F0 /* Defenda_seTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Defenda_seTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1ADDBD331474352D007598F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1ADDBD3B1474352D007598F0 /* UIKit.framework in Frameworks */,
+				1ADDBD3D1474352D007598F0 /* Foundation.framework in Frameworks */,
+				1ADDBD3F1474352D007598F0 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1ADDBD531474352D007598F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1ADDBD591474352D007598F0 /* SenTestingKit.framework in Frameworks */,
+				1ADDBD5A1474352D007598F0 /* UIKit.framework in Frameworks */,
+				1ADDBD5B1474352D007598F0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1ADDBD2B1474352D007598F0 = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD401474352D007598F0 /* Defenda-se */,
+				1ADDBD5E1474352D007598F0 /* Defenda-seTests */,
+				1ADDBD391474352D007598F0 /* Frameworks */,
+				1ADDBD371474352D007598F0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1ADDBD371474352D007598F0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD361474352D007598F0 /* Defenda-se.app */,
+				1ADDBD571474352D007598F0 /* Defenda-seTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1ADDBD391474352D007598F0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD3A1474352D007598F0 /* UIKit.framework */,
+				1ADDBD3C1474352D007598F0 /* Foundation.framework */,
+				1ADDBD3E1474352D007598F0 /* CoreGraphics.framework */,
+				1ADDBD581474352D007598F0 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1ADDBD401474352D007598F0 /* Defenda-se */ = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD491474352D007598F0 /* AppDelegate.h */,
+				1ADDBD4A1474352D007598F0 /* AppDelegate.m */,
+				1ADDBD4C1474352D007598F0 /* MainStoryboard.storyboard */,
+				1ADDBD4F1474352D007598F0 /* ViewController.h */,
+				1ADDBD501474352D007598F0 /* ViewController.m */,
+				1ADDBD411474352D007598F0 /* Supporting Files */,
+			);
+			path = "Defenda-se";
+			sourceTree = "<group>";
+		};
+		1ADDBD411474352D007598F0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD421474352D007598F0 /* Defenda-se-Info.plist */,
+				1ADDBD431474352D007598F0 /* InfoPlist.strings */,
+				1ADDBD461474352D007598F0 /* main.m */,
+				1ADDBD481474352D007598F0 /* Defenda-se-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1ADDBD5E1474352D007598F0 /* Defenda-seTests */ = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD641474352D007598F0 /* Defenda_seTests.h */,
+				1ADDBD651474352D007598F0 /* Defenda_seTests.m */,
+				1ADDBD5F1474352D007598F0 /* Supporting Files */,
+			);
+			path = "Defenda-seTests";
+			sourceTree = "<group>";
+		};
+		1ADDBD5F1474352D007598F0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1ADDBD601474352D007598F0 /* Defenda-seTests-Info.plist */,
+				1ADDBD611474352D007598F0 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1ADDBD351474352D007598F0 /* Defenda-se */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1ADDBD691474352D007598F0 /* Build configuration list for PBXNativeTarget "Defenda-se" */;
+			buildPhases = (
+				1ADDBD321474352D007598F0 /* Sources */,
+				1ADDBD331474352D007598F0 /* Frameworks */,
+				1ADDBD341474352D007598F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Defenda-se";
+			productName = "Defenda-se";
+			productReference = 1ADDBD361474352D007598F0 /* Defenda-se.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1ADDBD561474352D007598F0 /* Defenda-seTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1ADDBD6C1474352D007598F0 /* Build configuration list for PBXNativeTarget "Defenda-seTests" */;
+			buildPhases = (
+				1ADDBD521474352D007598F0 /* Sources */,
+				1ADDBD531474352D007598F0 /* Frameworks */,
+				1ADDBD541474352D007598F0 /* Resources */,
+				1ADDBD551474352D007598F0 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1ADDBD5D1474352D007598F0 /* PBXTargetDependency */,
+			);
+			name = "Defenda-seTests";
+			productName = "Defenda-seTests";
+			productReference = 1ADDBD571474352D007598F0 /* Defenda-seTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1ADDBD2D1474352D007598F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 1ADDBD301474352D007598F0 /* Build configuration list for PBXProject "Defenda-se" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1ADDBD2B1474352D007598F0;
+			productRefGroup = 1ADDBD371474352D007598F0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1ADDBD351474352D007598F0 /* Defenda-se */,
+				1ADDBD561474352D007598F0 /* Defenda-seTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1ADDBD341474352D007598F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1ADDBD451474352D007598F0 /* InfoPlist.strings in Resources */,
+				1ADDBD4E1474352D007598F0 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1ADDBD541474352D007598F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1ADDBD631474352D007598F0 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1ADDBD551474352D007598F0 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1ADDBD321474352D007598F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1ADDBD471474352D007598F0 /* main.m in Sources */,
+				1ADDBD4B1474352D007598F0 /* AppDelegate.m in Sources */,
+				1ADDBD511474352D007598F0 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1ADDBD521474352D007598F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1ADDBD661474352D007598F0 /* Defenda_seTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1ADDBD5D1474352D007598F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1ADDBD351474352D007598F0 /* Defenda-se */;
+			targetProxy = 1ADDBD5C1474352D007598F0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1ADDBD431474352D007598F0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1ADDBD441474352D007598F0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1ADDBD4C1474352D007598F0 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1ADDBD4D1474352D007598F0 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+		1ADDBD611474352D007598F0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1ADDBD621474352D007598F0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1ADDBD671474352D007598F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1ADDBD681474352D007598F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1ADDBD6A1474352D007598F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Defenda-se/Defenda-se-Prefix.pch";
+				INFOPLIST_FILE = "Defenda-se/Defenda-se-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1ADDBD6B1474352D007598F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Defenda-se/Defenda-se-Prefix.pch";
+				INFOPLIST_FILE = "Defenda-se/Defenda-se-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		1ADDBD6D1474352D007598F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Defenda-se.app/Defenda-se";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Defenda-se/Defenda-se-Prefix.pch";
+				INFOPLIST_FILE = "Defenda-seTests/Defenda-seTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		1ADDBD6E1474352D007598F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Defenda-se.app/Defenda-se";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Defenda-se/Defenda-se-Prefix.pch";
+				INFOPLIST_FILE = "Defenda-seTests/Defenda-seTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1ADDBD301474352D007598F0 /* Build configuration list for PBXProject "Defenda-se" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1ADDBD671474352D007598F0 /* Debug */,
+				1ADDBD681474352D007598F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1ADDBD691474352D007598F0 /* Build configuration list for PBXNativeTarget "Defenda-se" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1ADDBD6A1474352D007598F0 /* Debug */,
+				1ADDBD6B1474352D007598F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		1ADDBD6C1474352D007598F0 /* Build configuration list for PBXNativeTarget "Defenda-seTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1ADDBD6D1474352D007598F0 /* Debug */,
+				1ADDBD6E1474352D007598F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1ADDBD2D1474352D007598F0 /* Project object */;
+}
