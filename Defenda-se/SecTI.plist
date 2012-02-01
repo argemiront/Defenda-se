@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3</key>
+	<array>
+		<string>Da Proteção à Saúde e Segurança</string>
+		<string>Da Responsabilidade pelo Fato do Produto e do Serviço</string>
+		<string>Da Responsabilidade por Vício do Produto e do Serviço</string>
+		<string>Da Decadência e da Prescrição</string>
+		<string>Da Desconsideração da Personalidade Jurídica</string>
+	</array>
+	<key>3_subtitles</key>
+	<array>
+		<string>Seção I   (Art. 8 ao Art. 11)</string>
+		<string>Seção II   (Art. 12 ao Art. 17)</string>
+		<string>Seção III   (Art. 18 ao Art. 25)</string>
+		<string>Seção IV   (Art. 26 e Art. 27)</string>
+		<string>Seção V (Art. 28)</string>
+	</array>
+	<key>3_files</key>
+	<array>
+		<string>TICIVSI</string>
+		<string>TICIVSII</string>
+		<string>TICIVSIII</string>
+		<string>TICIVSIV</string>
+		<string>TICIVSV</string>
+	</array>
+	<key>3_range</key>
+	<array>
+		<string>8</string>
+		<string>28</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>Das Disposições Gerais</string>
+		<string>Da Oferta</string>
+		<string>Da Publicidade</string>
+		<string>Das Práticas Abusivas</string>
+		<string>Da Cobrança de Dívidas</string>
+		<string>Dos Bancos de Dados e Cadastros de Consumidores</string>
+	</array>
+	<key>4_subtitles</key>
+	<array>
+		<string>Seção I   (Art. 29)</string>
+		<string>Seção II   (Art. 30 ao Art. 35)</string>
+		<string>Seção III   (Art. 36 ao Art. 38)</string>
+		<string>Seção IV   (Art. 39 ao Art. 41)</string>
+		<string>Seção V   (Art. 42 e Art. 42A)</string>
+		<string>Seção VI   (Art. 43 ao Art. 45)</string>
+	</array>
+	<key>4_files</key>
+	<array>
+		<string>TICVSI</string>
+		<string>TICVSII</string>
+		<string>TICVSIII</string>
+		<string>TICVSIV</string>
+		<string>TICVSV</string>
+		<string>TICVSVI</string>
+	</array>
+	<key>4_range</key>
+	<array>
+		<string>29</string>
+		<string>45</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>Disposições Gerais</string>
+		<string>Das Cláusulas Abusivas</string>
+		<string>Dos Contratos de Adesão</string>
+	</array>
+	<key>5_subtitles</key>
+	<array>
+		<string>Seção I    (Art. 46 ao Art. 50)</string>
+		<string>Seção II   (Art. 51 ao Art. 53)</string>
+		<string>Seção III   (Art. 54)</string>
+	</array>
+	<key>5_files</key>
+	<array>
+		<string>TICVISI</string>
+		<string>TICVISII</string>
+		<string>TICVISIII</string>
+	</array>
+	<key>5_range</key>
+	<array>
+		<string>46</string>
+		<string>54</string>
+	</array>
+</dict>
+</plist>

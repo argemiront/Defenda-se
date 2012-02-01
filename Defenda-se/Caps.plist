@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>Disposições Gerais</string>
+		<string>Da Política Nacional de Relações de Consumo</string>
+		<string>Dos Direitos Básicos do Consumidor</string>
+		<string>Da Qualidade de Produtos e Serviços, da Prevenção e da Reparação dos Danos</string>
+		<string>Das Práticas Comerciais</string>
+		<string>Da Proteção Contratual</string>
+		<string>Das Sanções Administrativas</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>Disposições Gerais</string>
+		<string>Das Ações Coletivas Para a Defesa de Interesses Individuais Homogêneos</string>
+		<string>Das Ações de Responsabilidade do Fornecedor de Produtos e Serviços</string>
+		<string>Da Coisa Julgada</string>
+	</array>
+	<key>0_subtitles</key>
+	<array>
+		<string>Capítulo I (Art. 1 ao Art. 3)</string>
+		<string>Capítulo II (Art. 4 e Art. 5)</string>
+		<string>Capítulo III (Art. 6 e Art. 7)</string>
+		<string>Capítulo IV (Art. 8 ao Art. 28)</string>
+		<string>Capítulo V (Art. 29 ao Art. 45)</string>
+		<string>Capítulo VI (Art. 46 ao Art. 54)</string>
+		<string>Capítulo VII (Art. 55 ao Art. 60)</string>
+	</array>
+	<key>0_files</key>
+	<array>
+		<string>TICI</string>
+		<string>TICII</string>
+		<string>TICIII</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>TICVII</string>
+	</array>
+	<key>2_files</key>
+	<array>
+		<string>TIIICI</string>
+		<string>TIIICII</string>
+		<string>TIIICIII</string>
+		<string>TIIICIV</string>
+	</array>
+	<key>2_subtitles</key>
+	<array>
+		<string>Capítulo I (Art. 81 ao Art. 90)</string>
+		<string>Capítulo II (Art. 91 ao Art. 100)</string>
+		<string>Capítulo III (Art. 101 e Art. 102)</string>
+		<string>Capítulo IV (Art. 103 e Art. 104)</string>
+	</array>
+	<key>0_range</key>
+	<array>
+		<string>1</string>
+		<string>60</string>
+	</array>
+	<key>2_range</key>
+	<array>
+		<string>81</string>
+		<string>104</string>
+	</array>
+</dict>
+</plist>

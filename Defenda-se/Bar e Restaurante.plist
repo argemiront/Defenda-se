@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Serviço Extra</key>
+	<array>
+		<array>
+			<string>Sou obrigado a pagar o cover?</string>
+			<string>nomearquivo</string>
+		</array>
+		<array>
+			<string>Sou obrigado a pagar os 10%?</string>
+			<string>nomearquivo</string>
+		</array>
+	</array>
+	<key>Comida</key>
+	<array>
+		<array>
+			<string>Posso visitar a cozinha?</string>
+			<string>nomearquivo</string>
+		</array>
+	</array>
+</dict>
+</plist>

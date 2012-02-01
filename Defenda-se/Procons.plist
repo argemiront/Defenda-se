@@ -1,0 +1,4299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acre - AC</key>
+	<array>
+		<array>
+			<string>Rio Branco</string>
+			<string>PROCON ESTADUAL AC</string>
+			<string>Av. Ceará, 823, Cadeia Velha</string>
+			<string>(068) 3223-7797</string>
+		</array>
+		<array>
+			<string>Sena Madureira</string>
+			<string>PROCON Sena Madureira</string>
+			<string>Rua Padre Egídio, nº 541- Centro</string>
+			<string>(068) 3612-2454</string>
+		</array>
+		<array>
+			<string>Xapuri</string>
+			<string>PROCON Xapuri</string>
+			<string>Rua Coronel Brandão, nº 130 - Centro</string>
+			<string>(068) 3542-2263</string>
+		</array>
+	</array>
+	<key>Alagoas - AL</key>
+	<array>
+		<array>
+			<string>Arapiraca</string>
+			<string>PROCON Arapiraca</string>
+			<string>Rua São Francisco, 133 - Centro</string>
+			<string>(082) 3522-1010</string>
+		</array>
+		<array>
+			<string>Palmeira dos Índios</string>
+			<string>PROCON Palmeira dos Índios</string>
+			<string>Rua Genésio Moreira, s/n°</string>
+			<string>(082) 3421-4274</string>
+		</array>
+		<array>
+			<string>Maceió</string>
+			<string>PROCON ESTADUAL AL</string>
+			<string>Rua Cicinato Pinto, 503 - Centro</string>
+			<string>151</string>
+		</array>
+	</array>
+	<key>Amapá - AP</key>
+	<array>
+		<array>
+			<string>Macapá</string>
+			<string>PROCON ESTADUAL AP</string>
+			<string>Av. Padre Júlio Maria Lombard, n° 1614 - Santa Rita</string>
+			<string>(096) 3312-1000</string>
+		</array>
+	</array>
+	<key>Amazonas - AM</key>
+	<array>
+		<array>
+			<string>Manaus</string>
+			<string>PROCON ESTADUAL AM Parque do Porto</string>
+			<string>Rua Afonso Pena, 8 - Praça 14 de Janeiro</string>
+			<string>(092) 36336756</string>
+		</array>
+	</array>
+	<key>Bahia - BA</key>
+	<array>
+		<array>
+			<string>Feira de Santana</string>
+			<string>PROCON Feira de Santana</string>
+			<string>Rua Barão de Cotegipe, 764</string>
+			<string>(075) 3614-3998</string>
+		</array>
+		<array>
+			<string>Itapetinga</string>
+			<string>PROCON Itapetinga</string>
+			<string>Rua Maria Quitéria, 34</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Salvador</string>
+			<string>PROCON ESTADUAL BA</string>
+			<string>Rua Carlos Gomes, 746, Centro</string>
+			<string>(071) 3321-9947</string>
+		</array>
+		<array>
+			<string>Salvador</string>
+			<string>CODECON - PROCON Municipal da Capital</string>
+			<string>Rua Chile n° 03 - Térreo</string>
+			<string>(071) 3321-9301</string>
+		</array>
+		<array>
+			<string>Vitória da Conquista</string>
+			<string>PROCON Vitória da Conquista</string>
+			<string>Praça Virgílio Ferraz, 83</string>
+			<string>(077) 3421-9959</string>
+		</array>
+	</array>
+	<key>Ceará - CE</key>
+	<array>
+		<array>
+			<string>Acaraú</string>
+			<string>DECON Acaraú</string>
+			<string>Rua Floriano Peixoto, s/nº</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Aracati</string>
+			<string>DECON Aracati</string>
+			<string>Travessa Filismino Filho, nº 1079 - Bairro de Fátima</string>
+			<string>(088) 3421-4141</string>
+		</array>
+		<array>
+			<string>Crato</string>
+			<string>DECON Crato</string>
+			<string>Av Perimetral Dom Francisco, s/n São Miguel</string>
+			<string>(088) 3523-2470</string>
+		</array>
+		<array>
+			<string>Fortaleza</string>
+			<string>PROCON Assembléia</string>
+			<string>Av. Desembargador Moreira, 2807 - Dionísio Torres</string>
+			<string>(085) 3277-3801</string>
+		</array>
+		<array>
+			<string>Fortaleza</string>
+			<string>PROCON Fortaleza</string>
+			<string>Av. Luciano Carneiro, 2235 - Vila União - Fortaleza</string>
+			<string>(085) 32558300</string>
+		</array>
+		<array>
+			<string>Fortaleza</string>
+			<string>DECON CE</string>
+			<string>Rua Barão de Aratanha, 100 - Centro (Tel. 0800 275 8001)</string>
+			<string>(085) 3454-1195</string>
+		</array>
+		<array>
+			<string>Icó</string>
+			<string>DECON Icó</string>
+			<string>Av. Josefa Nogueira Monteiro, 1760 - Centro</string>
+			<string>(088) 3561-1793</string>
+		</array>
+		<array>
+			<string>Iguatu</string>
+			<string>DECON Iguatu</string>
+			<string>Rua José Amaro, s/n - Bugi</string>
+			<string>(088) 3581-0958</string>
+		</array>
+		<array>
+			<string>Juazeiro do Norte</string>
+			<string>DECON Juazeiro do Norte</string>
+			<string>Av Pe Cícero 1751</string>
+			<string>(088) 3512-5252</string>
+		</array>
+		<array>
+			<string>Morada Nova</string>
+			<string>DECON Morada Nova</string>
+			<string>Av. Manoel de Castro, 680</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Quixadá</string>
+			<string>PROCON Quixadá</string>
+			<string>Tv. Tiradentes, 515 - Centro</string>
+			<string>(088) 3412-1717</string>
+		</array>
+		<array>
+			<string>Quixeramobim</string>
+			<string>PROCON Quixeramobim</string>
+			<string>Rua Cônico Pinto de Mendonça, 20 Centro</string>
+			<string>(088) 34410043</string>
+		</array>
+		<array>
+			<string>Russas</string>
+			<string>DECON Russas</string>
+			<string>Rua Padre Zacarias Ramalho, 137</string>
+			<string></string>
+		</array>
+		<array>
+			<string>São Benedito</string>
+			<string>DECON São Benedito</string>
+			<string>Av. Tabajaras, s/nº</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Sobral</string>
+			<string>DECON Sobral</string>
+			<string>Praça General Tibúrcio s/nº</string>
+			<string></string>
+		</array>
+	</array>
+	<key>Distrito Federal - DF</key>
+	<array>
+		<array>
+			<string>Brasília</string>
+			<string>PROCON DISTRITO FEDERAL</string>
+			<string>SCS Venâncio 2000 bl. B- 60 sala 240</string>
+			<string>(061) 151</string>
+		</array>
+		<array>
+			<string>Brasília</string>
+			<string>PROCON Rodoviária do Plano Piloto</string>
+			<string>Subsolo da Estação Rodoviária de Brasília Plataforma D - Projeto Na Hora</string>
+			<string>(061) 3321-2407</string>
+		</array>
+		<array>
+			<string>Brasília</string>
+			<string>DECOM DF</string>
+			<string>CPE - SAI / Sudoeste - lote 02 bloco D (ao lado do IML)</string>
+			<string>(061) 33625935</string>
+		</array>
+		<array>
+			<string>Brazlândia</string>
+			<string>PROCON - Brazlândia</string>
+			<string>SCDN Bl. I Loja 05 - Rodoviária</string>
+			<string>(061) 3212 1594</string>
+		</array>
+		<array>
+			<string>Ceilândia</string>
+			<string>PROCON Ceilândia</string>
+			<string>QNM 12 via NM 12A lote 18/20 - Ceilândia Norte - Projeto Na Hora</string>
+			<string>(061) 3905-7344</string>
+		</array>
+		<array>
+			<string>Gama</string>
+			<string>PROCON Gama</string>
+			<string>AE Central - Administração do Gama - Setor Central</string>
+			<string>(061) 3905-2182</string>
+		</array>
+		<array>
+			<string>Guará</string>
+			<string>PROCON Guará</string>
+			<string>AE do CAVE Administração do Guará</string>
+			<string>(061) 3212 1651</string>
+		</array>
+		<array>
+			<string>Planaltina</string>
+			<string>PROCON Planaltina</string>
+			<string>Via WL 2 Setor Administrativo - Administração Regional de Planaltina. Sala 11</string>
+			<string>(061) 32121675</string>
+		</array>
+		<array>
+			<string>Plano Piloto</string>
+			<string>PROCON Plano Piloto</string>
+			<string>Subsolo da Estação Rodoviária de Brasília</string>
+			<string>(061) 32188634</string>
+		</array>
+		<array>
+			<string>Sobradinho</string>
+			<string>PROCON Sobradinho</string>
+			<string>Qd. Central Bl. E Setor</string>
+			<string>(061) 3212-1681</string>
+		</array>
+		<array>
+			<string>Taguatinga</string>
+			<string>PROCON Taguatinga</string>
+			<string>Av. Sandú Norte CNF 2 Lote 05 Loja 01</string>
+			<string>(061) 3905-7415</string>
+		</array>
+		<array>
+			<string>Brasília</string>
+			<string>PRODECOM</string>
+			<string>Praça do Buriti - Lote 2 Bloco A - MPDFT, 1º anadr - sala 130</string>
+			<string>(061) 33439552</string>
+		</array>
+	</array>
+	<key>Espírito Santo - ES</key>
+	<array>
+		<array>
+			<string>Afonso Cláudio</string>
+			<string>PROCON Afonso Cláudio</string>
+			<string>Av. Presidente Vargas - Praça da Independência, 341</string>
+			<string>(027) 3735-3690</string>
+		</array>
+		<array>
+			<string>Alegre</string>
+			<string>PROCON Alegre</string>
+			<string>AV. Jerônimo Monteiro, N° 21, CEP: 29500-00</string>
+			<string>(027) 3552-1948</string>
+		</array>
+		<array>
+			<string>Alfredo Chaves</string>
+			<string>PROCON Alfredo Chaves</string>
+			<string>Rua Alameda José Seme nº98, Centro - Alfredo Chaves</string>
+			<string>(027) 3269-2568</string>
+		</array>
+		<array>
+			<string>Aracruz</string>
+			<string>PROCON Aracruz</string>
+			<string>Av. Venâncio Flores, nº160 - Centro</string>
+			<string>(027) 3296-4009</string>
+		</array>
+		<array>
+			<string>Baixo Guandu</string>
+			<string>PROCON Baixo Guandu</string>
+			<string>Avenida Carlos Medeiros</string>
+			<string>(027) 3732-4626</string>
+		</array>
+		<array>
+			<string>Boa Esperança</string>
+			<string>Procon Boa Esperança</string>
+			<string>Av. Senador Eurico Rezende – Cep: 29845-000 - Sede da Prefeitura Municipal</string>
+			<string>(027) 3768-1446</string>
+		</array>
+		<array>
+			<string>Cachoeiro de Itapemirim</string>
+			<string>PROCON Cachoeiro de Itapemirim</string>
+			<string>Rua Vinte Cinco de Março, 41, 2º andar – Centro</string>
+			<string>(028) 3155-5408</string>
+		</array>
+		<array>
+			<string>Cariacica</string>
+			<string>PROCON Cariacica</string>
+			<string>. Getúlio Vargas, nº 88, Campo Grande</string>
+			<string>(027) 3346-6324</string>
+		</array>
+		<array>
+			<string>Castelo</string>
+			<string>PROCON Castelo</string>
+			<string>Av. Nossa Senhora da Penha, 103, Centro – Cep 29.360-000</string>
+			<string>(027) 3542-6348</string>
+		</array>
+		<array>
+			<string>Colatina</string>
+			<string>PROCON Colatina</string>
+			<string>Rua Papa Pio XII, 241, Bairro Esplanada</string>
+			<string>(027) 3721-1313</string>
+		</array>
+		<array>
+			<string>Ecoporanga</string>
+			<string>PROCON Ecoporanga</string>
+			<string>Rua Aires Xavier da Penha, 171 A, Centro – Cep 29.850-000</string>
+			<string>(027) 3755-2250</string>
+		</array>
+		<array>
+			<string>Guaçuí</string>
+			<string>PROCON Guaçuí</string>
+			<string>Av. Espírito Santo, 166 – Centro</string>
+			<string>(028) 3553-2703</string>
+		</array>
+		<array>
+			<string>Guarapari</string>
+			<string>PROCON Guarapari</string>
+			<string>Rodovia do Sol, Km 41, Bairro Aeroporto</string>
+			<string>(027) 3361-6172</string>
+		</array>
+		<array>
+			<string>Itapemirim</string>
+			<string>PROCON Itapemirim</string>
+			<string>Rua Xandico, s/nº, Centro – Cep 29.330-00</string>
+			<string>(028) 3529-6357</string>
+		</array>
+		<array>
+			<string>Linhares</string>
+			<string>PROCON Linhares</string>
+			<string>Rua Capitão José Maria, 1.388 -Ed. Monsarás sala F - Centro</string>
+			<string>(027) 3372-2129</string>
+		</array>
+		<array>
+			<string>Mimoso do Sul</string>
+			<string>PROCON Mimoso do Sul</string>
+			<string>Praça Cel. Paiva Gonçalves, 50, Centro Municipal Lítero Clube</string>
+			<string>(028) 3555-1359</string>
+		</array>
+		<array>
+			<string>Nova Venécia</string>
+			<string>PROCON Nova Venécia</string>
+			<string>Rua Salvador Cardoso, 120 - centro Edifício do Forum- Térreo</string>
+			<string>(027) 3752-9032</string>
+		</array>
+		<array>
+			<string>Pinheiros</string>
+			<string>PROCON Pinheiros</string>
+			<string>Rua Gil Veloso, 891, Centro</string>
+			<string>(027) 337652242</string>
+		</array>
+		<array>
+			<string>Piúma</string>
+			<string>PROCON Piúma</string>
+			<string>Av. Isaias Scherrer – 40 – Centro</string>
+			<string>(028) 3520–1611</string>
+		</array>
+		<array>
+			<string>São Mateus</string>
+			<string>PROCON São Mateus</string>
+			<string>Casa do Cidadão - Praça Anchieta, 157 – Centro</string>
+			<string>(027) 3763-5622</string>
+		</array>
+		<array>
+			<string>Serra</string>
+			<string>PROCON Serra</string>
+			<string>Rodovia Norte Sul, Shopping do Povo, Laranjeiras – Cep 29.165-350</string>
+			<string>(027) 3251-5423</string>
+		</array>
+		<array>
+			<string>Viana</string>
+			<string>PROCON Viana</string>
+			<string>Av. Guarapari, S/N,Loteamento Arlindo Vilasques - Areinha –Cep 29.135-000 – Casa do Cidadão</string>
+			<string>(027) 3343-3294</string>
+		</array>
+		<array>
+			<string>Vila Velha</string>
+			<string>PROCON Vila Velha</string>
+			<string>Parque da Prainha, s/n, Prainha</string>
+			<string>(027) 3388-4138</string>
+		</array>
+		<array>
+			<string>Vitória</string>
+			<string>PROCON Municipal de Vitória</string>
+			<string>Casa do Cidadão – Av. Maruípe, 2544, Itararé</string>
+			<string>(027) 3382-5541</string>
+		</array>
+		<array>
+			<string>Vitória</string>
+			<string>PROCON ESTADUAL ES</string>
+			<string>Av. Princesa Isabel, 599, Ed. Março, 7º andar - Centro</string>
+			<string>(027) 3381-6239</string>
+		</array>
+		<array>
+			<string>Vitória</string>
+			<string>DECON Vitória</string>
+			<string>Av. Princesa Isabel, nº 599, sala 501, Centro</string>
+			<string>(027) 3132-1921</string>
+		</array>
+	</array>
+	<key>Goiais - GO</key>
+	<array>
+		<array>
+			<string>Águas Lindas</string>
+			<string>PROCON Águas Lindas de Goiás</string>
+			<string>Q.45, conj. B, Lt. 02, Ed. Angela Maria - Setor 8</string>
+			<string>(061) 3618-1768</string>
+		</array>
+		<array>
+			<string>Anápolis</string>
+			<string>PROCON Anápolis</string>
+			<string>Rua Estrela do Sul esquina com Av. Belo Horizonte</string>
+			<string>(062) 3902-1365</string>
+		</array>
+		<array>
+			<string>Bom Jesus de Goiás</string>
+			<string>PROCON Bom Jesus de Goiás</string>
+			<string>Rua 1 esquina com avenida Goiás nº 190 - Centro</string>
+			<string>(064) 3608-6007</string>
+		</array>
+		<array>
+			<string>Buriti Alegre</string>
+			<string>PROCON Buriti Alegre</string>
+			<string>Rua 24 de junho, s/n - Mercado Municipal - Centro</string>
+			<string>(064) 3444-9924</string>
+		</array>
+		<array>
+			<string>Caldas Novas</string>
+			<string>PROCON Caldas Novas</string>
+			<string>Rua Major Vitor, nº 430</string>
+			<string>(064) 3454-3585</string>
+		</array>
+		<array>
+			<string>Catalão</string>
+			<string>PROCON Catalão</string>
+			<string>Rua Wagner Estelita Campos 314 - Centro</string>
+			<string>(064) 3442-6242</string>
+		</array>
+		<array>
+			<string>Formosa</string>
+			<string>PROCON Formosa</string>
+			<string>Rua Herculano Lobo, N°92</string>
+			<string>(061) 3981-1235</string>
+		</array>
+		<array>
+			<string>Goianésia</string>
+			<string>PROCON Goianésia</string>
+			<string>Rua 33, nº453 - Paço Municipal, Setor Sul</string>
+			<string>(062) 3389-9429</string>
+		</array>
+		<array>
+			<string>Goiânia</string>
+			<string>PROCON Goiânia</string>
+			<string>Av. Goiás, 495 ST. Central de Goiânia</string>
+			<string>(062) 3524–2940</string>
+		</array>
+		<array>
+			<string>Goiânia</string>
+			<string>PROCON ESTADUAL GO</string>
+			<string>Rua 2, nº 24, Centro, Goiânia-GO</string>
+			<string>(062) 3201-7100</string>
+		</array>
+		<array>
+			<string>Inhumas</string>
+			<string>PROCON Inhumas</string>
+			<string>Avenida Uilson Quirino de Andrade, n° 450-Anhanguera ( procon anexo à prefeitura)</string>
+			<string>(062) 3511-2121</string>
+		</array>
+		<array>
+			<string>Ipameri</string>
+			<string>PROCON Ipameri</string>
+			<string>Rua Vereador Luiz de Oliveira, n 15 - Centro</string>
+			<string>(064) 3491–6045</string>
+		</array>
+		<array>
+			<string>Itumbiara</string>
+			<string>PROCON Itumbiara</string>
+			<string>Av. Osvaldo Cruz s/nº, 2º Piso - Terminal Rodoviário</string>
+			<string>(062) 3433-1512</string>
+		</array>
+		<array>
+			<string>Jaraguá</string>
+			<string>PROCON Jaraguá</string>
+			<string>AV. Cristóvão Colombo de Freitas, Qd. 02, Lt. 10 - Setor Aeroporto</string>
+			<string>(062) 3326-6040</string>
+		</array>
+		<array>
+			<string>Jataí</string>
+			<string>PROCON Jataí</string>
+			<string>Praça da Bandeira- Palácio das Abelhas CEP : 75.800-000</string>
+			<string>(064) 3632-4035</string>
+		</array>
+		<array>
+			<string>Luziânia</string>
+			<string>PROCON Luziânia</string>
+			<string>Av. José Vieira Primo, n.º 4, Centro</string>
+			<string>(061) 3906-3255</string>
+		</array>
+		<array>
+			<string>Mineiros</string>
+			<string>PROCON Mineiros</string>
+			<string>5ª Avenida Esq c/ Rua 10 nº103 - Centro</string>
+			<string>(064) 3661-0020</string>
+		</array>
+		<array>
+			<string>Morrinhos</string>
+			<string>PROCON Morrinhos</string>
+			<string>Rua Barão do rio branco, n°886 - unidade do vapt-vupt</string>
+			<string>(064) 3417-2038</string>
+		</array>
+		<array>
+			<string>Niquelândia</string>
+			<string>PROCON Niquelândia</string>
+			<string>Av. Goiás, nº26 - Centro</string>
+			<string>(062) 3959-7075</string>
+		</array>
+		<array>
+			<string>Pires do Rio</string>
+			<string>PROCON Pires do Rio</string>
+			<string>Rua Renato G. Sampaio, Qd. 376, Lt. 01, s/n - Edifício do Fórum - Osvaldo Gonçalves</string>
+			<string>(064) 3461-4019</string>
+		</array>
+		<array>
+			<string>Quirinópolis</string>
+			<string>PROCON Quirinópolis</string>
+			<string>Praça dos Três Poderes - Centro</string>
+			<string>(064) 3651-8800</string>
+		</array>
+		<array>
+			<string>Santo Antônio do Descoberto</string>
+			<string>PROCON Santo Antônio do Descoberto</string>
+			<string>Qd 57 Lt 12, Loja 01- Centro</string>
+			<string>(061) 3606-3325</string>
+		</array>
+		<array>
+			<string>Senador Canedo</string>
+			<string>PROCON Senador Canedo</string>
+			<string>Av. Dom Emanuel Qd 05, Sala 03</string>
+			<string>(062) 3275-9962</string>
+		</array>
+		<array>
+			<string>Trindade</string>
+			<string>PROCON Trindade</string>
+			<string>Praça Constantino Xavier, nº 330 - Centro</string>
+			<string>(062) 3506–7095</string>
+		</array>
+		<array>
+			<string>Uruaçu</string>
+			<string>PROCON Uruaçu</string>
+			<string>Rua Adelino Fernandes de Carvalho, s/n - Prédio do SIM</string>
+			<string>(062) 3357-5100</string>
+		</array>
+	</array>
+	<key>Maranhão - MA</key>
+	<array>
+		<array>
+			<string>São Luis</string>
+			<string>PROCON ESTADUAL MA</string>
+			<string>Av. Getúlio Vargas, 1908 - Monte Castelo</string>
+			<string>(098) 3231-0021</string>
+		</array>
+	</array>
+	<key>Mato Grosso - MT</key>
+	<array>
+		<array>
+			<string>Alta Floresta</string>
+			<string>PROCON Alta Floresta</string>
+			<string>Rua A, 198 - Centro(Secretaria de Ação Social)</string>
+			<string>(066) 3903-1036</string>
+		</array>
+		<array>
+			<string>Alto Araguaia</string>
+			<string>PROCON Alto Araguaia</string>
+			<string>Av. Carlos Huguiney, nº. 552 - Centro(Prefeitura Municipal)</string>
+			<string>(066) 3481-1165</string>
+		</array>
+		<array>
+			<string>Barra do Garças</string>
+			<string>PROCON Barra do Garças</string>
+			<string>Rua Carajás, nº. 522 - Centro</string>
+			<string>(066) 3402-2027</string>
+		</array>
+		<array>
+			<string>Cáceres</string>
+			<string>PROCON Cáceres</string>
+			<string>Av. Getúlio Vargas, 285 - Centro</string>
+			<string>(065) 3223-3268</string>
+		</array>
+		<array>
+			<string>Campo Novo do Parecis</string>
+			<string>PROCON Campo Novo do Parecis</string>
+			<string>Avenida Mato Grosso, 277 - Centro</string>
+			<string>(065) 3904-2133</string>
+		</array>
+		<array>
+			<string>Cuiabá</string>
+			<string>PROCON Cuiabá</string>
+			<string>Av. Brasil, s/nº - CPA II</string>
+			<string>(065) 3641-8325</string>
+		</array>
+		<array>
+			<string>Cuiabá</string>
+			<string>PROCON ESTADUAL MT</string>
+			<string>Av. Historiador Rubens de Mendonça, 917 - Araés</string>
+			<string>(065) 3613-8510</string>
+		</array>
+		<array>
+			<string>Guarantã do Norte</string>
+			<string>PROCON Guarantã do Norte</string>
+			<string>Av. Jatobá, 1.170</string>
+			<string>(066) 3552-5114</string>
+		</array>
+		<array>
+			<string>Juara</string>
+			<string>PROCON Juará</string>
+			<string>Rua Rio de Janeiro, nº 832</string>
+			<string>(066) 3556-4499</string>
+		</array>
+		<array>
+			<string>Lucas do Rio Verde</string>
+			<string>PROCON Lucas do Rio Verde</string>
+			<string>"Av. São Paulo, nº. 679 ""S"" - Alvorada"</string>
+			<string>(065) 3549-1192</string>
+		</array>
+		<array>
+			<string>Nobres</string>
+			<string>PROCON Nobres</string>
+			<string>Av. Filinto Muller, nº. 1.132 - Jardim Paraná</string>
+			<string>(066) 3376-1311</string>
+		</array>
+		<array>
+			<string>Pontes e Lacerda</string>
+			<string>PROCON Pontes e Lacerda</string>
+			<string>Av. Vera Lúcia, nº. 832 - Centro</string>
+			<string>(065) 3266-1219</string>
+		</array>
+		<array>
+			<string>Primavera do Leste</string>
+			<string>PROCON Primavera do Leste</string>
+			<string>Av. Cuiabá, nº 653 - Centro</string>
+			<string>(066) 3498-6262</string>
+		</array>
+		<array>
+			<string>Rondonópolis</string>
+			<string>PROCON Rondonópolis</string>
+			<string>Avenida Ponce de Arruda, 1616</string>
+			<string>(066) 3411-5295</string>
+		</array>
+		<array>
+			<string>Sapezal</string>
+			<string>PROCON Sapezal</string>
+			<string>Av. Dourado, nº. 210 - Centro</string>
+			<string>(065) 3383-1752</string>
+		</array>
+		<array>
+			<string>Sinop</string>
+			<string>PROCON Sinop</string>
+			<string>Rua Das Avencas, nº2292 - Centro</string>
+			<string>(066) 3532-5453</string>
+		</array>
+		<array>
+			<string>Sorriso</string>
+			<string>PROCON Sorriso</string>
+			<string>Rua dos Estados, nº. 512 - Centro</string>
+			<string>(066) 3907-5427</string>
+		</array>
+		<array>
+			<string>Tangará da Serra</string>
+			<string>PROCON Tangará da Serra</string>
+			<string>Rua Antônio José da Silva, 157W, Centro</string>
+			<string>(065) 3326-7387</string>
+		</array>
+		<array>
+			<string>Várzea Grande</string>
+			<string>PROCON Várzea Grande</string>
+			<string>Av. Castelo Branco, nº. 325 Centro Empresarial - Térreo - Sala 08 - Centro</string>
+			<string>(065) 3688-3680</string>
+		</array>
+	</array>
+	<key>Mato Grosso do Sul - MS</key>
+	<array>
+		<array>
+			<string>Anastácio</string>
+			<string>PROCON Anastácio</string>
+			<string>João Leite Ribeiro, 437</string>
+			<string>(067) 3245-4254</string>
+		</array>
+		<array>
+			<string>Aquidauna</string>
+			<string>PROCON Aquidauna</string>
+			<string>Afonso Pena s/n Casa da Cidadania</string>
+			<string>(067) 3241–5650</string>
+		</array>
+		<array>
+			<string>Bela Vista</string>
+			<string>PROCON Bela Vista</string>
+			<string>Santo Afonso, n 660 Cep 79.260-000</string>
+			<string>(067) 3932-1027</string>
+		</array>
+		<array>
+			<string>Campo Grande</string>
+			<string>PROCON ESTADUAL MS</string>
+			<string>Rua 13 de junho nº 913 - Centro</string>
+			<string>(067) 3316 9800</string>
+		</array>
+		<array>
+			<string>Cassilândia</string>
+			<string>PROCON Cassilândia</string>
+			<string>Rua Laudemiro Ferreira de Freitas, nº134 - Centro</string>
+			<string>(067) 3596-7537</string>
+		</array>
+		<array>
+			<string>Chapadão do Sul</string>
+			<string>PROCON Chapadão do Sul</string>
+			<string>Rua 18, nº876 - Centro</string>
+			<string>(067) 3562-6638</string>
+		</array>
+		<array>
+			<string>Corumbá</string>
+			<string>PROCON Corumbá</string>
+			<string>RUA 15 de Novembro, 4000</string>
+			<string>(067) 3907–5431</string>
+		</array>
+		<array>
+			<string>Costa Rica</string>
+			<string>PROCON Costa Rica</string>
+			<string>Av. José Ferreira de Costa, 436</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Coxim</string>
+			<string>PROCON Coxim</string>
+			<string>Rua Felinto Muller, nº577 - Centro</string>
+			<string>(067) 3291-2800</string>
+		</array>
+		<array>
+			<string>Dourados</string>
+			<string>PROCON Dourados</string>
+			<string>Rua Joaquim Teixeira Alves, nº 772</string>
+			<string>(067) 3411-7754</string>
+		</array>
+		<array>
+			<string>Maracajú</string>
+			<string>PROCON Maracajú</string>
+			<string>Rua APA, 141</string>
+			<string>(067) 3454-5092</string>
+		</array>
+		<array>
+			<string>Naviraí</string>
+			<string>PROCON Naviraí</string>
+			<string>Av. Amambaí, nº. 158 - Centro</string>
+			<string>(067) 3461-3433</string>
+		</array>
+		<array>
+			<string>Nova Andradina</string>
+			<string>PROCON Nova Andradina</string>
+			<string>Rua Walter Hubacher, nº1368 - Centro</string>
+			<string>(067) 3441-4325</string>
+		</array>
+		<array>
+			<string>Paranaíba</string>
+			<string>PROCON Paranaíba</string>
+			<string>Rua Wladislau Garcia Gomes, 1.165 - Centro</string>
+			<string>(067) 3669–0098</string>
+		</array>
+		<array>
+			<string>Ponta Porã</string>
+			<string>PROCON Ponta Porã</string>
+			<string>Rua Guia Lopes, 357</string>
+			<string>(067) 3431-9090</string>
+		</array>
+		<array>
+			<string>Santa Rita do Pardo</string>
+			<string>PROCON Santa Rita do Pardo</string>
+			<string>Rua Marechal Floriano Peixoto, 910 - Prédio da Prefeitura</string>
+			<string>(067) 3591-1123</string>
+		</array>
+		<array>
+			<string>São Gabriel do Oeste</string>
+			<string>PROCON São Gabriel do Oeste</string>
+			<string>Rua Getúlio Vargas, nº600 - Centro</string>
+			<string>(067) 3295-1402</string>
+		</array>
+		<array>
+			<string>Três Lagoas</string>
+			<string>PROCON Três Lagoas</string>
+			<string>Av. Capitão Olinto Mancine, nº. 2462 -Edifício Erpi, 1° andar - Jardim Primaveril</string>
+			<string>(067) 3929-1819</string>
+		</array>
+	</array>
+	<key>Minas Gerais - MG</key>
+	<array>
+		<array>
+			<string>Aimorés</string>
+			<string>PROCON Aimorés</string>
+			<string>Av. Raul Soares, nº184 - Galeria Adami, sala 04 - Centro</string>
+			<string>(033) 33267-184</string>
+		</array>
+		<array>
+			<string>Além Paraíba</string>
+			<string>PROCON Além Paraíba</string>
+			<string>Av. Dr. José Avelino de Freitas, s/ nº Termunal Rodoviário Jácomo</string>
+			<string>(031) 3462-9907</string>
+		</array>
+		<array>
+			<string>Alfenas</string>
+			<string>PROCON Alfenas</string>
+			<string>Rua Juscelino Barbosa, 1091 – Centro</string>
+			<string>(035) 3698-2099</string>
+		</array>
+		<array>
+			<string>Araguari</string>
+			<string>PROCON Araguari</string>
+			<string>Rua Coronel Lindolfo França, 553 – Centro</string>
+			<string>(034) 3690-3078</string>
+		</array>
+		<array>
+			<string>Araxá</string>
+			<string>PROCON Araxá</string>
+			<string>Rua Presidente Olegário Maciel, 284 – Sala 01 – Centro</string>
+			<string>(034) 3662-2444</string>
+		</array>
+		<array>
+			<string>Arcos</string>
+			<string>PROCON Arcos</string>
+			<string>Av. Magalhães Pinto, s/nº - Terminal Rodoviário Sala 02</string>
+			<string>(037) 3352-1055</string>
+		</array>
+		<array>
+			<string>Argirita</string>
+			<string>PROCON Argirita</string>
+			<string>Rua Joaquim Barbosa de Castro, 22, Centro</string>
+			<string>(032) 3445-1288</string>
+		</array>
+		<array>
+			<string>Barbacena</string>
+			<string>PROCON Barbacena</string>
+			<string>Rua Silva Jardim, nº 340, Bairro Boa Morte - ao lado da Prefeitura</string>
+			<string>(032) 3331-8001</string>
+		</array>
+		<array>
+			<string>Barroso</string>
+			<string>Procon Barroso</string>
+			<string>Praça Santana, 120 - Centro</string>
+			<string>(032) 3351-1166</string>
+		</array>
+		<array>
+			<string>Belo Horizonte</string>
+			<string>PROCON Belo Horizonte</string>
+			<string>Rua Espírito Santo, 505, bairro Centro</string>
+			<string>(031) 3277-4547</string>
+		</array>
+		<array>
+			<string>Belo Horizonte</string>
+			<string>PROCON ESTADUAL MG</string>
+			<string>Rua Dias Adorno, 347 - Santo Agostinho</string>
+			<string>(031) 3250-5010</string>
+		</array>
+		<array>
+			<string>Belo Horizonte</string>
+			<string>PROCON Assembléia</string>
+			<string>Rua Rodrigues Caldas, 30 - Santo Agostinho</string>
+			<string>(031) 2108-7000</string>
+		</array>
+		<array>
+			<string>Betim</string>
+			<string>PROCON Betim</string>
+			<string>: Rua São Pedro, 41 – Centro</string>
+			<string>(031) 3531-1188</string>
+		</array>
+		<array>
+			<string>Boa Esperança</string>
+			<string>Procon Boa Esperança</string>
+			<string>Avenida 15 de Outubro 136 - Centro</string>
+			<string>(035) 3851-8044</string>
+		</array>
+		<array>
+			<string>Boa Espernaça</string>
+			<string>PROCON Boa Esperança</string>
+			<string>Av. Quinze de Outubro, 136 - Centro</string>
+			<string>(035) 3851-8044</string>
+		</array>
+		<array>
+			<string>Botelhos</string>
+			<string>PROCON Botelhos</string>
+			<string>Av. Major Antônio Alberto Fernandes, 167 – Centro</string>
+			<string>(035) 3741-1511</string>
+		</array>
+		<array>
+			<string>Caeté</string>
+			<string>PROCON Caeté</string>
+			<string>Praça Dr. João Pinheiro, 15 - Centro</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Cambuí</string>
+			<string>PROCON Cambuí</string>
+			<string>Praça Coronel Justiniano, 164 – Centro</string>
+			<string>(035) 3431-1833</string>
+		</array>
+		<array>
+			<string>Campo Belo</string>
+			<string>PROCON Campo Belo</string>
+			<string>Rua João Pinheiro, 254 – Fórum Rafael Magalhães</string>
+			<string>(035) 3832-3336</string>
+		</array>
+		<array>
+			<string>Carandaí</string>
+			<string>PROCON Carandaí</string>
+			<string>Praça Barão de Santa Cecília, 68 – Centro</string>
+			<string>(032) 3361-3322</string>
+		</array>
+		<array>
+			<string>Carangola</string>
+			<string>PROCON Carangola</string>
+			<string>Rua Quintino Bocaiúva, 97 - Sala 09 - Centro</string>
+			<string>(032) 3741-5593</string>
+		</array>
+		<array>
+			<string>Carmo do Rio Claro</string>
+			<string>PROCON Carmo do Rio Claro</string>
+			<string>Rua Delfin Moreira, 62 - Centro</string>
+			<string>(035) 3561-2000</string>
+		</array>
+		<array>
+			<string>Cataguases</string>
+			<string>PROCON Cataguases</string>
+			<string>Rua Coronel Vieira, 167, Centro</string>
+			<string>(032) 3422-1066</string>
+		</array>
+		<array>
+			<string>Caxambu</string>
+			<string>PROCON Caxambu</string>
+			<string>Av. Camilo Soares, 68 – Centro</string>
+			<string>(035) 3341-9044</string>
+		</array>
+		<array>
+			<string>Caxambú</string>
+			<string>PROCON Caxambú</string>
+			<string>Rua Camilo Soares, 68 - Centro</string>
+			<string>(035) 3341-9044</string>
+		</array>
+		<array>
+			<string>Congonhas</string>
+			<string>PROCON Congonhas</string>
+			<string>Rua Cornélio de Souza Costa, 173 – Centro</string>
+			<string>(031) 3731-2611</string>
+		</array>
+		<array>
+			<string>Conselheiro Lafaete</string>
+			<string>PROCON Conselheiro Lafaete</string>
+			<string>Av. Prefeito Mario Rodrigues Pereira n°136 - Centro</string>
+			<string>151</string>
+		</array>
+		<array>
+			<string>Conselheiro Lafaiete</string>
+			<string>PROCON Conselheiro Lafaiete</string>
+			<string>Rua Oliveiros de Souza, 45 - Centro</string>
+			<string>(031) 3769-9010</string>
+		</array>
+		<array>
+			<string>Contagem</string>
+			<string>PPROCON Contagem</string>
+			<string>Av. João César de Oliveira, 1410 - Eldorado</string>
+			<string>(031) 3352-5425</string>
+		</array>
+		<array>
+			<string>Coromandel</string>
+			<string>PROCON Coromandel</string>
+			<string>Rua Artur Bernardes, 654 – Terminal Rodoviário</string>
+			<string>(034) 3841-3756</string>
+		</array>
+		<array>
+			<string>Coronel Fabriciano</string>
+			<string>Procon Coronel Fabriciano</string>
+			<string>Rua Efrem Macedo, 259 – Bairro Santa Helena</string>
+			<string>(031) 3846-7707</string>
+		</array>
+		<array>
+			<string>Cratinga</string>
+			<string>PROCON Caratinga</string>
+			<string>Praça Cesário Alvim, 01 - Centro</string>
+			<string>(033) 3329-8012</string>
+		</array>
+		<array>
+			<string>Cruzília</string>
+			<string>PROCON Cruzília</string>
+			<string>Rua Coronel Serafim Pereira, 50 – 3º andar - Centro</string>
+			<string>(035) 3346-2426</string>
+		</array>
+		<array>
+			<string>Curvelo</string>
+			<string>PROCON Curvelo</string>
+			<string>Av. Antônio Olinto, 190, 2º andar, Centro</string>
+			<string>(038) 3722-3256</string>
+		</array>
+		<array>
+			<string>Divinópolis</string>
+			<string>PROCON Divinópolis</string>
+			<string>Rua Rio de Janeiro, 426 – Salas 401/403 - Centro</string>
+			<string>(037) 3222-5454</string>
+		</array>
+		<array>
+			<string>Dores do Indaiá</string>
+			<string>PROCON Dores do Indaiá</string>
+			<string>Praça Antônio Lalau de Carvalho, 10, sala 04 – Centro</string>
+			<string>(032) 3551-2537</string>
+		</array>
+		<array>
+			<string>Formiga</string>
+			<string>PROCON Formiga</string>
+			<string>Rua Monsenhor João Ivo, 108 - Centro</string>
+			<string>(037) 3321-1056</string>
+		</array>
+		<array>
+			<string>Francisco Sá</string>
+			<string>PROCON Francisco Sá</string>
+			<string>Av. Getúlio Vargas, 1014 - Centro</string>
+			<string>(038) 3223-1325</string>
+		</array>
+		<array>
+			<string>Frutal</string>
+			<string>PROCON Frutal</string>
+			<string>Rua Osvaldo cruz ,284 - centro</string>
+			<string>(034) 3423-2699</string>
+		</array>
+		<array>
+			<string>Governador Valadares</string>
+			<string>Procon Governador Valadares</string>
+			<string>Avenida Brasil, Nº 3487, Centro, CEP 35010-070</string>
+			<string>(033) 3276-7699</string>
+		</array>
+		<array>
+			<string>Guanhães</string>
+			<string>PROCON Guanhães</string>
+			<string>Travessa dos Leões, 60 - Centro</string>
+			<string>(033) 3421-4862</string>
+		</array>
+		<array>
+			<string>Guapé</string>
+			<string>PROCON Guapé</string>
+			<string>Rua Dr. Joaquim Coelho Filho, nº 280 “A”</string>
+			<string>(035) 3856-1309</string>
+		</array>
+		<array>
+			<string>Guaranésia</string>
+			<string>PROCON Guaranésia</string>
+			<string>Rua Afonso Pena, 248 - Centro</string>
+			<string>(035) 3555-2142</string>
+		</array>
+		<array>
+			<string>Guaxupé</string>
+			<string>PROCON Guaxupé</string>
+			<string>Rua Tiradentes nº 19 - Centro</string>
+			<string>(035) 3559-1083</string>
+		</array>
+		<array>
+			<string>Ibiá</string>
+			<string>PROCON Ibiá</string>
+			<string>Rua 26 nº889 Bairro Centro</string>
+			<string>(034) 33631-220</string>
+		</array>
+		<array>
+			<string>Ipatinga</string>
+			<string>PROCON Ipatinga</string>
+			<string>Rua Diamantina, 71 – Salas 06 a 11 – Centro</string>
+			<string>(031) 3829-8446</string>
+		</array>
+		<array>
+			<string>Itabira</string>
+			<string>PROCON Itabira</string>
+			<string>Rua Nova Era, 17, Centro</string>
+			<string>(031) 3839-2220</string>
+		</array>
+		<array>
+			<string>Itabirito</string>
+			<string>PROCON Itabirito</string>
+			<string>Galeria Jane France - Loja 05- Av. Queiroz Júnior, 463 – Centro</string>
+			<string>(031) 3561-7977</string>
+		</array>
+		<array>
+			<string>Itajubá</string>
+			<string>PROCON Itajubá</string>
+			<string>Avenida BPS, nº 35, BPS</string>
+			<string>(035) 3692-1761</string>
+		</array>
+		<array>
+			<string>Itapagipe</string>
+			<string>PROCON Itapagipe</string>
+			<string>Av. Onze, s/nº - Terminal Rodoviário (Sobreloja) – Centro</string>
+			<string>(034) 3424-2109</string>
+		</array>
+		<array>
+			<string>Itaúna</string>
+			<string>PROCON Itaúna</string>
+			<string>Rua Godofredo Gonçalves, 491 - Centro</string>
+			<string>(037) 3241-2202</string>
+		</array>
+		<array>
+			<string>Ituiutaba</string>
+			<string>PROCON Ituiutaba</string>
+			<string>Rua Vinte e Seis, 820 – Centro</string>
+			<string>(034) 3271-8140</string>
+		</array>
+		<array>
+			<string>Iturama</string>
+			<string>PROCON Iturama</string>
+			<string>Rua José Padre Diniz, nº331 - Nossa Senhora de Fátima</string>
+			<string>(034) 3411-0130</string>
+		</array>
+		<array>
+			<string>Iturama</string>
+			<string>PROCON Iturama</string>
+			<string>Av. Campina Verde, 1428 – Centro</string>
+			<string>(034) 3411-9590</string>
+		</array>
+		<array>
+			<string>Jacutinga</string>
+			<string>COMDECON Jacutinga</string>
+			<string>Rua Afonso Pena, 556 Centro</string>
+			<string>(035) 3443-1914</string>
+		</array>
+		<array>
+			<string>Janaúba</string>
+			<string>PROCON Janaúba</string>
+			<string>: Av. Marechal Deodoro, 134 - Centro</string>
+			<string>(038) 3821-3210</string>
+		</array>
+		<array>
+			<string>João Monlevade</string>
+			<string>PROCON João Monlevade</string>
+			<string>Av. Wilson Alvarenga, 911 - Carneirinhos</string>
+			<string>(031) 3851-5780</string>
+		</array>
+		<array>
+			<string>Juiz de Fora</string>
+			<string>PROCON Municipal de Juiz de Fora</string>
+			<string>Avenida Independência, 992 - Centro</string>
+			<string>156</string>
+		</array>
+		<array>
+			<string>Juiz de Fora</string>
+			<string>PROCON Juiz de Fora</string>
+			<string>Av. Independência, 992, Centro</string>
+			<string>(032) 3690-7734</string>
+		</array>
+		<array>
+			<string>Lagoa da Prata</string>
+			<string>PROCON Lagoa da Prata</string>
+			<string>Rua Santa Catarina, 395 – Sala 06 – Terminal Rodoviário</string>
+			<string>(037) 3261-3312</string>
+		</array>
+		<array>
+			<string>Lavras</string>
+			<string>PROCON Lavras</string>
+			<string>Rua Raul Soares, 65 - Centro</string>
+			<string>(035) 3694-4155</string>
+		</array>
+		<array>
+			<string>Leopoldina</string>
+			<string>PROCON Leopoldina</string>
+			<string>Rua Lucas Augusto, 68 Centro</string>
+			<string>(032) 3449-4008</string>
+		</array>
+		<array>
+			<string>Machado</string>
+			<string>PROCON Machado</string>
+			<string>Praça Antônio Carlos, 100 - 1º piso– sala 07 - Centro</string>
+			<string>(035) 3295-7853</string>
+		</array>
+		<array>
+			<string>Manhuaçu</string>
+			<string>PROCON Manhuaçu</string>
+			<string>Praça 5 de Novembro, 339 – 4º Andar – Centro</string>
+			<string>(033) 3331-3940</string>
+		</array>
+		<array>
+			<string>Mariana</string>
+			<string>PROCON Mariana</string>
+			<string>Praça JK s/nº (Prédio Prefeitura) – Centro</string>
+			<string>(031) 3557-9001</string>
+		</array>
+		<array>
+			<string>Matias Barbosa</string>
+			<string>PROCON Matias Barbosa</string>
+			<string>Av. Cardoso Saraiva, 305 - Centro</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Monte Carmelo</string>
+			<string>PROCON Monte Carmelo</string>
+			<string>Rua Castro Alves, 118 - Centro</string>
+			<string>(034) 3842-5851</string>
+		</array>
+		<array>
+			<string>Montes Claros</string>
+			<string>PROCON Montes Claros</string>
+			<string>Rua Januária 737, Centro</string>
+			<string>(038) 3229-1578</string>
+		</array>
+		<array>
+			<string>Muriaé</string>
+			<string>PROCON Muriaé</string>
+			<string>Terminal Rodoviário – Av. Constantino Pinto, 400 – Centro</string>
+			<string>(032) 3729-1218</string>
+		</array>
+		<array>
+			<string>Muzambinho</string>
+			<string>PROCON Muzambinho</string>
+			<string>Rua João Pessoa, 123 - Centro</string>
+			<string>(035) 3571-3060</string>
+		</array>
+		<array>
+			<string>Nanuque</string>
+			<string>PROCON Nanuque</string>
+			<string>Rua Itajubá, 29, centro</string>
+			<string>(033) 3621-6494</string>
+		</array>
+		<array>
+			<string>Nova Lima</string>
+			<string>PROCON Nova Lima</string>
+			<string>Rua Benedito Valadares, nº69, Sl 04</string>
+			<string>(031) 3541-2999</string>
+		</array>
+		<array>
+			<string>Ouro Preto</string>
+			<string>PROCON Ouro Preto</string>
+			<string>Praça Américo Lopes, nº 91, Bairro Pilar</string>
+			<string>(031) 3559-3290</string>
+		</array>
+		<array>
+			<string>Pará de Minas</string>
+			<string>PROCON Pará de Minas</string>
+			<string>Praça Torquato de Almeida, 100 – Prédio CENSU – Centro</string>
+			<string>(037) 3231-9292</string>
+		</array>
+		<array>
+			<string>Paracatu</string>
+			<string>PROCON Paracatu</string>
+			<string>Av. Olegário Maciel, 101, Centro</string>
+			<string>(038) 3672-3081</string>
+		</array>
+		<array>
+			<string>Passos</string>
+			<string>PROCON Passos</string>
+			<string>R: dos Engenheiros 199 Bairro: Belo Horizonte</string>
+			<string>(035) 3526-5955</string>
+		</array>
+		<array>
+			<string>Patos de Minas</string>
+			<string>PROCON Patos de Minas</string>
+			<string>Rua Olegário Maciel, 203 – Sala 103/104 – Centro</string>
+			<string>(034) 3822-9708</string>
+		</array>
+		<array>
+			<string>Patrocínio</string>
+			<string>PROCON Patrocínio</string>
+			<string>Rua Joaquim Carlos dos Santos, 226, sala 02, Cidade Jardim</string>
+			<string>(034) 3839-1800</string>
+		</array>
+		<array>
+			<string>Perdizes</string>
+			<string>PROCON Perdizes</string>
+			<string>Praça Governador Valadares, 10, Centro</string>
+			<string>(034) 3663-1713</string>
+		</array>
+		<array>
+			<string>Pirapora</string>
+			<string>PROCON Pirapora</string>
+			<string>Av.Tiradentes, nº134 - Centro</string>
+			<string>(038) 3749-6143</string>
+		</array>
+		<array>
+			<string>Piumhi</string>
+			<string>PROCON Piumhi</string>
+			<string>Rua Padre Abel, 332, 2º andar, Centro</string>
+			<string>(037) 3371-9956</string>
+		</array>
+		<array>
+			<string>Poços de Caldas</string>
+			<string>PROCON Poços de Caldas</string>
+			<string>Rua Pernambuco, 562 – Centro</string>
+			<string>(035) 3697-2260</string>
+		</array>
+		<array>
+			<string>Ponte Nova</string>
+			<string>PROCON Ponte Nova</string>
+			<string>Rua Cantídio Drumond, 66 - Centro</string>
+			<string>(031) 3817-4035</string>
+		</array>
+		<array>
+			<string>Pouso Alegre</string>
+			<string>PROCON Pouso Alegre</string>
+			<string>Rua Adalberto Rua Adalberto Ferraz, 389, Centro</string>
+			<string>(035) 3449-4315</string>
+		</array>
+		<array>
+			<string>Ribeirão das Neves</string>
+			<string>PROCON Ribeirão das Neves</string>
+			<string>Rua José Leão Papa, 20, Bairro Várzea Alegre</string>
+			<string>(031) 3627-5623</string>
+		</array>
+		<array>
+			<string>Sabará</string>
+			<string>PROCON Sabará</string>
+			<string>Rua das Laranjeiras, 24 - Centro</string>
+			<string>(031) 3672-6486</string>
+		</array>
+		<array>
+			<string>Sacramento</string>
+			<string>PROCON Sacramento</string>
+			<string>Rua São Pedro, 63 - Centro</string>
+			<string>(034) 3351-5811</string>
+		</array>
+		<array>
+			<string>Santa Rita do Sapucaí</string>
+			<string>PROCON Santa Rita do Sapucaí</string>
+			<string>Rua Professora Maria de Melo, nº 30 – Bairro Família Andrade</string>
+			<string>(035) 3471-1777 </string>
+		</array>
+		<array>
+			<string>Santo Antônio do Monte</string>
+			<string>PROCON Santo Antônio do Monte</string>
+			<string>Praça Getúlio Vargas, 18 - Centro</string>
+			<string>(037) 3281-7328</string>
+		</array>
+		<array>
+			<string>Santos Dumont</string>
+			<string>PROCON Santos Dumont</string>
+			<string>Rua João Pessoa, nº70 - Centro</string>
+			<string>(032) 3252-7420</string>
+		</array>
+		<array>
+			<string>São João Del Rei</string>
+			<string>PROCON São João Del Rei</string>
+			<string>: Rua Antônio Claret da Silva, 599 – bairro Fábricas</string>
+			<string>(032) 3373-5474</string>
+		</array>
+		<array>
+			<string>São João Nepomuceno</string>
+			<string>PROCON São João Nepomuceno</string>
+			<string>Rua Joaquim Murtinho, 67 – Centro</string>
+			<string>(032) 3261-4686</string>
+		</array>
+		<array>
+			<string>São Lourenço</string>
+			<string>PROCON São Lourenço</string>
+			<string>Praça Duque de Caxias, 61, Centro</string>
+			<string>(035) 3332-3960</string>
+		</array>
+		<array>
+			<string>São Romão</string>
+			<string>PROCON São Romão</string>
+			<string>Rua Quintino Vargas, 337</string>
+			<string></string>
+		</array>
+		<array>
+			<string>São Sebastião do Paraíso</string>
+			<string>PROCON São Sebastião do Paraíso</string>
+			<string>Rua Pimenta de Pádua, 1237 – Centro</string>
+			<string>(035) 3539-1092</string>
+		</array>
+		<array>
+			<string>Sete Lagoas</string>
+			<string>PROCON Sete Lagoas</string>
+			<string>Av. Renato Azeredo, 1500 - 2º Andar SL 14 Terminal Rodoviário</string>
+			<string>(031) 3772-5140</string>
+		</array>
+		<array>
+			<string>Teófilo Otoni</string>
+			<string>PROCON Teófilo Otoni</string>
+			<string>Av. Luiz Boali, 230 - Centro</string>
+			<string>(033) 3522-4498</string>
+		</array>
+		<array>
+			<string>Timóteo</string>
+			<string>PROCON Timóteo</string>
+			<string>Rua 19 de Novembro, 121 – Centro</string>
+			<string>(031) 3848-3865</string>
+		</array>
+		<array>
+			<string>Três Corações</string>
+			<string>PROCON Três Corações</string>
+			<string>Rua Zilda Siginorelli Bonézio, s/n - Centro</string>
+			<string>(035) 3691-1112</string>
+		</array>
+		<array>
+			<string>Três Pontas</string>
+			<string>PROCON Três Pontas</string>
+			<string>Praça John Kenned, 82 – Centro</string>
+			<string>(035) 3266-2153</string>
+		</array>
+		<array>
+			<string>Ubá</string>
+			<string>PROCON Ubá</string>
+			<string>Rua Santa Cruz, 215</string>
+			<string>(032) 3539-6162</string>
+		</array>
+		<array>
+			<string>Uberaba</string>
+			<string>PROCON Uberaba</string>
+			<string>Rua São Sebastião, 322 - Centro</string>
+			<string>(034) 3333-7666</string>
+		</array>
+		<array>
+			<string>Uberlândia</string>
+			<string>PROCON Uberlândia</string>
+			<string>Av. João Pinheiro, 1417 – Bairro Aparecida</string>
+			<string>(034) 3291-1600</string>
+		</array>
+		<array>
+			<string>Unaí</string>
+			<string>PROCON Unaí</string>
+			<string>Av. Prefeito João Costa 263 - Centro</string>
+			<string>(038) 3677-1512</string>
+		</array>
+		<array>
+			<string>Varginha</string>
+			<string>PROCON Municipal de Varginha</string>
+			<string>Rua Presidente Antônio Carlos ,356 - Centro</string>
+			<string>(035) 3690-2146</string>
+		</array>
+		<array>
+			<string>Vazante</string>
+			<string>PROCON Vazante</string>
+			<string>Rua Alves Rosa, 255 - Centro - 2º andar</string>
+			<string>(034) 3813-3114</string>
+		</array>
+		<array>
+			<string>Viçosa</string>
+			<string>PROCON Viçosa</string>
+			<string>Rua Benjamim Araújo, 56 – Sala 115 - Centro</string>
+			<string>(031) 3892-5222</string>
+		</array>
+		<array>
+			<string>Visconde do Rio Branco</string>
+			<string>PROCON Visconde do Rio Branco</string>
+			<string>Rua Major Felicíssimo, 528 – Edifício Nur Olga – Térreo – Sala 03 - Centro</string>
+			<string>(032) 3559-1930</string>
+		</array>
+		<array>
+			<string>Bom Despacho</string>
+			<string>PROCON Bom Despacho</string>
+			<string>Marechal Floriano Peixoto, 40 - Centro</string>
+			<string>(037) 3521-2280</string>
+		</array>
+	</array>
+	<key>Paraná - PR</key>
+	<array>
+		<array>
+			<string>Curitiba</string>
+			<string>PROCON Curitiba</string>
+			<string>Rua Nadacir Brandt s/n – Centro</string>
+			<string>(041) 800411512</string>
+		</array>
+		<array>
+			<string>Apucarana</string>
+			<string>PROCON Apucarana</string>
+			<string>R. Lapa, 145 - sala 3</string>
+			<string>(043) 151</string>
+		</array>
+		<array>
+			<string>Arapongas</string>
+			<string>PROCON Arapongas</string>
+			<string>R. Uirapuru, 801 - Centro</string>
+			<string>(043) 3902-1306</string>
+		</array>
+		<array>
+			<string>Assis Chateaubriand</string>
+			<string>PROCON Assis Chateaubriand</string>
+			<string>Rua do Bosque, 805 - Centro</string>
+			<string>(044) 3528-2807</string>
+		</array>
+		<array>
+			<string>Astorga</string>
+			<string>PROCON Astorga</string>
+			<string>Rua Curitiba, 121</string>
+			<string>(044) 3234-6469</string>
+		</array>
+		<array>
+			<string>Bandeirantes</string>
+			<string>PROCON Bandeirantes</string>
+			<string>R. Pref. Moacyr Castanho, 1391</string>
+			<string>(043) 3542-4525</string>
+		</array>
+		<array>
+			<string>Cambé</string>
+			<string>PROCON Cambé</string>
+			<string>Rua França, 166</string>
+			<string>(043) 3174-2644</string>
+		</array>
+		<array>
+			<string>Campo Largo</string>
+			<string>PROCON Campo Largo</string>
+			<string>Av. do Centenário, 2535</string>
+			<string>(041) 3392-1200</string>
+		</array>
+		<array>
+			<string>Campo Mourão</string>
+			<string>PROCON Campo Mourão</string>
+			<string>Rua Francisco Ferreira Albuquerque, 1408 - Centro</string>
+			<string>(044) 3518-1117</string>
+		</array>
+		<array>
+			<string>Cascavel</string>
+			<string>PROCON Cascavel</string>
+			<string>Rua Rio de Janeiro, 704 - Centro</string>
+			<string>(045) 3902-1720</string>
+		</array>
+		<array>
+			<string>Chopinzinho</string>
+			<string>PROCON Chopinzinho</string>
+			<string>R. Santos Dumont, 4660 - CEOCA</string>
+			<string>(046) 3242-2467</string>
+		</array>
+		<array>
+			<string>Cianorte</string>
+			<string>PROCON Cianorte</string>
+			<string>Avenida Brasil, 213</string>
+			<string>(044) 3631-3044</string>
+		</array>
+		<array>
+			<string>Colorado</string>
+			<string>PROCON Colorado</string>
+			<string>Av. Brasil, 1250 1° andar</string>
+			<string>(044) 3323-3033</string>
+		</array>
+		<array>
+			<string>Cornélio Procópio</string>
+			<string>PROCON Cornélio Procópio</string>
+			<string>Av. Minas Gerais, 253 1° andar</string>
+			<string>(043) 3520-8030</string>
+		</array>
+		<array>
+			<string>Curitiba</string>
+			<string>PROCON ESTADUAL PR</string>
+			<string>Rua Alameda Cabral nº 184 - Centro</string>
+			<string>(041) 3219-7406</string>
+		</array>
+		<array>
+			<string>Dois Vizinhos</string>
+			<string>PROCON Dois Vizinhos</string>
+			<string>Av. Dedi Barichello Montagner, nº173</string>
+			<string>(046) 3536-4028</string>
+		</array>
+		<array>
+			<string>Enéas Marques</string>
+			<string>PROCON Enéas Marques</string>
+			<string>Av. Presidente Dutra, 200</string>
+			<string>(046) 3544-1344</string>
+		</array>
+		<array>
+			<string>Foz do Iguaçu</string>
+			<string>PROCON Foz do Iguaçu</string>
+			<string>Avenida Brasil, nº 1172</string>
+			<string>(045) 3901-3224</string>
+		</array>
+		<array>
+			<string>Francisco Beltrão</string>
+			<string>PROCON Francisco Beltrão</string>
+			<string>R. Palmas, 1010, Bl B, sala 26 – anexo a Rodoviária Municipal</string>
+			<string>(046) 3524-5063</string>
+		</array>
+		<array>
+			<string>Goioré</string>
+			<string>PROCON Goioré</string>
+			<string>Av. Amazonas, 455 – anexo ao Estádio Municipal</string>
+			<string>(044) 3522-2325</string>
+		</array>
+		<array>
+			<string>Guarapuava</string>
+			<string>PROCON Guarapuava</string>
+			<string>R. Brigadeiro Rocha, 2777</string>
+			<string>(042) 3621-3132</string>
+		</array>
+		<array>
+			<string>Irati</string>
+			<string>PROCON Irati</string>
+			<string>Rua Coronel Emílio Gomes, 22</string>
+			<string>(042) 3907-3150</string>
+		</array>
+		<array>
+			<string>Jacarezinho</string>
+			<string>PROCON Jacarezinho</string>
+			<string>Rua Antonio Lemos, 916</string>
+			<string>(043) 3911-3100</string>
+		</array>
+		<array>
+			<string>Jaguariaiva</string>
+			<string>PROCON Jaguariaiva</string>
+			<string>Av. Antonio Cunha, s/n – Rua da Cidadania Jaguar Center</string>
+			<string>(043) 3535-5593</string>
+		</array>
+		<array>
+			<string>Laranjeiras do Sul</string>
+			<string>PROCON Laranjeiras do Sul</string>
+			<string>Praça Rui Barbosa, nº 1</string>
+			<string>(042) 3635-8130</string>
+		</array>
+		<array>
+			<string>Londrina</string>
+			<string>PROCON Londrina</string>
+			<string>R. Mato Grosso, 299</string>
+			<string>(043) 3345-0396</string>
+		</array>
+		<array>
+			<string>Mandaguaçu</string>
+			<string>PROCON Mandaguaçu</string>
+			<string>Rua Nicola Stefano, 219 – Casa do Ministério Público e da Cidadania</string>
+			<string>(044) 3245-1990</string>
+		</array>
+		<array>
+			<string>Mandaguari</string>
+			<string>PROCON Mandaguari</string>
+			<string>Rua Interventor Manoel Ribas, 486</string>
+			<string>(044) 3233-3539</string>
+		</array>
+		<array>
+			<string>Maringá</string>
+			<string>PROCON Maringá</string>
+			<string>Rua Arthur Thomas, 806. Centro</string>
+			<string>(044) 3293-8150</string>
+		</array>
+		<array>
+			<string>Medianeira</string>
+			<string>PROCON Medianeira</string>
+			<string>Av. Brasília, 1.271 - 2º piso - Centro</string>
+			<string>(045) 3264-1789</string>
+		</array>
+		<array>
+			<string>Palmas</string>
+			<string>PROCON Palmas</string>
+			<string>Av. Clevelandia, 531 - Centro</string>
+			<string>(046) 3263-7000</string>
+		</array>
+		<array>
+			<string>Palmeira</string>
+			<string>PROCON Palmeira</string>
+			<string>R. Judite Santa Mulucelii, 765 Bloco 12</string>
+			<string>(042) 3909-5071</string>
+		</array>
+		<array>
+			<string>Paraná</string>
+			<string>PROCON Municipal de Candói</string>
+			<string>Av. Newton Marcondes de Oliveira, 2405, Centro-CEP: 85140-000</string>
+			<string>(042) 3638-1176</string>
+		</array>
+		<array>
+			<string>Paranaguá</string>
+			<string>PROCON Paranaguá</string>
+			<string>Rua Visconde Nacar nº 728 - Centro Histórico</string>
+			<string>(041) 3420 6006</string>
+		</array>
+		<array>
+			<string>Paranavaí</string>
+			<string>PROCON Paranavaí</string>
+			<string>R. Minas Gerais, 369</string>
+			<string>(044) 3902-1055</string>
+		</array>
+		<array>
+			<string>Pato Branco</string>
+			<string>PROCON Pato Branco</string>
+			<string>R. Iguaçu, 382 - Centro</string>
+			<string>(046) 3902-1289</string>
+		</array>
+		<array>
+			<string>Ponta Grossa</string>
+			<string>PROCON Ponta Grossa</string>
+			<string>Rua Visconde de Taunay, 950 - Ronda (TEL. 0800-645-1250)</string>
+			<string>(042) 3901-1800</string>
+		</array>
+		<array>
+			<string>Quatro Barras</string>
+			<string>PROCON Quatro Barras</string>
+			<string>Rua Dom Pedro II, 110 - Centro</string>
+			<string>(041) 3671-8806</string>
+		</array>
+		<array>
+			<string>Rio Negro</string>
+			<string>PROCON Rio Negro</string>
+			<string>Rua Juvenal Ferreira Pinto, nº 2070- Seminário</string>
+			<string>(047) 3642-4957</string>
+		</array>
+		<array>
+			<string>Rolândia</string>
+			<string>PROCON Rolândia</string>
+			<string>Av. Presidente Bernardes, 809 - Centro</string>
+			<string>(043) 3906-1028</string>
+		</array>
+		<array>
+			<string>São Mateus do Sul</string>
+			<string>PROCON São Mateus do Sul</string>
+			<string>R. Barão do Rio Branco, 431</string>
+			<string>(042) 3532-3131</string>
+		</array>
+		<array>
+			<string>Sarandi</string>
+			<string>PROCON Sarandi</string>
+			<string>Av. Dom Pedro I, 336 - Jardim Independencia</string>
+			<string>(044) 3905-1916</string>
+		</array>
+		<array>
+			<string>Sertanópolis</string>
+			<string>PROCON Sertanópolis</string>
+			<string>Av. Dr. Vacyr Gonçalves Pereira, 342 - Centro</string>
+			<string>(043) 3904-1611</string>
+		</array>
+		<array>
+			<string>Stº A. da Platina</string>
+			<string>PROCON Stº A. da Platina</string>
+			<string>Rua Rui Barbosa, 567/salas 212 e 213 - Ed. Palácio do Comércio</string>
+			<string>(043) 3534-9803</string>
+		</array>
+		<array>
+			<string>Telêmaco Borba</string>
+			<string>PROCON Telêmaco Borba</string>
+			<string>Rua Des. Edmundo Mercer Júnior, 449 - Centro</string>
+			<string>(042) 3273-6590</string>
+		</array>
+		<array>
+			<string>Toledo</string>
+			<string>PROCON Toledo</string>
+			<string>Rua Sete de Setembro, 1134</string>
+			<string>(045) 3277-7555</string>
+		</array>
+		<array>
+			<string>Umuarama</string>
+			<string>PROCON Umuarama</string>
+			<string>Rua Dr. Rui Ferraz de Carvalho, 4346 - Centro</string>
+			<string>(044) 3624-0805</string>
+		</array>
+		<array>
+			<string>União da Vitória</string>
+			<string>PROCON União da Vitória</string>
+			<string>Rua Cruz Machado, 205 - Centro</string>
+			<string>(042) 3521-1233</string>
+		</array>
+	</array>
+	<key>Paraíba - PB</key>
+	<array>
+		<array>
+			<string>Campina Grande</string>
+			<string>PROCON Campina Grande</string>
+			<string>Rua Afonso Campos , 304 2º andar - Centro</string>
+			<string>(083) 08002813180</string>
+		</array>
+		<array>
+			<string>João Pessoa</string>
+			<string>PROCON ESTADUAL PB</string>
+			<string>Parque Solon de Lucena, 234 - Centro</string>
+			<string>(083) 3218-6924</string>
+		</array>
+		<array>
+			<string>João Pessoa</string>
+			<string>PROCON João Pessoa</string>
+			<string>Av. Pedro I, nº 331 - Centro</string>
+			<string>(083) 3214-3042</string>
+		</array>
+	</array>
+	<key>Pará - PA</key>
+	<array>
+		<array>
+			<string>Bacarena</string>
+			<string>PROCON Bacarena</string>
+			<string>Trav. Santo Antonio, s/n, altos, sala 02 - Comercial</string>
+			<string>(091) 3753-1424</string>
+		</array>
+		<array>
+			<string>Belém</string>
+			<string>PROCON ESTADUAL PA</string>
+			<string>Avenida Almirante Barroso, 919 - Marco</string>
+			<string>(091) 3073-2824</string>
+		</array>
+		<array>
+			<string>Breves</string>
+			<string>PROCON Breves</string>
+			<string>Casa da Cidadania - altos - Praça Dário Furtado, 155</string>
+			<string>(091) 3783-3340</string>
+		</array>
+		<array>
+			<string>Castanhal</string>
+			<string>PROCON Castanhal</string>
+			<string>Rua Paes de Carvalho, s/n – Centro (prédio da Secretaria Municipal de Infra-Estrutura)</string>
+			<string>(091) 3711-2509</string>
+		</array>
+		<array>
+			<string>Marabá</string>
+			<string>PROCON Marabá</string>
+			<string>Folha 32 - Quadra 07 Lote 02 - Nova Marabá</string>
+			<string>(094) 3322-5708</string>
+		</array>
+		<array>
+			<string>Paragominas</string>
+			<string>PROCON Paragominas</string>
+			<string>Praça Célio Miranda, 10 – Centro (Prédio do SACI)</string>
+			<string>(091) 3729-8056</string>
+		</array>
+		<array>
+			<string>Parauapebas</string>
+			<string>PROCON Parauapebas</string>
+			<string>Rua Araguaia, nº 40 - Rio Verde</string>
+			<string>(094) 3346-7253</string>
+		</array>
+		<array>
+			<string>Rondon do Pará</string>
+			<string>PROCON Rondon do Pará</string>
+			<string>Rua Minas Gerais, nº582 - Centro</string>
+			<string>(094) 3326-4141</string>
+		</array>
+		<array>
+			<string>Santarém</string>
+			<string>PROCON Santarém</string>
+			<string>Av. Curuá-Uma, 350 - Santíssimo (Entre Borges Leal e Marechal Rondon)</string>
+			<string>(093) 3523-8274</string>
+		</array>
+	</array>
+	<key>Pernambuco - PE</key>
+	<array>
+		<array>
+			<string>Caruaru</string>
+			<string>PROCON Caruaru</string>
+			<string>Av. Vital de Negreiros, 109 - Centro</string>
+			<string>(081) 3727-1054</string>
+		</array>
+		<array>
+			<string>Recife</string>
+			<string>PROCON Recife (Expresso Cidadão)</string>
+			<string>Av. Caxangá, 2200 - Cordeiro(Parque de Exposições)</string>
+			<string>(081) 3445-7906</string>
+		</array>
+		<array>
+			<string>Recife</string>
+			<string>PROCON ESTADUAL PE</string>
+			<string>Avenida Conde da Boa Vista, 1410 – 7º Andar – Bairro Soledade</string>
+			<string>(081) 3181–7000</string>
+		</array>
+		<array>
+			<string>Timbaúba</string>
+			<string>PROCON Timbaúba</string>
+			<string>Rua Almirante Barroso, 72 - Centro</string>
+			<string>(081) 3631-1533</string>
+		</array>
+		<array>
+			<string>Vitória de Santo Antão</string>
+			<string>PROCON Vitória de Santo Antão</string>
+			<string>Rua do Estudante, 85 - Bairro do Estudante</string>
+			<string>(081) 3523-0012</string>
+		</array>
+	</array>
+	<key>Piauí - PI</key>
+	<array>
+		<array>
+			<string>Teresina</string>
+			<string>PROCON ESTADUAL PI</string>
+			<string>Rua Alvaro Mendes, 2294 - Centro</string>
+			<string>(086) 3216-4550</string>
+		</array>
+	</array>
+	<key>Rio Grande do Norte - RN</key>
+	<array>
+		<array>
+			<string>Alexandria</string>
+			<string>PROCON Alexandria</string>
+			<string>Rua Dom José Tomás, 345 - Centro</string>
+			<string>(084) 3381-5537</string>
+		</array>
+		<array>
+			<string>Apodi</string>
+			<string>PROCON Apodi</string>
+			<string>Rua Marechal Floriano, S/N - Centro</string>
+			<string>(084) 3333-2494</string>
+		</array>
+		<array>
+			<string>Caraúbas</string>
+			<string>PROCON Caraúbas</string>
+			<string>Tv. Miguel Camara, 22 - Praça Ubaldo Fernandes - Centro</string>
+			<string>(084) 3337-2597</string>
+		</array>
+		<array>
+			<string>Macaú</string>
+			<string>PROCON Macaú</string>
+			<string>Rua Martins Ferreira, 186 - Centro</string>
+			<string>(084) 3521-6474</string>
+		</array>
+		<array>
+			<string>Mossoró</string>
+			<string>Procon Mossoró</string>
+			<string>Rua Pedro Álvares CabraL, 01 ( CENTRO ADMINISTRATIVO)</string>
+			<string>(084) 3315-5049</string>
+		</array>
+		<array>
+			<string>Natal</string>
+			<string>PROCON Zona Norte</string>
+			<string>Av. Paulistana, 132 - Panatis</string>
+			<string>(084) 3232-6299</string>
+		</array>
+		<array>
+			<string>Natal</string>
+			<string>PROCON - Zona Sul</string>
+			<string>Av. Engenheiro Roberto Freire, 8790 - Praia Shopping - Ponta Negra</string>
+			<string>(084) 3232-7233</string>
+		</array>
+		<array>
+			<string>Natal</string>
+			<string>PROCON ESTADUAL RN</string>
+			<string>Av.Tavares de Lira, 109 - Palácio da Cidadania - Ribeira</string>
+			<string>(084) 3232-6770</string>
+		</array>
+		<array>
+			<string>Nova Cruz</string>
+			<string>PROCON Nova Cruz</string>
+			<string>Praça Dix-Sept-Rosado, 125 - Centro</string>
+			<string>(084) 3281-3256</string>
+		</array>
+		<array>
+			<string>Pau dos Ferros</string>
+			<string>PROCON Pau dos Ferros</string>
+			<string>Av. Independência, 1640 - Centro</string>
+			<string>(084) 3351-9835</string>
+		</array>
+		<array>
+			<string>Santa Cruz</string>
+			<string>PROCON Santa Cruz</string>
+			<string>Rua Trairi, 100 - Bairro 3 a 1</string>
+			<string>(084) 3291-6936</string>
+		</array>
+		<array>
+			<string>São José de Mipibu</string>
+			<string>PROCON São José de Mipibu</string>
+			<string>Praça Capitão José da Penha, 31 - Centro</string>
+			<string>(084) 3273-2449</string>
+		</array>
+		<array>
+			<string>São Paulo do Potengi</string>
+			<string>PROCON São Paulo do Potengi</string>
+			<string>Rua Bento Urbano, 139 - Centro</string>
+			<string>(084) 3251-5029</string>
+		</array>
+	</array>
+	<key>Rio Grande do Sul - RS</key>
+	<array>
+		<array>
+			<string>Dom Pedrito</string>
+			<string>COMDECON Dom Pedrito</string>
+			<string>Rua Borges de Medeiros esq com Bernardino Ângelo - s/nº - Praça General Osório</string>
+			<string>(053) 3243.3177</string>
+		</array>
+		<array>
+			<string>Santo Ângelo</string>
+			<string>COMDECON Santo Ângelo</string>
+			<string>Rua Antunes Ribas , 2002</string>
+			<string>(055) 3313-1060</string>
+		</array>
+		<array>
+			<string>Alegrete</string>
+			<string>PROCON Alegrete</string>
+			<string>Praça Getúlio Vargas, 409 - Centro</string>
+			<string>(055) 3961-1700</string>
+		</array>
+		<array>
+			<string>Bajé</string>
+			<string>PROCON Bagé</string>
+			<string>Rua Bento Goncalvez, 254</string>
+			<string>(053) 3242-1294</string>
+		</array>
+		<array>
+			<string>Balneário Pinhal</string>
+			<string>PROCON Balneário Pinhal</string>
+			<string>Av. Itália, nº 3074. Sl. 04 - Centro</string>
+			<string>(053) 3262-2009</string>
+		</array>
+		<array>
+			<string>Bento Gonçalves</string>
+			<string>PROCON Bento Gonçalves</string>
+			<string>Rua Cândido Costa, nº 65, Sl. 408 - Centro</string>
+			<string>(054) 3055-4460</string>
+		</array>
+		<array>
+			<string>Cacapava do Sul</string>
+			<string>PROCON Cacapava do Sul</string>
+			<string>Rua XV de Novembro, 1158 - Centro</string>
+			<string>(055) 3281-1988</string>
+		</array>
+		<array>
+			<string>Cachoeira do Sul</string>
+			<string>PROCON Cachoeira do Sul</string>
+			<string>Rua Sete de Setembro, 1040 - Centro</string>
+			<string>(051) 3723-0155</string>
+		</array>
+		<array>
+			<string>Cachoeirinha</string>
+			<string>PROCON Cachoeirinha</string>
+			<string>Av. Flores da Cunha, 1050/Sl 603 - Centro</string>
+			<string>(051) 3439-1036</string>
+		</array>
+		<array>
+			<string>Candiota</string>
+			<string>PROCON Candiota</string>
+			<string>Rua Ulisses Guimarães, 250 - Dário Lassence</string>
+			<string>(053) 3245-7118</string>
+		</array>
+		<array>
+			<string>Canoas</string>
+			<string>PROCON Canoas</string>
+			<string>Rua Gonçalves, 88/ Sl02 - Centro</string>
+			<string>(051) 3462-1630</string>
+		</array>
+		<array>
+			<string>Carazinho</string>
+			<string>PROCON Carazinho</string>
+			<string>Av. Flores da Cunha, 1264 - Centro</string>
+			<string>(054) 3229-6433</string>
+		</array>
+		<array>
+			<string>Caxias do Sul</string>
+			<string>PROCON Caxias do Sul</string>
+			<string>Rua Visconde de Pelotas, 449 - Centro</string>
+			<string>(054) 3214-2948</string>
+		</array>
+		<array>
+			<string>Cerro Largo</string>
+			<string>CODECON Cerro Largo</string>
+			<string>Rua Coronel Jorge Frantz, 675</string>
+			<string>(054) 3359-1905</string>
+		</array>
+		<array>
+			<string>Cruz Alta</string>
+			<string>PROCON Cruz Alta</string>
+			<string>Rua Venâncio Aires, 1611 - Centro</string>
+			<string>(055) 3322-8176</string>
+		</array>
+		<array>
+			<string>Erechim</string>
+			<string>COMDECON Erechim</string>
+			<string>Rua Salgado Filho, 52- Centro</string>
+			<string>(054) 3520-7098</string>
+		</array>
+		<array>
+			<string>Estância Velha</string>
+			<string>PROCON Estância Velha</string>
+			<string>Rua Artur Leopoldo Ritter,296 - Centro</string>
+			<string>(051) 3561-1919</string>
+		</array>
+		<array>
+			<string>Farroupilha</string>
+			<string>PROCON Farroupilha</string>
+			<string>Praça Emancipação, s/n (Secretaria de Administracão)</string>
+			<string>(054) 3268-2282</string>
+		</array>
+		<array>
+			<string>Garibaldi</string>
+			<string>PROCON Garibaldi</string>
+			<string>Rua Dante Grossi, nº 330, 2ºandar - Centro</string>
+			<string>(054) 3464-0260</string>
+		</array>
+		<array>
+			<string>Gravataí</string>
+			<string>PROCON Gravataí</string>
+			<string>Rua Irmão Geraldo,141/Quarto andar</string>
+			<string>(051) 3497-6495</string>
+		</array>
+		<array>
+			<string>Horizontina</string>
+			<string>PROCON Horizontina</string>
+			<string>Rua Balduíno Schineider - 375 - Centro</string>
+			<string>(055) 3537-7504</string>
+		</array>
+		<array>
+			<string>Ibirubá</string>
+			<string>PROCON Ibirubá</string>
+			<string>Rua Tiradentes, 700 (Prefeitura Municipal de Ibirubá)</string>
+			<string>(054) 3324-8500</string>
+		</array>
+		<array>
+			<string>Ijuí</string>
+			<string>PROCON Ijuí</string>
+			<string>Rua do Comércio, nº 525 - Centro</string>
+			<string>(055) 3331-8227</string>
+		</array>
+		<array>
+			<string>Itaqui</string>
+			<string>COMDECON Itaqui</string>
+			<string>Av. Independência, n° 306 - Centro</string>
+			<string>(055) 3433-4111</string>
+		</array>
+		<array>
+			<string>Jaguarão</string>
+			<string>PROCON Jaguarão</string>
+			<string>Praça Dr. Alcides Marques, 89 - Centro</string>
+			<string>(051) 3261-5100</string>
+		</array>
+		<array>
+			<string>Lajeado</string>
+			<string>CODECON Lajeado</string>
+			<string>Rua Júlio May, n° 242 - Centro</string>
+			<string>(051) 3982-1067</string>
+		</array>
+		<array>
+			<string>Marau</string>
+			<string>PROCON Marau</string>
+			<string>Rua Lauri Ricielli Bortolon, n° 320, Sl 110 - Centro</string>
+			<string>(054) 3342-4468</string>
+		</array>
+		<array>
+			<string>Montenegro</string>
+			<string>COMDECON Montenegro</string>
+			<string>Rua João Pessoa, 1299 - Centro</string>
+			<string>(051) 3632.3122</string>
+		</array>
+		<array>
+			<string>Novo Hamburgo</string>
+			<string>PROCON Novo Hamburgo</string>
+			<string>Rua David Canabarro, 20, 2º Andar - Centro</string>
+			<string>(051) 3582-3340</string>
+		</array>
+		<array>
+			<string>Osório</string>
+			<string>PROCON Osório</string>
+			<string>Rua Jorge Dariva, 1251 , 3ºandar</string>
+			<string>(051) 3663.8200</string>
+		</array>
+		<array>
+			<string>Panambi</string>
+			<string>PROCON Panambi</string>
+			<string>Rua Alfredo Brenner, 81, 2º Andar - Centro</string>
+			<string>(055) 3375-8090</string>
+		</array>
+		<array>
+			<string>Parobé</string>
+			<string>PROCON Parobé</string>
+			<string>Av. Taquara, nº 521 - Bairro Guarujá</string>
+			<string>(051) 3953-1084</string>
+		</array>
+		<array>
+			<string>Parobé</string>
+			<string>PROCON Parobé</string>
+			<string>Av. Taquara, nº 521 - Bairro Guarujá</string>
+			<string>(051) 3953-1084</string>
+		</array>
+		<array>
+			<string>Passo Fundo</string>
+			<string>EDECON Passo Fundo</string>
+			<string>Av. Brasil, n° 758 - Centro</string>
+			<string>(054) 3584-1155</string>
+		</array>
+		<array>
+			<string>Pelotas</string>
+			<string>PROCON Pelotas</string>
+			<string>Rua Professor Araújo, 1.653</string>
+			<string>(053) 3284-4477</string>
+		</array>
+		<array>
+			<string>Porto Alegre</string>
+			<string>PROCON Porto Alegre</string>
+			<string>Rua dos Andradas, 686 – Centro</string>
+			<string>(051) 3289-1777</string>
+		</array>
+		<array>
+			<string>Porto Alegre</string>
+			<string>PROCON ESTADUAL RS</string>
+			<string>Rua 07 de Setembro, 713 - Bairro Centro</string>
+			<string>(051) 3286-8200</string>
+		</array>
+		<array>
+			<string>Quaraí</string>
+			<string>PROCON Quaraí</string>
+			<string>Rua Duque de Caxias, nº 1080</string>
+			<string>(055) 3423-1101</string>
+		</array>
+		<array>
+			<string>Rio Grande</string>
+			<string>PROCON Rio Grande</string>
+			<string>Rua Mal. Floriano Peixoto, n° 248 – esq. Benjamim.</string>
+			<string>(053) 3035-8499</string>
+		</array>
+		<array>
+			<string>Rosário do Sul</string>
+			<string>COMDECON Rosário do Sul</string>
+			<string>Rua Amaro Soto, n° 2718</string>
+			<string>(055) 3231-2241</string>
+		</array>
+		<array>
+			<string>Santa Bárbara do Sul</string>
+			<string>PROCON Santa Bárbara do Sul</string>
+			<string>Avenida Eduardo de Brito, 101</string>
+			<string>(055) 3372.3200</string>
+		</array>
+		<array>
+			<string>Santa Bárbara do Sul</string>
+			<string>COMDECON Santa Bárbara do Sul</string>
+			<string>Av. Eduardo de Brito, nº 101 - Prédio da Prefeitura - Padroeira</string>
+			<string>(055) 3372-3223</string>
+		</array>
+		<array>
+			<string>Santa Bárbara do Sul</string>
+			<string>COMDECON Santa Bárbara do Sul</string>
+			<string>Av. Eduardo de Brito, nº 101 - Prédio da Prefeitura - Padroeira</string>
+			<string>(055) 3372-3223</string>
+		</array>
+		<array>
+			<string>Santa Cruz do Sul</string>
+			<string>EDECON Santa Cruz do Sul</string>
+			<string>Rua Coronel. Oscar Jost, 1551/ Sala 221</string>
+			<string>(051) 3711-4548</string>
+		</array>
+		<array>
+			<string>Santa Maria</string>
+			<string>PROCON Santa Maria</string>
+			<string>Rua Silva Jardim, n° 1175</string>
+			<string>(055) 3217-1286</string>
+		</array>
+		<array>
+			<string>Santa Rosa</string>
+			<string>CONDECON Santa Rosa</string>
+			<string>Av. Expecionário Webber, 2983 - Cruzeiro</string>
+			<string>(055) 3511-5100</string>
+		</array>
+		<array>
+			<string>Santa Vitória do Palmar</string>
+			<string>PROCON Santa Vitória do Palmar</string>
+			<string>Rua Mirapalhete, n° 1179 - Centro</string>
+			<string>(053) 3363-8000</string>
+		</array>
+		<array>
+			<string>Santana do Livramento</string>
+			<string>COMDECON Santana do Livramento</string>
+			<string>Rua Conde de Porto Alegre, 1034 - Centro</string>
+			<string>(055) 3243-7177</string>
+		</array>
+		<array>
+			<string>Santiago</string>
+			<string>PROCON Santiago</string>
+			<string>Rua Tito Beccon, 1754</string>
+			<string>(055) 3251-2844</string>
+		</array>
+		<array>
+			<string>Santo Ângelo</string>
+			<string>COMDECON Santo Ângelo</string>
+			<string>Rua Antunes Ribas, n° 2002 - Centro</string>
+			<string>(055) 3313-1060</string>
+		</array>
+		<array>
+			<string>Santo Antônio da Patrulha</string>
+			<string>EDECON Santo Antônio da Patrulha</string>
+			<string>Av.Borges de Medeiros, 456 - Centro</string>
+			<string>(051) 3662-4000</string>
+		</array>
+		<array>
+			<string>São Borja</string>
+			<string>PROCON São Borja</string>
+			<string>Rua Cândido Falcão - 1001 - Centro</string>
+			<string>(055) 3430-4203</string>
+		</array>
+		<array>
+			<string>São Gabriel</string>
+			<string>EMDC São Gabriel</string>
+			<string>Av.Julio de Castilhos, n° 85 – Centro</string>
+			<string>(055) 3237-2053</string>
+		</array>
+		<array>
+			<string>São Leopoldo</string>
+			<string>PROCON São Leopoldo</string>
+			<string>Rua Dom João Becker, 665/ SL17 - Centro(Estação Rodoviária)</string>
+			<string>(051) 3554-0071</string>
+		</array>
+		<array>
+			<string>São Luiz Gonzaga</string>
+			<string>PROCON São Luiz Gonzaga</string>
+			<string>Rua Venâncio Aires, 2438, Centro</string>
+			<string>(055) 3352-3199</string>
+		</array>
+		<array>
+			<string>São Marcos</string>
+			<string>PROCON São Marcos</string>
+			<string>Av. Venâncio Aires, n° 720 - Centro</string>
+			<string>(054) 3291-9927</string>
+		</array>
+		<array>
+			<string>São Sepé</string>
+			<string>PROCON São Sepé</string>
+			<string>Rua Plácido Chiquiti, n° 900 - Centro</string>
+			<string>(055) 3233-1570</string>
+		</array>
+		<array>
+			<string>Taquara</string>
+			<string>PROCON Taquara</string>
+			<string>Av. Júlio de Castilhos - 2849 sala 02 – Centro</string>
+			<string>(051) 3541-9209</string>
+		</array>
+		<array>
+			<string>Taquari</string>
+			<string>CONDECON Taquari</string>
+			<string>Rua Osvaldo Aranha, 1790, Centro</string>
+			<string>(051) 3653-3080</string>
+		</array>
+		<array>
+			<string>Torres</string>
+			<string>PROCON Torres</string>
+			<string>Rua Júlio de Castilhos - Centro</string>
+			<string>(051) 3664-1411</string>
+		</array>
+		<array>
+			<string>Tramandaí</string>
+			<string>PROCON Tramandaí</string>
+			<string>Av. Igreja, n° 346 - Centro</string>
+			<string>(051) 3661-1401</string>
+		</array>
+		<array>
+			<string>Tupanciretã</string>
+			<string>PROCON Tupanciretã</string>
+			<string>Rua Expedicionário João Moreira Alberto, n° 201 - Centro</string>
+			<string>(055) 3272-1811</string>
+		</array>
+		<array>
+			<string>Uruguaiana</string>
+			<string>PROCON Uruguaiana</string>
+			<string>Rua XV de Novembro, 2093</string>
+			<string>(055) 3412-6669</string>
+		</array>
+		<array>
+			<string>Vacaria</string>
+			<string>PROCON Vacaria</string>
+			<string>Rua: Silveira Martins, n° 447 - Centro</string>
+			<string>(054) 3232-5747</string>
+		</array>
+		<array>
+			<string>Venâncio Aires</string>
+			<string>PROCON Venâncio Aires</string>
+			<string>Rua Visconde do Rio Branco, 820</string>
+			<string>(051) 3983-1003</string>
+		</array>
+	</array>
+	<key>Rio de Janeiro - RJ</key>
+	<array>
+		<array>
+			<string>Barra Mansa</string>
+			<string>PROCON Barra Mansa</string>
+			<string>Rua Luís Ponce, 263 - Centro</string>
+			<string>(024) 2106-3461</string>
+		</array>
+		<array>
+			<string>Belford Roxo</string>
+			<string>PROCON Belford Roxo</string>
+			<string>Rua Florípes Rocha, 378 - Centro</string>
+			<string>(021) 2662-2008</string>
+		</array>
+		<array>
+			<string>Cabo Frio</string>
+			<string>PROCON Cabo Frio</string>
+			<string>Rua Florisbela Rosa da Penha, 292 - Braga</string>
+			<string>(022) 2643-5831</string>
+		</array>
+		<array>
+			<string>Campo Grande</string>
+			<string>PROCON Campo Grande</string>
+			<string>Rua Amaral Costa, nº 360 - Centro Universitário Moacir Sreder Bastos</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Campos dos Goitacaze</string>
+			<string>PROCON Campos dos Goitacaze</string>
+			<string>Avenida José Alves de Azevedo nº 236 - Centro</string>
+			<string>(022) 2725-6474/2725-0906</string>
+		</array>
+		<array>
+			<string>Duque de Caxias</string>
+			<string>PROCON Duque de Caxias</string>
+			<string>Praça Roberto Silveira, 31/2º andar- Centro</string>
+			<string>(021) 2772-7200</string>
+		</array>
+		<array>
+			<string>Macaé</string>
+			<string>PROCON Macaé</string>
+			<string>Av. Presidente Feliciano Sodré N° 466 / 5° andar</string>
+			<string>(022) 2759-0801</string>
+		</array>
+		<array>
+			<string>Maricá</string>
+			<string>PROCON Maricá</string>
+			<string>Rua Álvares de Castro, 82 / sl. 204 e 205</string>
+			<string>(021) 26341342</string>
+		</array>
+		<array>
+			<string>Niterói</string>
+			<string>CODECON Niterói</string>
+			<string>Av Ernani Amaral Peixoto, nº625 - Centro</string>
+			<string>(021) 2613-6705</string>
+		</array>
+		<array>
+			<string>Niterói</string>
+			<string>PROCON RJ Unidade Niterói</string>
+			<string>Rua Visconde de Sepeteiba, 519/Térreo - Centro</string>
+			<string>(021) 151</string>
+		</array>
+		<array>
+			<string>Nova Iguaçu</string>
+			<string>PROCON Nova Iguaçu</string>
+			<string>Rua Bernadino de Mello,2075 Sobreloja</string>
+			<string>(021) 2667-8290</string>
+		</array>
+		<array>
+			<string>Paraíba do Sul</string>
+			<string>PROCON Paraíba do Sul</string>
+			<string>Praça Garcia Paes Leme, 96 - Centro</string>
+			<string>(024) 2263-7400</string>
+		</array>
+		<array>
+			<string>Petrópolis</string>
+			<string>PROCON Petrópolis</string>
+			<string>Praça da Inconfidência, 5. Centro</string>
+			<string>(024) 2246-8469</string>
+		</array>
+		<array>
+			<string>Resende</string>
+			<string>PROCON Resende</string>
+			<string>Rua Ezequiel Freire, 55</string>
+			<string>(024) 3354-2954</string>
+		</array>
+		<array>
+			<string>Rio de Janeiro</string>
+			<string>PROCON ESTADUAL RJ</string>
+			<string>Rua da Ajuda, 5/ Sub-solo - Centro</string>
+			<string>(021) 151</string>
+		</array>
+		<array>
+			<string>Rio de Janeiro</string>
+			<string>PROCON RJ - Unidade Central do Brasil</string>
+			<string>Praça Cristiano Ottoni S/N subsolo - Edificio D. Pedro II</string>
+			<string>(021) 151</string>
+		</array>
+		<array>
+			<string>São Fidélis</string>
+			<string>PROCON São Fidélis</string>
+			<string>Av. 7 de setembro, nº317 - Centro</string>
+			<string>(022) 2758-1219</string>
+		</array>
+		<array>
+			<string>São João de Meriti</string>
+			<string>PROCON São João de Meriti</string>
+			<string>Rua César Lemos, 22/Térreo Lojas 5 e 6 - Vilar dos Teles</string>
+			<string>(021) 3668-1000</string>
+		</array>
+		<array>
+			<string>Teresóplis</string>
+			<string>PROCON Teresópolis</string>
+			<string>Avenida Feliciano Sodré, 675 - 1º andar</string>
+			<string>(021) 2742-3352</string>
+		</array>
+		<array>
+			<string>Três Rios</string>
+			<string>PROCON Três Rios</string>
+			<string>Av Ruy Barbosa, 176 Praça JK - Centro</string>
+			<string>(024) 2252-2165</string>
+		</array>
+		<array>
+			<string>Volta Redonda</string>
+			<string>PROCON Volta Redonda</string>
+			<string>Av. Paulo de Frontin, nº 349 , lojas 10 e 11</string>
+			<string>(024) 3347-5838</string>
+		</array>
+	</array>
+	<key>Rondônia - RO</key>
+	<array>
+		<array>
+			<string>Porto Velho</string>
+			<string>PROCON ESTADUAL RO</string>
+			<string>Travessa Guaporé, 4º andar, Sl 405 - Ed. Rio madeira - Centro</string>
+			<string>(069) 3216-5930</string>
+		</array>
+		<array>
+			<string>Cacoal</string>
+			<string>Procon Municipal de Cacoal</string>
+			<string>Av. Cuiabá, 2165 - Centro</string>
+			<string>(069) 3443-6311</string>
+		</array>
+		<array>
+			<string>Ji</string>
+			<string>PROCON Ji-Paraná</string>
+			<string>Rua Martin Costa, 249 - Vila Jotão / Shopping Cidadão</string>
+			<string>(069) 3423–4564</string>
+		</array>
+		<array>
+			<string>Vilhena</string>
+			<string>PROCON Vilhena</string>
+			<string>Avenida Celso Mazuti, 13222 - Jd Eldorado</string>
+			<string>(069) 3322-4941</string>
+		</array>
+	</array>
+	<key>Roraima - RR</key>
+	<array>
+		<array>
+			<string>Boa Vista</string>
+			<string>PROCON Programa Estadual de RR</string>
+			<string>Rua Alecrim de Souza Mota, 164 Bairro: 31 de Março</string>
+			<string>(095) 2224-1330</string>
+		</array>
+	</array>
+	<key>Santa Catarina - SC</key>
+	<array>
+		<array>
+			<string>Araranguá</string>
+			<string>PROCON Araranguá</string>
+			<string>Rua Dr. Virgulino de Queiroz, 200 - Centro</string>
+			<string>(048) 3521-0926</string>
+		</array>
+		<array>
+			<string>Armazém</string>
+			<string>PROCON Armazém</string>
+			<string>Rua Arnoldo Michels (anexo sindicato rural) s/n - Centro</string>
+			<string>(048) 3645-1368</string>
+		</array>
+		<array>
+			<string>Camboriú</string>
+			<string>PROCON Balneário Camboriú</string>
+			<string>Rua 916, esquina com 4ª Avenida - Centro</string>
+			<string>(048) 3366-6144</string>
+		</array>
+		<array>
+			<string>Biguaçú</string>
+			<string>PROCON Biguaçú</string>
+			<string>Rua Lúcio Born, 12 - Centro / Ed. São João Evangelista - 1º andar</string>
+			<string>(048) 3285-1076</string>
+		</array>
+		<array>
+			<string>Blumenau</string>
+			<string>PROCON Blumenau</string>
+			<string>Rua Vitor Konder, 60 - Centro</string>
+			<string>151</string>
+		</array>
+		<array>
+			<string>Braço do Norte</string>
+			<string>PROCON Braço do Norte</string>
+			<string>Rua Senador Nereu Ramos, nº 1830</string>
+			<string>(048) 3658-7674</string>
+		</array>
+		<array>
+			<string>Brusque</string>
+			<string>PROCON Brusque</string>
+			<string>Rua Prefeito Germano Schaefer, Torre Central Terminal Urbano - Centro</string>
+			<string>(047) 3351-8936</string>
+		</array>
+		<array>
+			<string>Caçador</string>
+			<string>PROCON Caçador</string>
+			<string>Av. Salgado Filho, 33 - Centro</string>
+			<string>(049) 3563-1097</string>
+		</array>
+		<array>
+			<string>Camboriu</string>
+			<string>PROCON Camboriu</string>
+			<string>Rua 916, esquina com 4ª Avenida - Centro</string>
+			<string>(047) 3366-6144</string>
+		</array>
+		<array>
+			<string>Campo Erê</string>
+			<string>PROCON Campo Erê</string>
+			<string>Rua Dona Terezinha, 816 - Centro</string>
+			<string>(049) 3655-1793</string>
+		</array>
+		<array>
+			<string>Campos Novos</string>
+			<string>PROCON Campos Novos (Núcleo Regional)</string>
+			<string>Rua Cel. Farrapo, 1119 - Centro</string>
+			<string>(049) 3544-0209</string>
+		</array>
+		<array>
+			<string>Canoinhas</string>
+			<string>PROCON Canoinhas</string>
+			<string>Rua Coronel Albuquerque (esquina c/ a Rua Getúlio Vargas), s/nº - Centro</string>
+			<string>(047) 3624-0927</string>
+		</array>
+		<array>
+			<string> Capinzal</string>
+			<string>PROCON Capinzal</string>
+			<string>Rua Dona Linda Santos, nº 279</string>
+			<string>(049) 3555-3526</string>
+		</array>
+		<array>
+			<string>Chapecó</string>
+			<string>PROCON Chapecó</string>
+			<string>Travessa Ilma Rosa de Nês, 91D (Casa da Cidadania) - Centro</string>
+			<string>(049) 3319-1100</string>
+		</array>
+		<array>
+			<string>Concórdia</string>
+			<string>PROCON Concórdia</string>
+			<string>Rua do Comércio, 408 - Centro</string>
+			<string>(049) 3442-2423</string>
+		</array>
+		<array>
+			<string>Correia Pinto</string>
+			<string>PROCON Correia Pinto</string>
+			<string>Av. Tacredo Neves, 835, sala 06 - antigo Hotel Serrano</string>
+			<string>(049) 3243-3965</string>
+		</array>
+		<array>
+			<string>Criciúma</string>
+			<string>PROCON Criciúma</string>
+			<string>Rua José Bonifácio, 108 - Centro</string>
+			<string>(048) 3445-8511</string>
+		</array>
+		<array>
+			<string>Curitibanos</string>
+			<string>PROCON Curitibanos</string>
+			<string>Rua Cel. Vidal Ramos, s/nº, anexo à Rodoviária</string>
+			<string>(049) 3241-0758</string>
+		</array>
+		<array>
+			<string>Florianópolis</string>
+			<string>PROCON Florianópolis - Municipal</string>
+			<string>Rua Deodoro, 209 - Centro</string>
+			<string>(048) 3251-4400</string>
+		</array>
+		<array>
+			<string>Florianópolis</string>
+			<string>PROCON ESTADUAL SC</string>
+			<string>Rua Victor Meirelles, 53 - Centro</string>
+			<string>(048) 3224-4676</string>
+		</array>
+		<array>
+			<string>Fraiburgo</string>
+			<string>PROCON Fraiburgo</string>
+			<string>Rua Arnoldo Freiy, 166 - Centro</string>
+			<string>(049) 3246-2046</string>
+		</array>
+		<array>
+			<string> Gaspar</string>
+			<string>PROCON Gaspar</string>
+			<string>Rua Cel. Aristiliano Ramos, 435 - Praça Getúlio Vargas</string>
+			<string>(047) 3331-6390</string>
+		</array>
+		<array>
+			<string> Içara</string>
+			<string>PROCON Içara</string>
+			<string>Rua São Donato, 498, Sl 2 - Centro</string>
+			<string>(048) 3432-5299</string>
+		</array>
+		<array>
+			<string> Imbituba</string>
+			<string>PROCON Imbituba</string>
+			<string>Av. Dr. João Rinsa nº 601 - Centro</string>
+			<string>(048) 3255-2418</string>
+		</array>
+		<array>
+			<string>Indaial</string>
+			<string>PROCON Indaial</string>
+			<string>Rua Expedicionário Hercílio Gonçalves, 447 – Nações</string>
+			<string>(047) 3333-2098</string>
+		</array>
+		<array>
+			<string>Ipumirim</string>
+			<string>PROCON Ipumirim</string>
+			<string>Av. Dom Pedro II, nº 230</string>
+			<string>(049) 3438-1026</string>
+		</array>
+		<array>
+			<string>Itajaí</string>
+			<string>PROCON Itajaí</string>
+			<string>Av. Joca Brandão, 655 - Centro</string>
+			<string>(047) 3349-6147</string>
+		</array>
+		<array>
+			<string>Itapema</string>
+			<string>PROCON Itapema</string>
+			<string>Av. Nereu Ramos, 134 - Centro</string>
+			<string>(047) 3368-3032</string>
+		</array>
+		<array>
+			<string>Ituporanga</string>
+			<string>PROCON Ituporanga</string>
+			<string>Rua 14 de Fevereiro, s/nº (ao lado do Fórum )</string>
+			<string>(047) 3533-5302</string>
+		</array>
+		<array>
+			<string>Jaraguá do Sul</string>
+			<string>PROCON Jaraguá do Sul</string>
+			<string>Rua Donaldo Gehring, 175 - Centro</string>
+			<string>(047) 3275-3237</string>
+		</array>
+		<array>
+			<string>Joaçaba</string>
+			<string>PROCON Joaçaba</string>
+			<string>Rua Tiradentes, 170 - Centro</string>
+			<string>(049) 3521-3969</string>
+		</array>
+		<array>
+			<string>Joinville</string>
+			<string>PROCON Joinville</string>
+			<string>Rua Dona Francisca, 1283</string>
+			<string>(047) 3473-0272</string>
+		</array>
+		<array>
+			<string>Lages</string>
+			<string>PROCON Lages</string>
+			<string>Rua João Ribeiro, 164 - Centro</string>
+			<string>(049) 3222-3921</string>
+		</array>
+		<array>
+			<string>Laguna</string>
+			<string>PROCON Laguna</string>
+			<string>Av. Colombo Machado Salles , 145/ Shopping Tordesilhas - Centro</string>
+			<string>(048) 3646-0833</string>
+		</array>
+		<array>
+			<string>Mafra</string>
+			<string>PROCON Mafra</string>
+			<string>Rua Mal. Floriano Peixoto, 85 - Centro</string>
+			<string>(047) 3642-4378</string>
+		</array>
+		<array>
+			<string>Massaranduba</string>
+			<string>PROCON Massaranduba</string>
+			<string>Rua 11 de Novembro, nº 2765 - Centro</string>
+			<string>(047) 3379-4626</string>
+		</array>
+		<array>
+			<string>Navegantes</string>
+			<string>PROCON Navegantes</string>
+			<string>Rua Arnaldo Passos, s/nº - Anexo ao Ginásio de Esportes - Centro</string>
+			<string>(047) 3319-0368</string>
+		</array>
+		<array>
+			<string>Palhoça</string>
+			<string>PROCON Palhoça</string>
+			<string>Av. Barão do Rio Branco, nº 235 - Centro</string>
+			<string>(048) 3242-1512</string>
+		</array>
+		<array>
+			<string>Penha</string>
+			<string>PROCON Penha</string>
+			<string>Av. Eugênio Krause, s/nº</string>
+			<string>(047) 3345-8645</string>
+		</array>
+		<array>
+			<string>Pomerode</string>
+			<string>PROCON Pomerode</string>
+			<string>Rua XV de Novembro, 525 - Centro</string>
+			<string>(047) 3387-7227</string>
+		</array>
+		<array>
+			<string>Porto Belo</string>
+			<string>PROCON Porto Belo</string>
+			<string>Av. Governador Celso Ramos, nº 2986 - Centro</string>
+			<string>(047) 3369-5623</string>
+		</array>
+		<array>
+			<string>Porto União</string>
+			<string>PROCON Porto União</string>
+			<string>Rua Padre Anchieta, 126 - Centro</string>
+			<string>(042) 3523-7217</string>
+		</array>
+		<array>
+			<string>Rio do Sul</string>
+			<string>PROCON Rio do Sul</string>
+			<string>Calçadão Osny José Gonçalves, 11/sala 101</string>
+			<string>(047) 3531-1212</string>
+		</array>
+		<array>
+			<string>Rio Negrinho</string>
+			<string>PROCON Rio Negrinho</string>
+			<string>Rua Paulo Boehn, nº 252 – Centro</string>
+			<string>(047) 3644-4014</string>
+		</array>
+		<array>
+			<string>São Bento do Sul</string>
+			<string>PROCON São Bento do Sul</string>
+			<string>Rua Jorge Lacerda, 75 - Centro</string>
+			<string>(047) 3634-1001</string>
+		</array>
+		<array>
+			<string>São Francisco do Sul</string>
+			<string>PROCON São Francisco do Sul</string>
+			<string>Praça Getúlio Vargas, 320 - Centro</string>
+			<string>(047) 3444-2052</string>
+		</array>
+		<array>
+			<string>São Joaquim</string>
+			<string>PROCON São Joaquim</string>
+			<string>Praça Cel. João Ribeiro , 01 - Centro</string>
+			<string>(049) 3233-0943</string>
+		</array>
+		<array>
+			<string>São José</string>
+			<string>PROCON São José</string>
+			<string>Rua Irmãos Vieira, nº 20 - Campinas</string>
+			<string>(048) 3259-6910</string>
+		</array>
+		<array>
+			<string>São Miguel do Oeste</string>
+			<string>PROCON São Miguel do Oeste</string>
+			<string>Rua Almirante Barroso, 305 - Centro</string>
+			<string>(049) 3622-8380</string>
+		</array>
+		<array>
+			<string>Seara</string>
+			<string>PROCON Seara</string>
+			<string>Av. Anita Garibaldi, nº 527</string>
+			<string>(049) 3452-0110</string>
+		</array>
+		<array>
+			<string>Tijucas</string>
+			<string>PROCON Tijucas</string>
+			<string>Rua Jacob Lameu Tavares s/nº - Piso Superior da Rodoviária</string>
+			<string>(048) 3263-6378</string>
+		</array>
+		<array>
+			<string>Timbó</string>
+			<string>PROCON Timbó</string>
+			<string>Rua Júlio Scheidemantel s/nº - Casa da Cidadania</string>
+			<string>(047) 3382-3550</string>
+		</array>
+		<array>
+			<string>Tubarão</string>
+			<string>PROCON Tubarão</string>
+			<string>Rua São Manoel, 140 (Casa da Cidadania) - Centro</string>
+			<string>(048) 3621-9068</string>
+		</array>
+		<array>
+			<string>Urussanga</string>
+			<string>PROCON Urussanga</string>
+			<string>Rua João Maria Cancelier, Bairro da Estação (Casa da Cidadania)</string>
+			<string>(048) 3465-2620</string>
+		</array>
+		<array>
+			<string>Xanxerê</string>
+			<string>PROCON Xanxerê</string>
+			<string>Rua Papa João XXIII, nº 715</string>
+			<string>(049) 3433-6379</string>
+		</array>
+		<array>
+			<string>Xaxim</string>
+			<string>PROCON Xaxim</string>
+			<string>Rua Candido Testen, 789</string>
+			<string>(049) 3353-5453</string>
+		</array>
+	</array>
+	<key>Sergipe - SE</key>
+	<array>
+		<array>
+			<string>Aracaju</string>
+			<string>PROCON ESTADUAL SE</string>
+			<string>Rua Santa Luzia, 602 - Centro</string>
+			<string>(079) 3211-3383</string>
+		</array>
+	</array>
+	<key>São Paulo - SP</key>
+	<array>
+		<array>
+			<string>Adamantina</string>
+			<string>PROCON Adamantina</string>
+			<string>Rua Osvaldo Cruz, 262 - 4º Andar</string>
+			<string>(018) 3521-4544</string>
+		</array>
+		<array>
+			<string>Aguaí</string>
+			<string>PROCON Aguaí</string>
+			<string>Praça Tancredo Neves, 33</string>
+			<string>(019) 3652-1132</string>
+		</array>
+		<array>
+			<string>Altinópolis</string>
+			<string>PROCON Altinópolis</string>
+			<string>Coronel Joaquim Alberto, 10 - Centro</string>
+			<string>(016) 3665-2885</string>
+		</array>
+		<array>
+			<string>Americana</string>
+			<string>PROCON Americana</string>
+			<string>Rua Panamá, 40 - Vila Paraíso</string>
+			<string>(019) 3461-1822</string>
+		</array>
+		<array>
+			<string>Amparo</string>
+			<string>PROCON Amparo</string>
+			<string>Av. Bernardino de Campos, 705 - Centro</string>
+			<string>(019) 3817-9327</string>
+		</array>
+		<array>
+			<string>Andradina</string>
+			<string>PROCON Andradina</string>
+			<string>Rua Paes Leme, esq. c/Sta. Teresinha - Ed. Banco de Brasil, 1º andar</string>
+			<string>(018) 3722-4011</string>
+		</array>
+		<array>
+			<string>Aparecida</string>
+			<string>PROCON Aparecida</string>
+			<string>Praça Marechal Deodoro, 73</string>
+			<string>(012) 3108-4023</string>
+		</array>
+		<array>
+			<string>Apiauí</string>
+			<string>PROCON Apiaí</string>
+			<string>Rua Amarílio Gorgonho da Silva, 112</string>
+			<string>(015) 33552-020</string>
+		</array>
+		<array>
+			<string>Araçariguama</string>
+			<string>PROCON Araçariguama</string>
+			<string>Av. Nicolau Ferreira de Souza, 280 - Centro</string>
+			<string>(011) 4136-4900</string>
+		</array>
+		<array>
+			<string>Araçatuba</string>
+			<string>PROCON Araçatuba</string>
+			<string>Rua Bandeirantes, 1.365 - Jardim Sumaré</string>
+			<string>(018) 3636-2277</string>
+		</array>
+		<array>
+			<string>Araraquara</string>
+			<string>CODECOM Araraquara</string>
+			<string>Av. Duque de Caxias, 242 - Centro</string>
+			<string>(016) 3336-0508</string>
+		</array>
+		<array>
+			<string>Araras</string>
+			<string>PROCON Araras</string>
+			<string>Av. Zurita, 681 - Belvedere</string>
+			<string>(019) 3541-7751</string>
+		</array>
+		<array>
+			<string>Artur Nogueira</string>
+			<string>PROCON Artur Nogueira</string>
+			<string>Rua 13 de Maio, 140</string>
+			<string>(011) 3827-9700</string>
+		</array>
+		<array>
+			<string>Assis</string>
+			<string>PROCON ASSIS</string>
+			<string>Rua Benjamin Constant, 33/Salas 7 e 8- ED. Assis Center- Centro</string>
+			<string>(018) 3322-3633</string>
+		</array>
+		<array>
+			<string>Avaré</string>
+			<string>PROCON Avaré</string>
+			<string>Rua Rio Grande do Sul, 1750 - térreo - Centro</string>
+			<string>(014) 3711-1750</string>
+		</array>
+		<array>
+			<string>Bariri</string>
+			<string>PROCON Bariri</string>
+			<string>Rua Camilo Resegue, n.º 68 - Centro</string>
+			<string>(014) 3662-7666</string>
+		</array>
+		<array>
+			<string>Barra Bonita</string>
+			<string>PROCON Barra Bonita</string>
+			<string>: R Tiradentes 365 - Centro</string>
+			<string>(014) 3641-5001</string>
+		</array>
+		<array>
+			<string>Barra Funda</string>
+			<string>PROCON ESTADUAL SP</string>
+			<string>Rua Barra Funda, 930 - 4ºandar</string>
+			<string>(011) 3826-1457</string>
+		</array>
+		<array>
+			<string>Barretos</string>
+			<string>PROCON Barretos</string>
+			<string>Av. 15, 637 - Centro</string>
+			<string>(017) 3322-0444</string>
+		</array>
+		<array>
+			<string>Barrinha</string>
+			<string>PROCON Barrinha</string>
+			<string>Praça Antonio Prado, 70 - Centro</string>
+			<string>(016) 3943-9400</string>
+		</array>
+		<array>
+			<string>Barueri</string>
+			<string>PROCON Barueri</string>
+			<string>Av. Henriqueta Mendes Guerra, 550 - Centro</string>
+			<string>(011) 4199-1324</string>
+		</array>
+		<array>
+			<string>Bastos</string>
+			<string>PROCON Bastos</string>
+			<string>Rua 7 de Setembro, 450 - Centro</string>
+			<string>(011) 3478-9800</string>
+		</array>
+		<array>
+			<string>Batatais</string>
+			<string>PROCON Batatais</string>
+			<string>Praça Cônego Joaquim Alves, 167 - Centro</string>
+			<string>(016) 3761-5891</string>
+		</array>
+		<array>
+			<string>Bauru</string>
+			<string>PROCON Bauru</string>
+			<string>Av. Nações Unidas, 4-44, Centro</string>
+			<string>(014) 3366-6050</string>
+		</array>
+		<array>
+			<string>Bebedouro</string>
+			<string>PROCON Bebedouro</string>
+			<string>Praça Valêncio de Barros, 45</string>
+			<string>(017) 3342-2229</string>
+		</array>
+		<array>
+			<string>Bertioga</string>
+			<string>PROCON Bertioga</string>
+			<string>Av. Anchieta, 1500 - Jardim Lido</string>
+			<string>(013) 3316-2551</string>
+		</array>
+		<array>
+			<string>Birigui</string>
+			<string>PROCON Birigui</string>
+			<string>Rua Bandeirantes, 800 - Vila Maria</string>
+			<string>(018) 3641-3369</string>
+		</array>
+		<array>
+			<string>Bocaina</string>
+			<string>PROCON Bocaina</string>
+			<string>Rua Sete de Setembro, nº 177 - Centro</string>
+			<string>(014) 3666-8000</string>
+		</array>
+		<array>
+			<string>Boituva</string>
+			<string>PROCON Boituva</string>
+			<string>Rua Expedicionário Boituvense, nº20 Sobre Loja, Rodoviária - Centro</string>
+			<string>(015) 3263-3016</string>
+		</array>
+		<array>
+			<string>Botucatu</string>
+			<string>PROCON Botucatu</string>
+			<string>Rua General Telles, 653 - Centro</string>
+			<string>(014) 3815-7974</string>
+		</array>
+		<array>
+			<string>Bragança Paulista</string>
+			<string>PROCON Bragança Paulista</string>
+			<string>Av. Antonio Pires Pimentel, nº 2015</string>
+			<string>(011) 4034-7100</string>
+		</array>
+		<array>
+			<string>Caçapava</string>
+			<string>PROCON Caçapava</string>
+			<string>Ladeira São José, 90 2º andar</string>
+			<string>(012) 3652-2414</string>
+		</array>
+		<array>
+			<string>Cachoeira Paulista</string>
+			<string>PROCON Cachoeira Paulista</string>
+			<string>Av. Coronel Domiciano nº 92 - Centro</string>
+			<string>(012) 3101-1333</string>
+		</array>
+		<array>
+			<string>Caieiras</string>
+			<string>PROCON Caieiras</string>
+			<string>Rua Hermínio de Oliveira Penteado, 30</string>
+			<string>(011) 4442-3703</string>
+		</array>
+		<array>
+			<string>Cajamar</string>
+			<string>PROCON Cajamar</string>
+			<string>Praça Benedito Martins da Cruz, 72 - Centro</string>
+			<string>(011) 4446-6614</string>
+		</array>
+		<array>
+			<string>Cajobi</string>
+			<string>PROCON Cajobi</string>
+			<string>Praça Monsenhor José Maria Soares Bezerra, 300</string>
+			<string>(017) 3563-9000</string>
+		</array>
+		<array>
+			<string>Cajuru</string>
+			<string>PROCON Cajuru</string>
+			<string>Largo de São Bento, 985 - Centro</string>
+			<string>(016) 3667-3011</string>
+		</array>
+		<array>
+			<string>Campinas</string>
+			<string>PROCON Campinas</string>
+			<string>Avenida Francisco Glicério, nº 1307, Centro</string>
+			<string>(019) 151</string>
+		</array>
+		<array>
+			<string>Campo Limpo Paulista</string>
+			<string>PROCON Campo Limpo Paulista</string>
+			<string>Av. dos Emancipadores, 150 - Centro</string>
+			<string>(011) 4039-8815</string>
+		</array>
+		<array>
+			<string>Campos do Jordão</string>
+			<string>PROCON Campos do Jordão</string>
+			<string>Rua Brigadeiro Jordão, 553- Abernéssia</string>
+			<string>(012) 3662-7189</string>
+		</array>
+		<array>
+			<string>Cândido Mota</string>
+			<string>PROCON Cândido Mota</string>
+			<string>Rua Ângelo Pipolo, nº 804 - Centro</string>
+			<string>(018) 3341-5270</string>
+		</array>
+		<array>
+			<string>Capão Bonito</string>
+			<string>PROCON Capão Bonito</string>
+			<string>Rua Coronel Ernestino, 550</string>
+			<string>(015) 3542-2101</string>
+		</array>
+		<array>
+			<string>Capão Bonito</string>
+			<string>PROCON Capão Bonito</string>
+			<string>Rua Coronel Ernestino, 550</string>
+			<string>(015) 3542-2101</string>
+		</array>
+		<array>
+			<string>Capivari</string>
+			<string>PROCON Capivari</string>
+			<string>Rua XV de Novembro, 639 - Centro</string>
+			<string>(019) 3492-9264</string>
+		</array>
+		<array>
+			<string>Caraguatatuba</string>
+			<string>PROCON Caraguatatuba</string>
+			<string>Rua Luís Passos Júnior, 55 - cj. 4 - Centro</string>
+			<string>(012) 3897-8119</string>
+		</array>
+		<array>
+			<string>Carapicuíba</string>
+			<string>PROCON Carapicuíba</string>
+			<string>Avenida Presidente Vargas, nº 280 - Vila Caldas</string>
+			<string>(011) 4164-5450</string>
+		</array>
+		<array>
+			<string>Casa Branca</string>
+			<string>PROCON Casa Branca</string>
+			<string>Praça Rui Barbosa, 56 - Centro</string>
+			<string>(019) 3671-5855</string>
+		</array>
+		<array>
+			<string>Catanduva</string>
+			<string>PROCON Catanduva</string>
+			<string>Praça Conde Francisco Matarazzo, s/nº - Caixa Postal 118/128</string>
+			<string>(017) 3531-9138</string>
+		</array>
+		<array>
+			<string>Cerqueira César</string>
+			<string>PROCON Cerqueira César</string>
+			<string>Rua J. J. Esteves, s/nº - Estação Rodoviária</string>
+			<string>(014) 3714-2040</string>
+		</array>
+		<array>
+			<string>Cerquilho</string>
+			<string>PROCON Cerquilho</string>
+			<string>Rua Sabadim, 03 - Centro</string>
+			<string>(015) 3284-2248</string>
+		</array>
+		<array>
+			<string>Colina</string>
+			<string>PROCON Colina</string>
+			<string>Rua Antonio Paulo de Miranda, 466</string>
+			<string>(017) 3341-9444</string>
+		</array>
+		<array>
+			<string>Cordeirópolis</string>
+			<string>PROCON Cordeirópolis</string>
+			<string>Rua Siqueira Campos, 87</string>
+			<string>(019) 3546-1222</string>
+		</array>
+		<array>
+			<string>Cosmópolis</string>
+			<string>PROCON Cosmópolis</string>
+			<string>Rua Sete de Abril, 688 - Vila Fontana</string>
+			<string>(019) 3812-4234</string>
+		</array>
+		<array>
+			<string>Cotia</string>
+			<string>PROCON Cotia</string>
+			<string>Rua Jorge Caixe, 306</string>
+			<string>(011) 4703-3473</string>
+		</array>
+		<array>
+			<string>Cravinhos</string>
+			<string>PROCON Cravinhos</string>
+			<string>Rua Cerqueira César, 477</string>
+			<string>(016) 3951-2089</string>
+		</array>
+		<array>
+			<string>Cruzeiro</string>
+			<string>PROCON Cruzeiro</string>
+			<string>Av. Jorge Tibiriça, 720</string>
+			<string>(012) 3141-1115</string>
+		</array>
+		<array>
+			<string>Cubatão</string>
+			<string>PROCON Cubatão</string>
+			<string>Av. Pedro José Cardoso, 271 - Vila Paulista</string>
+			<string>(013) 3372-4951</string>
+		</array>
+		<array>
+			<string>Descalvado</string>
+			<string>PROCON Descalvado</string>
+			<string>Rua Coronel Arthur Whitacker,54 - Centro</string>
+			<string>(019) 3583-2387</string>
+		</array>
+		<array>
+			<string>Diadema</string>
+			<string>PROCON Diadema</string>
+			<string>Rua Ari Barroso, 452 - Centro</string>
+			<string>(011) 4053-7204</string>
+		</array>
+		<array>
+			<string>Divinolândia</string>
+			<string>PROCON Divinolândia</string>
+			<string>R. XV de Novembro 261</string>
+			<string>(019) 663-1510</string>
+		</array>
+		<array>
+			<string>Dois Córregos</string>
+			<string>PROCON Dois Córregos</string>
+			<string>Rua Tiradentes, 459 - Centro</string>
+			<string>(014) 3652-4228</string>
+		</array>
+		<array>
+			<string>Dracena</string>
+			<string>PROCON Dracena</string>
+			<string>Av. José Bonifácio, 1437 - Centro</string>
+			<string>(018) 3821-8001</string>
+		</array>
+		<array>
+			<string>Embú</string>
+			<string>PROCON Embú</string>
+			<string>R. Andronico dos Prazers Gonçalves, 114 - Centro</string>
+			<string>(011) 4785-3568</string>
+		</array>
+		<array>
+			<string>Embu Guaçu</string>
+			<string>PROCON Embu Guaçu</string>
+			<string>R. Cel. Luiz Tenório de Brito, nº 458 - Centro</string>
+			<string>(011) 4662-7352</string>
+		</array>
+		<array>
+			<string>Espírito Santo do Pinhal</string>
+			<string>PROCON Espírito Santo do Pinhal</string>
+			<string>Praça Rio Branco, s/nº - Centro</string>
+			<string>(019) 3651-3757</string>
+		</array>
+		<array>
+			<string>Euclides da Cunha Paulista</string>
+			<string>PROCON Euclides da Cunha Paulista</string>
+			<string>Av. Antônio Joaquim Mano, 02 Paço Municipal</string>
+			<string>(018) 3283-1136</string>
+		</array>
+		<array>
+			<string>Fartura</string>
+			<string>PROCON Fartura</string>
+			<string>Rua Luís Ribeiro Salgado, 20</string>
+			<string>(014) 3382-3333</string>
+		</array>
+		<array>
+			<string>Fernandópolis</string>
+			<string>PROCON Fernandópolis</string>
+			<string>Rua São Paulo, 1680 1º andar - Centro</string>
+			<string>(017) 3462-7822</string>
+		</array>
+		<array>
+			<string>Ferraz de Vasconcelos</string>
+			<string>PROCON Ferraz de Vasconcelos</string>
+			<string>Rua Américo Trufeli, 60 - Parque São Francisco</string>
+			<string>(011) 4675-4782</string>
+		</array>
+		<array>
+			<string>Florida Paulista</string>
+			<string>PROCON Florida Paulista</string>
+			<string>Praça Presidente Kennedy, 358</string>
+			<string>(018) 3581-1121</string>
+		</array>
+		<array>
+			<string>Franca</string>
+			<string>PROCON Franca</string>
+			<string>Alameda Vicente Leporace, 4.655 - Parque dos Pinhais</string>
+			<string>(016) 3721-4757</string>
+		</array>
+		<array>
+			<string>Francisco Morato</string>
+			<string>PROCON Francisco Morato</string>
+			<string>Rua Tabatinguera, 759</string>
+			<string>(011) 4488-2756</string>
+		</array>
+		<array>
+			<string>Franco da Rocha</string>
+			<string>PROCON Franco da Rocha</string>
+			<string>Av. Liberdade, 97A - 1º andar sala 03 - Centro</string>
+			<string>(011) 4444-3358</string>
+		</array>
+		<array>
+			<string>Garça</string>
+			<string>PROCON Garça</string>
+			<string>Rua Deputado Manoel Joaquim Fernandes, 60 - Centro</string>
+			<string>(014) 3406-5299</string>
+		</array>
+		<array>
+			<string>Guaíra</string>
+			<string>PROCON Guaíra</string>
+			<string>Rua 8, 500 - Centro</string>
+			<string>(017) 3331-3867</string>
+		</array>
+		<array>
+			<string>Guararapes</string>
+			<string>PROCON Guararapes</string>
+			<string>Rua Armando Sales de Oliviera, nº 486 - Centro</string>
+			<string>(018) 3606-4050</string>
+		</array>
+		<array>
+			<string>Guaratinguetá</string>
+			<string>PROCON Guaratinguetá</string>
+			<string>Rua Joaquim Miguel, 49 - Centro</string>
+			<string>(012) 3132-6247</string>
+		</array>
+		<array>
+			<string>Guariba</string>
+			<string>PROCON Guariba</string>
+			<string>Av. Evaristo Vaz, 1.190 - Centro</string>
+			<string>(016) 3251-9422</string>
+		</array>
+		<array>
+			<string>Guarujá</string>
+			<string>PROCON Guarujá</string>
+			<string>Rua Washington, 719 - Centro</string>
+			<string>(013) 3383-2177</string>
+		</array>
+		<array>
+			<string>Guarulhos</string>
+			<string>PROCON Guarulhos</string>
+			<string>Rua Condessa Amália, 23 - Jardim Santa Mena</string>
+			<string>(011) 2468-0008</string>
+		</array>
+		<array>
+			<string>Ibitinga</string>
+			<string>PROCON Ibitinga</string>
+			<string>Rua Quintino Bocaiúva, nº 800 - Centro</string>
+			<string>(016) 3341-8266</string>
+		</array>
+		<array>
+			<string>Ibiúna</string>
+			<string>PROCON Ibiúna</string>
+			<string>Av. Vereador Benedito de Campos, nº 707 - Centro</string>
+			<string>(015) 3248-2523</string>
+		</array>
+		<array>
+			<string>Igarapava</string>
+			<string>PROCON Igarapava</string>
+			<string>Rua Cerqueira Cezar, nº 511 - Centro</string>
+			<string>(016) 3172-5094</string>
+		</array>
+		<array>
+			<string>Ilha Solteira</string>
+			<string>PROCON Ilha Solteira</string>
+			<string>Alameda Mato Grosso, 234 B Anexo - Centro</string>
+			<string>(018) 3743-6096</string>
+		</array>
+		<array>
+			<string>Ilhabela</string>
+			<string>PROCON Ilhabela</string>
+			<string>Rua Prefeito Mariano P. de A. Carvalho, 128 - Perequê</string>
+			<string>(012) 3896-9220</string>
+		</array>
+		<array>
+			<string>Indaiatuba</string>
+			<string>PROCON Indaiatuba</string>
+			<string>Rua Rêmulo Zoppi, nº 434</string>
+			<string>(019) 3834-7601</string>
+		</array>
+		<array>
+			<string>Inubia Paulista</string>
+			<string>PROCON Inubia Paulista</string>
+			<string>Avenida Campos Sales, 113 - Paço Municipal</string>
+			<string>(018) 3556-9900</string>
+		</array>
+		<array>
+			<string>Ipaussu</string>
+			<string>PROCON Ipaussu</string>
+			<string>Rua Prof. Júlio Mastrodomênico, 239 - Centro</string>
+			<string>(014) 3344-2787</string>
+		</array>
+		<array>
+			<string>Iracemápolis</string>
+			<string>PROCON Iracemápolis</string>
+			<string>Rua Dom Pedro II, nº 264 - Centro</string>
+			<string>(019) 3456-3341</string>
+		</array>
+		<array>
+			<string>Itanhaém</string>
+			<string>PROCON Itanhaém</string>
+			<string>AAv. Harry Forssell, nº 1505 - Jd. Sabaúna</string>
+			<string>(013) 3427-4339</string>
+		</array>
+		<array>
+			<string>Itapecerica da Serra</string>
+			<string>PROCON Itapecerica da Serra</string>
+			<string>Rua Major Manoel Francisco de Moraes, 385 - Centro</string>
+			<string>(011) 4165-2535</string>
+		</array>
+		<array>
+			<string>Itapetininga</string>
+			<string>PROCON Itapetininga</string>
+			<string>Rua José Bonifácio, 543 - Centro</string>
+			<string>(015) 3271-0356</string>
+		</array>
+		<array>
+			<string>Itapeva</string>
+			<string>PROCON Itapeva</string>
+			<string>Praça Duque de Caxias, 22 - Centro</string>
+			<string>(015) 3521.1040</string>
+		</array>
+		<array>
+			<string>Itapevi</string>
+			<string>PROCON Itapevi</string>
+			<string>R. Geraldo Vasques, 10 - Jd. Cristianópolis</string>
+			<string>(011) 4773-1909</string>
+		</array>
+		<array>
+			<string>Itapira</string>
+			<string>PROCON Itapira</string>
+			<string>Rua Vitório Coppos, 122 - Bairro São Benedito</string>
+			<string>(019) 3863-7818</string>
+		</array>
+		<array>
+			<string>Itápolis</string>
+			<string>PROCON Itápolis</string>
+			<string>Av. Florêncio Terra, nº 399 - Centro</string>
+			<string>(016) 3263-9511</string>
+		</array>
+		<array>
+			<string>Itapuí</string>
+			<string>PROCON Itapuí</string>
+			<string>Rua Santo Antônio, 644 - Centro</string>
+			<string>(014) 3664-3847</string>
+		</array>
+		<array>
+			<string>Itaquaquecetuba</string>
+			<string>PROCON Itaquaquecetuba</string>
+			<string>Estrada Santa Isabel, 1100 - Monte Belo</string>
+			<string>(011) 4642-2121</string>
+		</array>
+		<array>
+			<string>Itararé</string>
+			<string>PROCON Itararé</string>
+			<string>Rua XV de Novembro, 69 - Centro</string>
+			<string>(015) 3532-2024</string>
+		</array>
+		<array>
+			<string>Itatiba</string>
+			<string>PROCON Itatiba</string>
+			<string>Rua Benedita de Oliveira, nº 51 - Jd. São José</string>
+			<string>(011) 4524-0102</string>
+		</array>
+		<array>
+			<string>Itatinga</string>
+			<string>PROCON Itatinga</string>
+			<string>Rua Benedito Dias de Almeida, 108</string>
+			<string>(014) 3848-1211</string>
+		</array>
+		<array>
+			<string>Itu</string>
+			<string>PROCON Itu</string>
+			<string>Av. Tiradentes, 2001 - Vila Lucinda</string>
+			<string>(011) 4025-5422</string>
+		</array>
+		<array>
+			<string>Ituverava</string>
+			<string>PROCON Ituverava</string>
+			<string>Av. Dr. Soares de Oliveira, 179 - Centro</string>
+			<string>(016) 3729-5885</string>
+		</array>
+		<array>
+			<string>Jaborandi</string>
+			<string>PROCON Jaborandi</string>
+			<string>Rua XV de Novembro, 516</string>
+			<string>(017) 3347-1254</string>
+		</array>
+		<array>
+			<string>Jaboticabal</string>
+			<string>PROCON Jaboticabal</string>
+			<string>Praça Esplanada do Lago, 160 Vila Serra</string>
+			<string>(016) 3209-3301</string>
+		</array>
+		<array>
+			<string>Jacareí</string>
+			<string>PROCON Jacareí</string>
+			<string>R. Alfredo Schurig, 300 - Centro</string>
+			<string>(012) 3951-0230</string>
+		</array>
+		<array>
+			<string>Jaguariúna</string>
+			<string>PROCON Jaguariúna</string>
+			<string>R. Alfredo Bueno, 1235</string>
+			<string>(019) 3867-9716</string>
+		</array>
+		<array>
+			<string>Jales</string>
+			<string>PROCON Jales</string>
+			<string>Rua Cinco, 2266</string>
+			<string>(017) 3621-6366</string>
+		</array>
+		<array>
+			<string>Jardinópolis</string>
+			<string>PROCON Jardinópolis</string>
+			<string>Rua Américo Sales, 721</string>
+			<string>(016) 3663-3751</string>
+		</array>
+		<array>
+			<string>Jaú</string>
+			<string>PROCON Jaú</string>
+			<string>Rua Major Prado, 688 - Centro</string>
+			<string>(014) 3626-3733</string>
+		</array>
+		<array>
+			<string>Jundiaí</string>
+			<string>PROCON Jundiaí</string>
+			<string>Rua dos Bandeirantes, 103</string>
+			<string>(011) 4586-1320</string>
+		</array>
+		<array>
+			<string>Junquiá</string>
+			<string>PROCON Junquiá</string>
+			<string>Rua 10 de Abril, 148 - Centro</string>
+			<string>(013) 3844-3102</string>
+		</array>
+		<array>
+			<string>Leme</string>
+			<string>PROCON Leme</string>
+			<string>Rua Joaquim Mourão, 289 - Centro</string>
+			<string>(019) 3571-6532</string>
+		</array>
+		<array>
+			<string>Lençois Paulista</string>
+			<string>PROCON Lençois Paulista</string>
+			<string>Rua Anita Garibaldi, nº 821 - sala 2 - Centro</string>
+			<string>(014) 3263-6499</string>
+		</array>
+		<array>
+			<string>Limeira</string>
+			<string>PROCON Limeira</string>
+			<string>Rua Dr. Trajano de Barros Camargo, 764</string>
+			<string>(019) 3345-7783</string>
+		</array>
+		<array>
+			<string>Lins</string>
+			<string>PROCON Lins</string>
+			<string>Rua Olavo Bilac, 948 - Centro</string>
+			<string>(014) 3523-8444</string>
+		</array>
+		<array>
+			<string>Lorena</string>
+			<string>PROCON Lorena</string>
+			<string>Rua Professor Francisco Marques de Oliveira Júnior, 32 – Centro</string>
+			<string>(012) 3152-9215</string>
+		</array>
+		<array>
+			<string>Louveira</string>
+			<string>PROCON Louveira</string>
+			<string>R. Antonio Schiamanna, 126 Centro</string>
+			<string>(019) 3878-9900</string>
+		</array>
+		<array>
+			<string>Lucélia</string>
+			<string>PROCON Lucélia</string>
+			<string>Av. Brasil, 1.101</string>
+			<string>(018) 3551-9203</string>
+		</array>
+		<array>
+			<string>Luiz Antônio</string>
+			<string>PROCON Luiz Antônio</string>
+			<string>R. Américo de Araújo Pires, 303 - Centro</string>
+			<string>(016) 3983-2000</string>
+		</array>
+		<array>
+			<string>Macatuba</string>
+			<string>PROCON Macatuba</string>
+			<string>Ac. Cel. Virgílio Rocha, 12-26 - Term. Rodoviário - Centro</string>
+			<string>(014) 3298-2131</string>
+		</array>
+		<array>
+			<string>Mairinque</string>
+			<string>PROCON Mairinque</string>
+			<string>Rua Dr. Gaspar Ricardo Junior, 185 - Centro</string>
+			<string>(011) 4718-3524</string>
+		</array>
+		<array>
+			<string>Marília</string>
+			<string>PROCON Marília</string>
+			<string>Rua Amazonas, 527 - Bairro Cascata</string>
+			<string>(014) 3454-6444</string>
+		</array>
+		<array>
+			<string>Matão</string>
+			<string>PROCON Matão</string>
+			<string>Rua Oreste Bozelli, 1165 - Centro</string>
+			<string>(016) 3384-4484</string>
+		</array>
+		<array>
+			<string>Mauá</string>
+			<string>PROCON Mauá</string>
+			<string>Rua Rio Branco, 87 - 2º andar - Centro</string>
+			<string>(011) 4541-6980</string>
+		</array>
+		<array>
+			<string>Miguelópolis</string>
+			<string>PROCON Miguelópolis</string>
+			<string>Av. Rodolfo Jorge, 555 - sala 9 - Centro</string>
+			<string>(016) 3835-6688</string>
+		</array>
+		<array>
+			<string>Mirandópolis</string>
+			<string>PROCON Mirandópolis</string>
+			<string>Rua 9 de Julho, 1604</string>
+			<string>(018) 3701-6757</string>
+		</array>
+		<array>
+			<string>Mirassol</string>
+			<string>PROCON Mirassol</string>
+			<string>Rua Capitão Neves, 1998 - Centro</string>
+			<string>(017) 3242-2050</string>
+		</array>
+		<array>
+			<string>Mococa</string>
+			<string>PROCON Mococa</string>
+			<string>Av. Senador José Ermírio de Moraes, 1035 - Jd. Lavínia</string>
+			<string>(019) 3656-4525</string>
+		</array>
+		<array>
+			<string>Mogi das Cruzes</string>
+			<string>PROCON Mogi das Cruzes</string>
+			<string>Av. Ver. Narcísio Yague Guimarães, 277</string>
+			<string>(011) 4798-5090</string>
+		</array>
+		<array>
+			<string>Mogi Guaçu</string>
+			<string>PROCON Mogi Guaçu</string>
+			<string>Rua Chico de Paula, 578 - Centro</string>
+			<string>(019) 3841-2355</string>
+		</array>
+		<array>
+			<string>Mogi Mirim</string>
+			<string>PROCON Mogi Mirim</string>
+			<string>Rua José Alves, 120 - Centro</string>
+			<string>(019) 3804-4746</string>
+		</array>
+		<array>
+			<string>Mongaguá</string>
+			<string>PROCON Mongaguá</string>
+			<string>R. Getúlio Vargas 67</string>
+			<string>(013) 3445-3020</string>
+		</array>
+		<array>
+			<string>Monte Alto</string>
+			<string>PROCON Monte Alto</string>
+			<string>Rua Sabino de Camargo, 622 - sala 3 - Centro</string>
+			<string>(016) 3242-2080</string>
+		</array>
+		<array>
+			<string>Monte Mor</string>
+			<string>PROCON Monte Mor</string>
+			<string>Rua Siqueira Campos, 65 - Centro</string>
+			<string>(019) 3879-9883</string>
+		</array>
+		<array>
+			<string>Morro Agudo</string>
+			<string>PROCON Morro Agudo</string>
+			<string>Praça Martinico Prado, 1.626 - Centro</string>
+			<string>(016) 3851-1400</string>
+		</array>
+		<array>
+			<string>Nova Odessa</string>
+			<string>PROCON Nova Odessa</string>
+			<string>Av. João Pessoa, 777 - Centro</string>
+			<string>(019) 3476-8600</string>
+		</array>
+		<array>
+			<string>Olímpia</string>
+			<string>PROCON Olímpia</string>
+			<string>Rua Dr. Antonio Olimpio, 437 - Centro</string>
+			<string>(017) 3281-6734</string>
+		</array>
+		<array>
+			<string>Osasco</string>
+			<string>PROCON Osasco</string>
+			<string>Av. Bussocaba, 300 sala 33</string>
+			<string>(011) 3683-4000</string>
+		</array>
+		<array>
+			<string>Osvaldo Cruz</string>
+			<string>PROCON Osvaldo Cruz</string>
+			<string>Praça Ermínio Elorsa, 448 Centro</string>
+			<string>(018) 3528-9500</string>
+		</array>
+		<array>
+			<string>Ourinhos</string>
+			<string>PROCON Ourinhos</string>
+			<string>Praça Henrique Tocalino, nº 280 - Centro</string>
+			<string>(014) 3302-0600</string>
+		</array>
+		<array>
+			<string>Paraguaçu Paulista</string>
+			<string>PROCON Paraguaçu Paulista</string>
+			<string>Av. Siqueira Campos, 1430 - Vila Athaide</string>
+			<string>(018) 3361-9100</string>
+		</array>
+		<array>
+			<string>Paraibuna</string>
+			<string>PROCON Paraibuna</string>
+			<string>Rua Humaitá, 20 centro</string>
+			<string>(012) 3974-0020</string>
+		</array>
+		<array>
+			<string>Parapuã</string>
+			<string>PROCON Parapuã</string>
+			<string>Rua São Salvador, 575 - sala Procon</string>
+			<string>(018) 3582-1936</string>
+		</array>
+		<array>
+			<string>Pederneiras</string>
+			<string>PROCON Pederneiras</string>
+			<string>Rua Santos Dumont, Sl 65 - Centro</string>
+			<string>(014) 3284-1355</string>
+		</array>
+		<array>
+			<string>Pedreira</string>
+			<string>PROCON Pedreira</string>
+			<string>Praça Coronel João Pedro, 308 - Centro</string>
+			<string>(019) 3893-1047</string>
+		</array>
+		<array>
+			<string>Penápolis</string>
+			<string>PROCON Penápolis</string>
+			<string>Marginal Maria Chica, 1400</string>
+			<string>(018) 3652-1443</string>
+		</array>
+		<array>
+			<string>Peruíbe</string>
+			<string>PROCON Peruíbe</string>
+			<string>Av. Terezinha Rodrigues Kalil, 607 - Estação</string>
+			<string>(013) 3453-6102</string>
+		</array>
+		<array>
+			<string>Pindamonhangaba</string>
+			<string>PROCON Pindamonhangaba</string>
+			<string>Av. Albuquerque Lins, 138 - São Benedito</string>
+			<string>(012) 3643-4099</string>
+		</array>
+		<array>
+			<string>Piracicaba</string>
+			<string>PROCON Piracicaba</string>
+			<string>Rua Capitão Antonio Correa Barbosa, 2233 - Mezzanino</string>
+			<string>(019) 3403-1393</string>
+		</array>
+		<array>
+			<string>Piraju</string>
+			<string>PROCON Piraju</string>
+			<string>Rua Major Mariano, 560</string>
+			<string>(014) 3351-2598</string>
+		</array>
+		<array>
+			<string>Pirapora do Bom Jesus</string>
+			<string>PROCON - Pirapora do Bom Jesus</string>
+			<string>Rua Cecília Meireles, 35 - Vila Nova</string>
+			<string>(011) 4131-1093</string>
+		</array>
+		<array>
+			<string>Pirassununga</string>
+			<string>PROCON Pirassununga</string>
+			<string>Rua Galício Del Nero, 51 - Paço Municipal - Centro</string>
+			<string>(019) 3561-7356</string>
+		</array>
+		<array>
+			<string>Poá</string>
+			<string>PROCON Poá</string>
+			<string>Praça dos Expedicionários, 31 - Centro</string>
+			<string>(011) 4638-6648</string>
+		</array>
+		<array>
+			<string>Pompéia</string>
+			<string>PROCON Pompéia</string>
+			<string>Rua Dr. José de Moura Resende, 572</string>
+			<string>(014) 3405-1500</string>
+		</array>
+		<array>
+			<string>Pontal</string>
+			<string>PROCON Pontal</string>
+			<string>Rua Guilherme Silva, 337</string>
+			<string>(016) 3953-1311</string>
+		</array>
+		<array>
+			<string>Porto Feliz</string>
+			<string>PROCON Porto Feliz</string>
+			<string>Rua Ademar de Barros, 340 - Centro</string>
+			<string>(015) 3262-2368</string>
+		</array>
+		<array>
+			<string>Porto Ferreira</string>
+			<string>PROCON Porto Ferreira</string>
+			<string>Rua Dona Balbina, 923 - Centro</string>
+			<string>(019) 3585-6925</string>
+		</array>
+		<array>
+			<string>Potim</string>
+			<string>PROCON Potim</string>
+			<string>Rua Osvaldo Morais de Castro, 171 ap. 04 - Frei Galvão</string>
+			<string>(012) 3112-2004</string>
+		</array>
+		<array>
+			<string>Pradópolis</string>
+			<string>PROCON Pradópolis</string>
+			<string>Rua Presidente Vargas, nº 1236 - Centro</string>
+			<string>(016) 3981-1940</string>
+		</array>
+		<array>
+			<string>Praia Grande</string>
+			<string>PROCON Praia Grande</string>
+			<string>Rua Jaú, 880 - sala 72 - 7º andar - Ed. Jocafra - Boqueirão</string>
+			<string>(013) 3473-6810</string>
+		</array>
+		<array>
+			<string>Presidente Epitácio</string>
+			<string>PROCON Presidente Epitácio</string>
+			<string>Rua São Paulo, 5-45 - Centro</string>
+			<string>(018) 3251-8009</string>
+		</array>
+		<array>
+			<string>Presidente Prudente</string>
+			<string>PROCON Presidente Prudente</string>
+			<string>Rua Pedro de Oliveira Costa, 156 - Bosque</string>
+			<string>(018) 3903-9836</string>
+		</array>
+		<array>
+			<string>Presidente Venceslau</string>
+			<string>PROCON Presidente Venceslau</string>
+			<string>Travessa Tenente Osvaldo Barbosa, 180 - Centro</string>
+			<string>(018) 3272-9090</string>
+		</array>
+		<array>
+			<string>Rancharia</string>
+			<string>PROCON Rancharia</string>
+			<string>Rua Marcilio Dias, 719 - Centro</string>
+			<string>(018) 3265-3776</string>
+		</array>
+		<array>
+			<string>Registro</string>
+			<string>PROCON Registro</string>
+			<string>Rua São Francisco Xavier, 165 - Centro</string>
+			<string>(013) 3821-1999</string>
+		</array>
+		<array>
+			<string>Ribeirão Pires</string>
+			<string>PROCON Ribeirão Pires</string>
+			<string>Rua Felipe Sabag, 200 - 3º andar - sl. 4C (Shop.Garden)</string>
+			<string>(011) 4825-6465</string>
+		</array>
+		<array>
+			<string>Ribeirão Preto</string>
+			<string>PROCON Ribeirão Preto</string>
+			<string>Rua Minas, 353 - Campos Elíseos</string>
+			<string>(016) 3632-0041</string>
+		</array>
+		<array>
+			<string>Rincão</string>
+			<string>PROCON Rincão</string>
+			<string>Rua 21 de Novembro, 867</string>
+			<string>(016) 3395-9100</string>
+		</array>
+		<array>
+			<string>Rio Claro</string>
+			<string>PROCON Rio Claro</string>
+			<string>Av. 5, nº 345 - Centro</string>
+			<string>(019) 3533-2070</string>
+		</array>
+		<array>
+			<string>Rio Grande da Serra</string>
+			<string>PROCON Rio Grande da Serra</string>
+			<string>Rua Progresso, 478 - Jardim Progresso</string>
+			<string>(011) 4820-8200</string>
+		</array>
+		<array>
+			<string>Rosana</string>
+			<string>PROCON Rosana</string>
+			<string>Rua Givaldo Pereira de Oliveira, 1446 - Centro</string>
+			<string>(018) 3288-8242</string>
+		</array>
+		<array>
+			<string>Salto</string>
+			<string>PROCON Salto</string>
+			<string>Rua José Revel, nº 270 - Centro</string>
+			<string>(011) 4602-8690</string>
+		</array>
+		<array>
+			<string>Salto Grande</string>
+			<string>PROCON Salto Grande</string>
+			<string>Av. Rangel Pestana, nº 449 - Centro</string>
+			<string>(014) 3378-1399</string>
+		</array>
+		<array>
+			<string>Santa Bárbara D Oeste</string>
+			<string>PROCON Santa Bárbara D Oeste</string>
+			<string>Rua João Ridley Buffford, s/nº sala 01 - Centro</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Santa Cruz das Palmeiras</string>
+			<string>PROCON Santa Cruz das Palmeiras</string>
+			<string>Rua Treze de Maio, 629 sala 01</string>
+			<string>(019) 3672-3526</string>
+		</array>
+		<array>
+			<string>Santa Cruz do Rio Pardo</string>
+			<string>PROCON Santa Cruz do Rio Pardo</string>
+			<string>Av. Dr. Ciro de Mello Camarinha, 225 - Centro</string>
+			<string>(014) 3332-1019</string>
+		</array>
+		<array>
+			<string>Santa Fé do Sul</string>
+			<string>PROCON Santa Fé do Sul</string>
+			<string>Rua 16, 476 - Centro</string>
+			<string>(017) 3641-1526</string>
+		</array>
+		<array>
+			<string>Santa Gertrudes</string>
+			<string>PROCON Santa Gertrudes</string>
+			<string>Rua Um, 698 - Centro</string>
+			<string>(019) 3545-3235</string>
+		</array>
+		<array>
+			<string>Santa Isabel</string>
+			<string>PROCON Santa Isabel</string>
+			<string>Praça Fernando Lopes, 32 - Centro</string>
+			<string>(011) 4657-4453</string>
+		</array>
+		<array>
+			<string>Santa Mercedes</string>
+			<string>PROCON Santa Mercedes</string>
+			<string>Praça Alípio Bedaque, 1406</string>
+			<string>(018) 3875-1231</string>
+		</array>
+		<array>
+			<string>Santa Rita do Passa Quatro</string>
+			<string>PROCON Santa Rita do Passa Quatro</string>
+			<string>Rua Francisco Alberto Porphirio, 125 - Jd.S.Vicente</string>
+			<string>(019) 3582-5762</string>
+		</array>
+		<array>
+			<string>Santa Rosa do Viterbo</string>
+			<string>PROCON Santa Rosa do Viterbo</string>
+			<string>Praça Dr. Guido Maestrello, s/nº - Pça da Matriz</string>
+			<string>(016) 3954-7061</string>
+		</array>
+		<array>
+			<string>Santana de Parnaíba</string>
+			<string>PROCON Santana de Parnaíba</string>
+			<string>Rua Pedro Procópio, 60 - Centro</string>
+			<string>(011) 4154-7031</string>
+		</array>
+		<array>
+			<string>Santo André</string>
+			<string>PROCON Santo André</string>
+			<string>Rua Arnaldo, 49 - Vila Bastos</string>
+			<string>(011) 4992-7174</string>
+		</array>
+		<array>
+			<string>Santo Antonio de Posse</string>
+			<string>PROCON Santo Antonio de Posse</string>
+			<string>Praça Chafia Chaib Bacarat, 351 - Vila Esperança</string>
+			<string>(019) 3896-9052</string>
+		</array>
+		<array>
+			<string>Santos</string>
+			<string>PROCON Santos (CIDOC)</string>
+			<string>Rua Campos Sales 128 - Vila Nova</string>
+			<string>(013) 3221-8274</string>
+		</array>
+		<array>
+			<string>São Bernardo do Campo</string>
+			<string>PROCON São Bernardo do Campo</string>
+			<string>Av. Senador Vergueiro, 2432 - Rudge Ramos</string>
+			<string>(011) 4366-1700</string>
+		</array>
+		<array>
+			<string>São Caetano do Sul</string>
+			<string>PROCON São Caetano do Sul</string>
+			<string>Rua Major Carlo Del Prete, 651 - Centro</string>
+			<string>(011) 4227-7600</string>
+		</array>
+		<array>
+			<string>São Carlos</string>
+			<string>Procon São Carlos</string>
+			<string>Avenida São Carlos, 1800 - Centro</string>
+			<string>(016) 3362-1419</string>
+		</array>
+		<array>
+			<string>São João da Boa Vista</string>
+			<string>Procon São João da Boa Vista</string>
+			<string>Rua Ana de Oliveira, 44 - Centro</string>
+			<string>(019) 3634-1055</string>
+		</array>
+		<array>
+			<string>São José do Rio Pardo</string>
+			<string>PROCON São José do Rio Pardo</string>
+			<string>Rua Rui Barbosa, 460 - Centro</string>
+			<string>(019) 3682-7847</string>
+		</array>
+		<array>
+			<string>São José do Rio Preto</string>
+			<string>PROCON São José do Rio Preto</string>
+			<string>Rua Antônio de Godoy, nº 3033 - Centro</string>
+			<string>(017) 3233-9527</string>
+		</array>
+		<array>
+			<string>São José dos Campos</string>
+			<string>PROCON São José dos Campos</string>
+			<string>Rua Vilaça, 681 - Centro</string>
+			<string>(012) 3909-1440</string>
+		</array>
+		<array>
+			<string>São Manoel</string>
+			<string>Procon São Manoel</string>
+			<string>Rua Epitácio Pessoa, 689 - Centro</string>
+			<string>(014) 3841-4645</string>
+		</array>
+		<array>
+			<string>São Miguel Arcanjo</string>
+			<string>PROCON São Miguel Arcanjo</string>
+			<string>Rua Comendador Dante Carraro, 811 - Centro</string>
+			<string>(015) 3279-1901</string>
+		</array>
+		<array>
+			<string>São Paulo</string>
+			<string>Fundação PROCON</string>
+			<string>www.procon.sp.gov.br/atendimento_texto.asp</string>
+			<string>151</string>
+		</array>
+		<array>
+			<string>São Paulo</string>
+			<string>Poupatempo Itaquera</string>
+			<string>Av. do Contorno, S/N, Itaquera</string>
+			<string>0800-772-3633</string>
+		</array>
+		<array>
+			<string>São Paulo</string>
+			<string>Poupatempo Santo Amaro</string>
+			<string>Rua Amador Bueno, 176/258, São Paulo (próximo ao Largo Treze de Maio)</string>
+			<string>0800-772-3633</string>
+		</array>
+		<array>
+			<string>São Paulo</string>
+			<string>Poupatempo Sé</string>
+			<string>Praça do Carmo, S/N, Centro.</string>
+			<string>0800-772-3633</string>
+		</array>
+		<array>
+			<string>São Sebastião</string>
+			<string>PROCON São Sebastião</string>
+			<string>Rua Sebastião Silvestre Neves, nº 185 - Centro</string>
+			<string>(019) 3892-1639</string>
+		</array>
+		<array>
+			<string>São Vicente</string>
+			<string>PROCON São Vicente</string>
+			<string>Av. Capitão Mor Aguiar, 695</string>
+			<string>(013) 3467 7372</string>
+		</array>
+		<array>
+			<string>Sebastião da Grama</string>
+			<string>PROCON São Sebastião da Grama</string>
+			<string>Praça das Águas, 100 - Jardim São Domingos</string>
+			<string>(012) 3646-9700</string>
+		</array>
+		<array>
+			<string>Serra Negra</string>
+			<string>PROCON Serra Negra</string>
+			<string>Rua José Bonifácio, 283 - Centro</string>
+			<string>(019) 3892-6561</string>
+		</array>
+		<array>
+			<string>Serrana</string>
+			<string>PROCON Serrana</string>
+			<string>São Sebastião, 459</string>
+			<string>(016) 3987-2866</string>
+		</array>
+		<array>
+			<string>Sertãozinho</string>
+			<string>PROCON Sertãozinho</string>
+			<string>Rua Barão do Rio Branco, 1699</string>
+			<string>(016) 2105-1004</string>
+		</array>
+		<array>
+			<string>Severínia</string>
+			<string>PROCON Severínia</string>
+			<string>Rua Capitão Augusto de Almeida, 383</string>
+			<string>(017) 3817-1331</string>
+		</array>
+		<array>
+			<string>Socorro</string>
+			<string>PROCON Socorro</string>
+			<string>Av. José Maria de Faria, 71 - Bairro do Salto</string>
+			<string>(019) 3855-9617</string>
+		</array>
+		<array>
+			<string>Sorocaba</string>
+			<string>PROCON Sorocaba</string>
+			<string>Rua Cesário Mota, 166 - Centro</string>
+			<string>(08) 00148029</string>
+		</array>
+		<array>
+			<string>Sumaré</string>
+			<string>Procon Sumaré</string>
+			<string>Rua José Maria Miranda, 1134</string>
+			<string>(019) 3873-1071</string>
+		</array>
+		<array>
+			<string>Suzano</string>
+			<string>PROCON Suzano</string>
+			<string>Baruel, 126</string>
+			<string>(011) 4744-7322</string>
+		</array>
+		<array>
+			<string>Taboão da Serra</string>
+			<string>PROCON Taboão da Serra</string>
+			<string>Praça Miguel Ortega, 280 - térreo - Parque Assunção</string>
+			<string>(011) 4786-2986</string>
+		</array>
+		<array>
+			<string>Tapiratiba</string>
+			<string>PROCON Tapiratiba</string>
+			<string>Rua Dr. Dino Bueno, 199 - Centro</string>
+			<string>(019) 3657-1520</string>
+		</array>
+		<array>
+			<string>Taquaritinga</string>
+			<string>PROCON Taquaritinga</string>
+			<string>Rua Marechal Deodoro, 1130 sala 02 - Centro</string>
+			<string>(016) 3252-5427</string>
+		</array>
+		<array>
+			<string>Tatuí</string>
+			<string>PROCON Tatuí</string>
+			<string>Rua Treze de Fevereiro, 396 - Centro</string>
+			<string>(015) 3305-3571</string>
+		</array>
+		<array>
+			<string>Taubaté</string>
+			<string>PROCON Taubaté</string>
+			<string>R. Emílio Winther, 345 – Centro</string>
+			<string>(012) 3624-6610</string>
+		</array>
+		<array>
+			<string>Teodoro Sampaio</string>
+			<string>PROCON Teodoro Sampaio</string>
+			<string>Praça Antonio Evangelista da Silva, 1544 – Centro</string>
+			<string>(018) 3282-4299</string>
+		</array>
+		<array>
+			<string>Tietê</string>
+			<string>PROCON Tietê</string>
+			<string>Rua Tenente Gelás, s/n (Luiz Antunes) - Centro</string>
+			<string>(015) 3282-1575</string>
+		</array>
+		<array>
+			<string>Tupã</string>
+			<string>PROCON Tupã</string>
+			<string>Praça da Bandeira, 800</string>
+			<string>(014) 3491-5395</string>
+		</array>
+		<array>
+			<string>Ubatuba</string>
+			<string>PROCON Ubatuba</string>
+			<string>Av. Dona Maria Alves, 890 - Centro</string>
+			<string>(012) 3824-1009</string>
+		</array>
+		<array>
+			<string>Valinhos</string>
+			<string>PROCON Valinhos</string>
+			<string>Av. dos Esportes, 303 - Centro</string>
+			<string>(019) 3849-1140</string>
+		</array>
+		<array>
+			<string>Valparaíso</string>
+			<string>PROCON Valparaíso</string>
+			<string>Rua Com. Geremias Lunardeli, 147 - Jd. Alvora I</string>
+			<string>(018) 3401-3877</string>
+		</array>
+		<array>
+			<string>Valparaíso</string>
+			<string>PROCON Valparaíso</string>
+			<string>Rua Com. Geremias Lunardeli, 147 - Jd. Alvora I</string>
+			<string>(018) 3401-3877</string>
+		</array>
+		<array>
+			<string>Vargem Grande do Sul</string>
+			<string>PROCON Vargem Grande do Sul</string>
+			<string>Praça Washington Luís, 643 – Centro</string>
+			<string>(019) 3641-1276</string>
+		</array>
+		<array>
+			<string>Várzea Paulista</string>
+			<string>PROCON Várzea Paulista</string>
+			<string>Rua José Dias de Castro, 160 - Vila São José</string>
+			<string>(011) 4595-0557</string>
+		</array>
+		<array>
+			<string>Vinhedo</string>
+			<string>PROCON Vinhedo</string>
+			<string>Rua Humberto Pescarini, 301 - Centro</string>
+			<string>(019) 3876-5502</string>
+		</array>
+		<array>
+			<string>Viradouro</string>
+			<string>PROCON Viradouro</string>
+			<string>Praça Francisco Braga, 56 sala 01 - Centro</string>
+			<string>(017) 3392-8844</string>
+		</array>
+		<array>
+			<string>Votorantim</string>
+			<string>PROCON Votorantim</string>
+			<string>Rua Eduardo Prado, 138 - Centro</string>
+			<string>(015) 3243-4201</string>
+		</array>
+		<array>
+			<string>Votuporanga</string>
+			<string>PROCON Votuporanga</string>
+			<string>Rua São Paulo, 3741 - Patrimônio Velho</string>
+			<string>(017) 3422-8930</string>
+		</array>
+	</array>
+	<key>Tocantins - TO</key>
+	<array>
+		<array>
+			<string>Araguatins</string>
+			<string>PROCON Araguatins</string>
+			<string>Rua das Alvares de Azevedo, 715 - Centro</string>
+			<string>(063) 3474-2600</string>
+		</array>
+		<array>
+			<string>Araguína</string>
+			<string>PROCON Araguaína</string>
+			<string>Rua das Mangabeiras, 1265</string>
+			<string>(063) 3421-4048</string>
+		</array>
+		<array>
+			<string>Dianópolis</string>
+			<string>PROCON Dianópolis</string>
+			<string>Rua Solemar Vieira, 1295</string>
+			<string>(063) 3692-1745</string>
+		</array>
+		<array>
+			<string>Guaraí</string>
+			<string>PROCON Guaraí</string>
+			<string>Av. Bernado Sayão, 2665</string>
+			<string>(063) 3464-4577</string>
+		</array>
+		<array>
+			<string>Gurupi</string>
+			<string>PROCON Gurupi</string>
+			<string>Av. Piauí, nº 2107 - Centro</string>
+			<string>(063) 3312–2600</string>
+		</array>
+		<array>
+			<string>Palmas</string>
+			<string>PROCON ESTADUAL TO</string>
+			<string>104 Sul, Rua SE, Lote 36, Plano Diretor Sul - Centro</string>
+			<string>(063) 3218-2060</string>
+		</array>
+		<array>
+			<string>Porto Nacional</string>
+			<string>PROCON Porto Nacional</string>
+			<string>Av. Bartolomeu Bueno, nº. 2129, Centro(ao lado do SINE)</string>
+			<string>(063) 3363–5934</string>
+		</array>
+		<array>
+			<string>Tocantinópolis</string>
+			<string>PROCON Tocantinópolis</string>
+			<string>Av. Nossa Senhora de Fátima, 1327 - Centro</string>
+			<string>(063) 3471-3434</string>
+		</array>
+	</array>
+</dict>
+</plist>

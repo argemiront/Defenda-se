@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bancos</key>
+	<array>
+		<array>
+			<string>O código de defesa do consumidor é aplicável a bancos?</string>
+			<string>Sim. O banco é considerado o fornecedor do serviço (crédito financeiro) e o correntista é considerado o consumidor de acordo com os arts. 2º e 3º, § 2º do CDC.</string>
+			<string></string>
+			<string>2.txt,3.txt</string>
+		</array>
+		<array>
+			<string>O banco pode alterar a taxa de juros previamente acordada unilateralmente?</string>
+			<string>Não. Os juros fazem parte do “preço” pago pelo consumidor, logo se o “preço” foi previamente estabelecido não pode ser alterado sem o consentimento do cliente.</string>
+			<string></string>
+			<string>51.txt</string>
+		</array>
+		<array>
+			<string>Sou obrigado a pagar mensalidade de conta corrente?</string>
+			<string>Bancos só não podem cobrar tarifas de contas salário, demais serviços prestados podem ser cobrados, desde que os valores sejam informados e acordados pelo consumidor previamente.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Estou sendo cobrado por um seguro que não solicitei!</string>
+			<string>É muito comum bancos cobrarem seguros nos cartões de crédito. Se o serviço não foi solicitado pelo consumidor, o mesmo fere o código de defesa do consumidor no momento em que o banco fornece e cobra por um serviço que não foi solicitado.</string>
+			<string></string>
+			<string>39.txt</string>
+		</array>
+		<array>
+			<string>Qual o tempo máximo de espera nas filas?</string>
+			<string>Não existe uma regulamentação nacional, porém, muitos estados e municípios têm leis que limitam o tempo máximo de espera nas filas, como o Ceará, Recife/PE e Rio de Janeiro/RJ.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Bancos podem receber cheques pré-datados antes da data estabelecida?</string>
+			<string>Não existe regulamentação para cheques pré-datados e, todos os cheques são pagáveis no dia da apresentação e podem ser devolvidos caso não haja fundos suficientes na conta.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Houve uma movimentação indevida na minha conta, o banco é responsável?</string>
+			<string>Sim, como prestador de serviço, a instituição é responsável pelos danos causados ao consumidor, seja na má prestação do serviço ou pela segurança no fornecimento de produtos e serviços.</string>
+			<string></string>
+			<string>6.txt</string>
+		</array>
+		<array>
+			<string>Contratei um empréstimo pessoal, tenho direito de quitar a dívida antecipadamente?</string>
+			<string>Sim, de acordo com o art. 7 da Resolução 2892/2001, o cliente tem direito de quitar a dívida, total ou parcialmente, e ainda obter redução proporcional dos juros.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Sou obrigado a utilizar caixas eletrônicos dentro das agências?</string>
+			<string>Não. De acordo com o art. 15 da Resolução 2892/2001, é vetado negar ou restringir, aos clientes e ao público usuário, atendimento pelos meios convencionais, inclusive guichês de caixa, mesmo na hipótese de atendimento alternativo ou eletrônico.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Bancos podem  postergar saques de valores acima de R$ 5.000?</string>
+			<string>Sim, nos saques acima de R$ 5.000, as instituições podem postergar o mesmo para o expediente seguinte, de acordo com o art. 16 da Resolução 2892/2001.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Preciso informar antecipadamente à agencia que vou realizar um saque de valor acima de R$ 5.000</string>
+			<string>Sim, de acordo com o art. 16 da Resolução 2892/2001, o cliente deve informar com o prazo mínimo de 4h de antecedência que irá realizar um saque de alto valor. Tal resolução é importante tanto para a segurança do cliente quanto para que a agência possa garantir a disponibilidade do valor a ser sacado.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Como posso fazer um pedido de sustação de cheques?</string>
+			<string>Em casos de furto, roubo ou extravio, o pedido de sustação deverá ser acompanhando de boletim de ocorrência, sem o qual, o pedido não será atendido.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Tenho restrições cadastrais, ainda posso solicitar talonário de cheques?</string>
+			<string>Não, de acordo com a Resolução 3.972 do Banco Central, o fornecimento de talonário é condicionado à existência de saldo, à ausência de restrições cadastrais, ao histórico de práticas na utilização dos cheques, ao registro no Cadastro de Emitentes de Cheques sem Fundo (CCF) e à regularidade dos dados e dos documentos do correntista.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-4-cheques</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Um cheque meu foi devolvido, como faço para saber quem o depositou?</string>
+			<string>Você poderá solicitar formalmente do banco o nome completo, endereço e agência bancária da pessoa ou empresa que fez o depósito.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-4-cheques</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Quais são as tarifas que as operadoras podem cobrar dos cartões de crédito?</string>
+			<string>As operadoras estão limitadas a cobrar até 5 tarifas: anuidade, emissão de 2ª via, retirada em espécie na função saque, uso do cartão para pagamentos de contas, pedido de avaliação emergencial de crédito. De acordo com a Resolução nº 3.919/2010.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-6-tarifas-bancarias</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Qual o percentual de pagamento mínimo da fatura do cartão de crédito?</string>
+			<string>A Resolução nº 3.919/2010 alterou o valor mínimo de 10% para 20%.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-6-tarifas-bancarias</string>
+			<string></string>
+		</array>
+	</array>
+	<key>Bares e Restaurantes</key>
+	<array>
+		<array>
+			<string>Sou obrigado a pagar o couvert?</string>
+			<string>"O couvert é opcional, caso não seja de seu interesse, recuse-o imediatamente pois se não o dispensar, ainda que não sendo consumido, ele será cobrado individualmente. Couvert são os ""tira gostos"" oferecidos pelo estabelecimento ao consumidor, enquanto este espera pelo prato solicitado. O preço do couvert deve obrigatoriamente constar do cardápio, além de estar afixado na tabela de preços exposta na porta do estabelecimento."</string>
+			<string></string>
+			<string>36.txt,39.txt</string>
+		</array>
+		<array>
+			<string>Sou obrigado a pagar o couvert artístico?</string>
+			<string>"Sim, porém, estabelecimentos que tenham apresentações de música ao vivo ou qualquer outra manifestação artística e que cobrem ""couvert artístico"", deverão expor em seus cardápios, de forma clara ao público, o valor cobrado por pessoa e os dias e horários das apresentações. A cobrança só é admitida nos dias e horários em que houver apresentação de artistas no local."</string>
+			<string></string>
+			<string>36.txt,39.txt</string>
+		</array>
+		<array>
+			<string>O cardápios devem ser afixados na entrada dos estabelecimentos?</string>
+			<string>Sim, de acordo com o Decreto Federal nº 5.903, art. 8º, § 2 estabelece que a relação de preços deverá ser afixada, externamente, nas entradas de restaurantes, bares, casas noturnas e similares. O cardápio deverá conter informações claras sobre os preços e produtos. É válido para restaurantes tipo self-service.</string>
+			<string></string>
+			<string>36.txt,39.txt</string>
+		</array>
+		<array>
+			<string>Sou obrigado a pagar entrada vinculada à consumação mínima?</string>
+			<string>Estabelecimentos podem cobrar entrada, porém, não podem cobrar consumação mínima, que, nesse caso, seria considerado venda casada, uma prática considerada ilegal pelo código. Também não podem cobrar entrada vinculada à consumação mínima.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Sou obrigado a pagar gorjetas?</string>
+			<string>"Não, ela é opcional por definição. Os estabelecimentos que cobrem devem informar seus valores no cardápio e na nota fiscal e seu pagamento pode ser recusado. Restaurantes com a modalidade ""self-service"" não podem cobrar gorjetas."</string>
+			<string></string>
+			<string>36.txt,39.txt</string>
+		</array>
+		<array>
+			<string>A quantidade ou qualidade não conferem com o pedido</string>
+			<string>Nesse caso, o consumidor pode solicitar a correção da falha, o abatimento proporcional do preço pago ou o dinheiro de volta.</string>
+			<string></string>
+			<string>18.txt,23.txt,24.txt,25.txt</string>
+		</array>
+		<array>
+			<string>Pesagem dos alimentos em restaurantes self-service</string>
+			<string>Além do preço pelo kg de alimento, o peso do prato deverá ser informado, a balança deverá estar com a tara ajustada para subtrair o peso do prato.</string>
+			<string></string>
+			<string>36.txt,39.txt</string>
+		</array>
+		<array>
+			<string>Estabelecimentos podem cobrar multa caso o consumidor perca a comanda?</string>
+			<string>Não, isso é considerado prática abusiva. A responsabilidade de manter o controle sobre o que foi consumido e por quem é inteiramente do estabelecimento.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Estabelecimentos podem limitar a quantidade de produtos em promoção que o consumidor pode comprar?</string>
+			<string>Não, de acordo com o art. 39 do CDC o ato de limitar ou recusar a demanda de um consumidor, havendo disponibilidade do produto em estoque e ainda em conformidade com os usos e costumes é considerado prática abusiva</string>
+			<string></string>
+			<string>39.txt</string>
+		</array>
+		<array>
+			<string>Estabelecimentos são obrigado a emitir nota fiscal?</string>
+			<string>Sempre. Essa é uma obrigação não somente com o consumidor, mas com o estado também.</string>
+			<string></string>
+			<string></string>
+		</array>
+	</array>
+	<key>Compras</key>
+	<array>
+		<array>
+			<string>O CDC se aplica à compras e contratações realizadas pela internet?</string>
+			<string>Sim, quando o consumidor e o fornecedor estiverem estabelecidos no Brasil. Se não houver filial ou representante legal do fornecedor no Brasil, dificilmente o consumidor irá conseguir aplicar os direitos garantidos no código.</string>
+			<string></string>
+			<string>1.txt,2.txt,3.txt</string>
+		</array>
+		<array>
+			<string>Comprei um produto e o mesmo apresenta vícios de fabricação. E agora?</string>
+			<string>Se estiver em garantia, você deve solicitar o reparo. Nesse caso, o prazo máximo de devolução é de 30 dias, caso o prazo não seja atendido, o consumidor poderá optar pela substituição do produto por outro produto novo, a devolução da quantia paga corrigida, o abatimento proporcional do preço ou a extensão do prazo de reparo.</string>
+			<string></string>
+			<string>18.txt,19.txt</string>
+		</array>
+		<array>
+			<string>Optei pela substituição de um produto com vício de fabricação por um novo, mas não há mais disponibilidade do mesmo, tenho direito a outro similar?</string>
+			<string>Sim, tendo o consumidor optado pela substituição do produto, e não sendo possível a substituição do bem, poderá haver substituição por outro de espécie, marca ou modelo diversos, mediante complementação ou restituição de eventual diferença de preço.</string>
+			<string></string>
+			<string>18.txt</string>
+		</array>
+		<array>
+			<string>O fornecedor pode devolver um produto usado quando o consumidor opta pela substituição por vício em garantia?</string>
+			<string>Não. No fornecimento de serviços que tenham por objetivo a reparação de qualquer produto considerar-se-á implícita a obrigação do fornecedor de empregar componentes de reposição originais adequados e novos, ou que mantenham as especificações técnicas do fabricante, salvo, quanto a estes últimos, autorização em contrário do consumidor.</string>
+			<string></string>
+			<string>21.txt</string>
+		</array>
+		<array>
+			<string>Descobri um vício de fabricação, mas a garantia já acabou. Tenho direito à correção?</string>
+			<string>Sim. O consumidor tem um prazo de 90 dias a contar a partir do momento em que o vício foi descoberto.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Qual o prazo mínimo de garantia?</string>
+			<string>30 dias para serviços e produtos não duráveis e 90 dias para serviços e produtos duráveis.</string>
+			<string></string>
+			<string>26.txt</string>
+		</array>
+		<array>
+			<string>Qual o prazo máximo para solicitação de reparação de danos por produtos ou serviços com vício?</string>
+			<string>O prazo máximo é de 5 anos.</string>
+			<string></string>
+			<string>27.txt</string>
+		</array>
+		<array>
+			<string>Posso desistir da compra quanto tempo após a mesma?</string>
+			<string>Se a contratação ou compra foi realizada for a do estabelecimento comercial, o consumidor tem um prazo de 7 dias a contar da assinatura ou recebimento do produto para desistir. Se o consumidor exercitar o direito de arrependimento, os valores eventualmente pagos, a qualquer título, durante o prazo de reflexão, serão devolvidos, de imediato, monetariamente atualizados.</string>
+			<string></string>
+			<string>49.txt</string>
+		</array>
+		<array>
+			<string>Posso trocar um produto por outro após efetuar uma compra?</string>
+			<string>Se efetuou a compra pessoalmente em uma loja só terá o direito se a mesma tiver uma política de troca declarada, caso a compra tenha sido fora do estabelecimento comercial, 7 dias.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Se desistir de uma compra, o fornecedor é obrigado a me devolver a quantia paga?</string>
+			<string>Se a contratação ou compra foi realizada for a do estabelecimento comercial, sim. Caso contrário, terá o direito se a loja tiver uma política declarada de devoluções.</string>
+			<string></string>
+			<string>49.txt</string>
+		</array>
+		<array>
+			<string>Lojas têm obrigação de trocar produtos sem defeito?</string>
+			<string>Não. Apesar de ser uma prática comum no mercado não há nenhuma regulamentação sobre a prática, cabendo a cada fornecedor estabelecer suas próprias regras.</string>
+			<string></string>
+			<string>18.txt</string>
+		</array>
+		<array>
+			<string>Comprei um produto importado que não tem garantia no Brasil, e agora?</string>
+			<string>De acordo com o código, o fornecedor também é responsável pelo produto que vende, logo, deve arcar com a garantia do produto nos termos do código.</string>
+			<string></string>
+			<string>18.txt,19.txt,20.txt</string>
+		</array>
+		<array>
+			<string>Como os preços dos produtos e serviços devem ser informados nos supermercados?</string>
+			<string>De acordo com o decreto de lei  nº 5.903/2006, os preços podem estar afixados na embalagem do produto, referenciados em etiquetas próximas aos produtos por código de barras. Na utilização de código de barras, o leitor deve estar à uma distância máxima de 15m do produto.</string>
+			<string>disponível em: www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/Decreto/D5903.htm</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Quais informações devem constar na etiqueta de preços de produtos em lojas?</string>
+			<string>"A etiqueta deve ter, de forma clara e objetiva, o preço total à vista do produto. Caso haja outorga de crédito, a etiqueta deve conter ainda o valor total a ser pago com o financiamento; o número, periodicidade e valor das prestações; juros; eventuais acréscimos e encargos que incidam sobre o valor do financiamento ou parcelamento."</string>
+			<string>disponível em: www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/Decreto/D5903.htm</string>
+			<string></string>
+		</array>
+		<array>
+			<string>O preço da etiqueta está menor que o preço no caixa, qual devo pagar?</string>
+			<string>De acordo com o decreto de lei  nº 5.903/2006, o preço estabelecido na etiqueta do produto. De acordo com o CDC, o fornecedor é obrigado a cumprir os termos declarados na oferta do produto.</string>
+			<string>disponível em: www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/Decreto/D5903.htm</string>
+			<string>30.txt</string>
+		</array>
+		<array>
+			<string>O prazo de entrega não foi respeitado, e agora?</string>
+			<string>"O consumidor pode, a seu critério: I-exigir o cumprimento forçado da obrigação, nos termos da oferta, apresentação ou publicidade; II-aceitar outro produto ou prestação de serviço equivalente; III-rescindir o contrato, com direito à restituição de quantia eventualmente antecipada, monetariamente atualizada, e a perdas e danos."</string>
+			<string>disponível em: www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/Decreto/D5903.htm</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Estabelecimentos devem ser responsáveis pelos veículos estacionados em seus estacionamentos?</string>
+			<string>Há um entendimento de que se o estacionamento é pago, ou seja, há uma prestação de serviço, então o estabelecimento é responsável por eventuais danos aos veículos, de acordo com uma interpretação do art. 20 do CDC.</string>
+			<string></string>
+			<string>20.txt</string>
+		</array>
+		<array>
+			<string>Após receber um produto novo através da garantia, como fica a garantia desse novo produto?</string>
+			<string>Se se tratar de um bem não durável, 30 dias e 90 dias para bens duráveis. Porém, o prazo não deve ser inferior ao do produto original. Caso o produto tenha sido trocado com 9 meses restantes de garantia, por exemplo, o produto novo terá a garantia restante, no caso, 9 meses.</string>
+			<string></string>
+			<string>18.txt,19.txt,20.txt,21.txt</string>
+		</array>
+		<array>
+			<string>Estabelecimentos podem informar os preços dos produtos em moeda estrangeira, como o dólar?</string>
+			<string>Não, tal ato é configurado como uma infração ao direito básico do consumidor, conforme o Decreto de Lei nº 5.903/2006</string>
+			<string>disponível em: www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/Decreto/D5903.htm</string>
+			<string></string>
+		</array>
+	</array>
+	<key>Diversos</key>
+	<array>
+		<array>
+			<string>Me senti enganado na contratação de um produto ou serviço. O que faço?</string>
+			<string>Você tem o direito de receber todas as informações relativas ao produto/ serviço a ser contratado. Se você foi induzido ao erro, através de agressiva estratégia de marketing, por exemplo, tem o direito a rescindir o contrato de acordo com a interpretação do art. 4º, inciso I do CDC. Nesse caso, o ônus da prova é contrária, ou seja, cabe ao fornecedor, de acordo com o art. 6º, inciso VIII.</string>
+			<string></string>
+			<string>4.txt,6.txt</string>
+		</array>
+		<array>
+			<string>Sobre os dados constantes nas notas fiscais</string>
+			<string>As notas fiscais devem ter todas as informações que caracterizem o produto ou serviço. Um notebook, por exemplo, deve conter modelo, marca, número de série e demais informações da configuração. Uma descrição inadequada seria “notebook marca X”.</string>
+			<string>O Código de Defesa do Consumidor incluiu entre os direitos básicos do consumidor a informação adequada e clara sobre os diferentes produtos, com especificação correta de sua característica, composição, qualidade e preço.</string>
+			<string>6.txt</string>
+		</array>
+		<array>
+			<string>Fui constrangido em uma cobrança de débitos</string>
+			<string>De acordo com o art. 42º do CDC, o consumidor não pode ser exposto ao ridículo, ameaçado ou exposto a qualquer situação de constrangimento na cobrança de débitos e deve ter acesso às suas informações nos bancos de dados, conhecimento e prescrição de tais informações.</string>
+			<string>O Código de Defesa do Consumidor incluiu entre os direitos básicos do consumidor a informação adequada e clara sobre os diferentes produtos, com especificação correta de sua característica, composição, qualidade e preço.</string>
+			<string>42.txt,43.txt</string>
+		</array>
+		<array>
+			<string>Escolas podem solicitar compras itens de limpeza ou higiene pessoal em listas de material escolar?</string>
+			<string>Não,  a lista de materiais só deve conter itens de caráter didático-pedagógico, ou seja, aqueles destinados ao atendimento das necessidades individuais do educando, tais como livros, caneta, caderno, lápis, borracha, etc.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-24-material-escolar</string>
+			<string></string>
+		</array>
+		<array>
+			<string>As escolas podem aumentar o valor das mensalidades?</string>
+			<string>Sim, apenas no início do ano e o aumento deverá ser justificado com uma planilha de custos. Caso haja constatação de algum abuso, o consumidor pode contestar o aumento no PROCON ou com uma ação no JEC (Juizado Especial Cível).</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>O financiamento pode ter reajuste pelo salário básico e ainda outras taxas?</string>
+			<string>Não. Em um financiamento apenas um modo de reajuste é permitido.</string>
+			<string>Contrato que, contraditoriamente, insere cláusulas firmando a equivalência salarial e ao mesmo tempo exigindo a correção das prestações por índices diferentes da variação salarial. Ofensa a princípios do Código de Defesa do Consumidor, e ao Decreto-lei 2.349/87, sendo que este ultimo, ao permitir a satisfação do saldo devedor até o resíduo final, mesmo que através da prorrogação do contrato, não afastou o direito a equivalência das prestações à renda salarial. Recurso provido para dar pela procedência da ação.</string>
+			<string>4.txt,51.txt</string>
+		</array>
+		<array>
+			<string>Empresas aéreas podem cobrar taxa para remarcação de voos?</string>
+			<string>Sim, porém, estas taxas não podem ultrapassar 10% do valor da passagem.</string>
+			<string></string>
+			<string></string>
+		</array>
+	</array>
+	<key>Saúde</key>
+	<array>
+		<array>
+			<string>Os planos podem impor um período de carência?</string>
+			<string>Sim, para doenças pré-existentes à contratação.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>É necessário liberação para atendimento de urgência?</string>
+			<string>Não,  de acordo com a RN 259/2011, os atendimentos de emergência e urgência devem ser liberados imediatamente.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Doenças pré-existentes são cobertas na contratação de um plano de saúde?</string>
+			<string>Doenças existentes antes da contratação do plano têm tratamento garantido, porém, alguns procedimentos mais complexos podem ser temporariamente restritos</string>
+			<string>disponível em: http://www.ans.gov.br/portal/site/perfil_Consumidor/direitosdoconsumidor.asp</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Quais doenças são cobertas pelo plano?</string>
+			<string>Nenhuma doença pode ser excluída da cobertura de um plano de saúde. Doenças como câncer, AIDS, e transtornos psiquiátricos têm cobertura obrigatória.</string>
+			<string>disponível em: http://www.ans.gov.br/portal/site/perfil_Consumidor/direitosdoconsumidor.asp</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Planos de saúde são obrigado a dar suporte a dependentes químicos?</string>
+			<string>Sim, de acordo com a RN 262/2011, os planos de saúde assinados a partir de 1999 são obrigados a prover cobertura hospitalar e ambulatorial para dependentes químicos, que inclui consultas psiquiátricas, psicoterapia e atendimento de emergência, incluídas as ameaças e tentativas de suicídio e de autoagressão.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-9-plano-saude-drogas</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Cartão de desconto é plano de saúde?</string>
+			<string>Não. Os sistemas de descontos são vendidos por empresas que não garantem os serviços nem o pagamento das despesas.</string>
+			<string>disponível em: http://www.ans.gov.br/portal/site/perfil_Consumidor/direitosdoconsumidor.asp</string>
+			<string></string>
+		</array>
+		<array>
+			<string>O plano de saúde deve cobrir fisioterapia?</string>
+			<string>A cobertura para tratamentos de fisioterapia é garantido quando indicado pelo médico para os planos assinados a partir de 1999.</string>
+			<string>disponível em: http://www.ans.gov.br/portal/site/perfil_Consumidor/direitosdoconsumidor.asp</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Sou obrigado a emitir um cheque-caução no ato da internação em um hospital tendo plano de saúde?</string>
+			<string>Não, os hospitais não podem exibir depósito antecipado ou cheque caução para quem tem plano de saúde.</string>
+			<string>disponível em: http://www.ans.gov.br/portal/site/perfil_Consumidor/direitosdoconsumidor.asp</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Sobre a estadia para acompanhantes de menores de 18 anos</string>
+			<string>A estadia para acompanhantes de menores de 18 anos deve ser paga pelos planos de saúde.</string>
+			<string>disponível em: http://www.ans.gov.br/portal/site/perfil_Consumidor/direitosdoconsumidor.asp</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Sou obrigado a preencher o formulário de declaração de saúde na contratação de um plano de saúde?</string>
+			<string>Sim, esta é uma determinação dada pela Lei 9.656/98. Na declaração, o consumidor indica se tem alguma doença ou lesão preexistente para que possa ser imposta uma carência pelo plano.</string>
+			<string>É de fundamental importância que o consumidor seja honesto e informe corretamente as questões, pois, em caso de fraude a operadora pode cancelar o contrato e solicitar o reembolso do valor gasto com o consumidor</string>
+			<string></string>
+		</array>
+		<array>
+			<string>"Quais informações sou obrigado a fornecer na ""declaração de saúde""?"</string>
+			<string>O consumidor deve informar todas as doenças que sabe que sofre, como diabetes, câncer ou hipertensão. Porém, não é obrigado a informar se faz uso de algum medicamento, hábitos de vida ou fazer uma consulta médica para investigar possíveis doenças.</string>
+			<string>disponível em: www.idec.org.br</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Onde posso prestar queixa sobre um plano de saúde?</string>
+			<string>Na Agência Nacional de Saúde Suplementar (ANS) pelo número 0800 701 9656.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Planos de saúde podem reajustar as faturas de acordo com a idade do segurado?</string>
+			<string>Se o contrato é anterior a 1999 não há regulamentação. Se o plano foi assinado entre janeiro de 1999 e dezembro de 2003, pode haver aumento de acordo com faixas etárias pré-estabelecidas. Se o plano foi assinado a partir de janeiro de 2004, o reajuste é proibido pelo Estatuto do Idoso (Lei 10.741/03). </string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Planos de saúde são obrigados a cobrir procedimentos para fins estéticos?</string>
+			<string>Não. De acordo com o artigo 10 da Lei 9.656/98, os planos de saúde não são obrigados a cobrir procedimentos para fins estéticos.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Planos de saúde são obrigados a cobrir inseminação artificial?</string>
+			<string>Não. De acordo com o artigo 10 da Lei 9.656/98, os planos de saúde não são obrigados a cobrir este procedimento.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Procedimentos de reconstrução de mama são cobertos por planos de saúde?</string>
+			<string>Sim, se a mutilação for decorrente de utilização de técnica de tratamento de câncer.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Fui discriminado no atendimento por causa do meu plano de saúde, isso é legal?</string>
+			<string>Não. De acordo com o artigo 18 da Lei 9.656/98, o consumidor de determinada operadora, em nenhuma hipótese e sob nenhum pretexto ou alegação, pode ser discriminado ou atendido de forma distinta daquela dispensada aos clientes vinculados a outra operadora ou plano, porém, casos de urgência podem ser privilegiados.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Quais os prazos máximos para sermos atendidos em consultas e procedimentos marcados pelo plano?</string>
+			<string>"De acordo com a RN 259/2011, os prazos variam de acordo com o procedimento (em dias úteis): -Consulta básica - pediatria, clínica médica, cirurgia geral, ginecologia e obstetrícia: em até 7 dias; -Consulta nas demais especialidades médicas: em até 14 dias; - Fonoaudiólogo: em até dias; - Nutricionista, psicólogo, terapeuta ocupacional e fisioterapeuta: em até 10 dias; - Procedimentos com cirurgião-dentista: em até 7 dias úteis; - Diagnósticos por laboratório de análises clínicas em regime ambulatorial: em até 3 dias; - Demais serviços de diagnóstico por laboratório: 10 dias; - Procedimentos de alta complexidade: 21 dias; - Atendimento em regime de hospital-dia: 10 dias; - Internação sem emergência: 21 dias; - Urgência e emergência: imediato."</string>
+			<string>disponível em: www.ans.gov.br/texto_lei/php?id=1758</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Devo ser reembolsado se a operadora não dispor de uma especialidade médica obrigatória e precisar pagar um médico particular?</string>
+			<string>Sim, de acordo com a RN 259/2011. O reembolso deve ocorrer em, no máximo, 30 dias a contar da data de solicitação e deve incluir despesas com transporte.</string>
+			<string>disponível em: www.ans.gov.br/texto_lei/php?id=1758</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Não há disponibilidade de uma especialidade básica na minha cidade, quais as obrigações do plano?</string>
+			<string>Se no seu município não estiver disponível a especialidade básica desejada, a operadora do plano tem a obrigação de pagar um prestador não integrante. Caso não haja a disponibilidade do prestador na cidade, o plano tem a obrigação de indicar um prestador em uma cidade vizinha. Caso também não haja na cidade vizinha, o plano deve indicar na região ao qual a cidade faz parte. Se mesmo assim não houver prestador, a operadora tem a obrigação de fornecer o transporte de ida e volta para uma cidade que tenha o prestador. Em todos os casos, a operadora arcará com os custos de pagamento do prestador.</string>
+			<string>disponível em: www.ans.gov.br/texto_lei/php?id=1758</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Meu médico só tem vaga para consulta daqui a um mês. A operadora pode ser penalizada por isso?</string>
+			<string>Não. Para fins de cumprimento dos prazos , será considerado acesso a qualquer médico da rede assistencial, habilitado para atendimento, no município em que você solicitar, e não por um médico específico escolhido por você.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-21-prazo-para-marcacao-de-consulta.pdf</string>
+			<string></string>
+		</array>
+		<array>
+			<string>Mulheres têm direito a um acompanhante durante o parto?</string>
+			<string>Sim, este é um direito garantido por lei. A presença de um acompanhante no parto e no pós-parto é garantida pela Lei nº 11.108/2005 e garante o direito a acomodações e às principais refeições durante a internação. Direito garantido tanto pelo SUS quanto por planos de saúde particulares.</string>
+			<string>disponível em: ccr.pgr.mpf.gov.br/portlets/consumidor-1/temas-1/texto-no-17-parto-acompanhante</string>
+			<string></string>
+		</array>
+	</array>
+	<key>Telefonia Móvel</key>
+	<array>
+		<array>
+			<string>Não consigo falar com o atendente do call-center!</string>
+			<string>A opção de falar com um atendente humano deverá constar entre as opções constantes no primeiro menu.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Operadoras podem enviar faturas mesmo com o telefone bloqueado por falta de pagamento?</string>
+			<string>Sim, enquanto seu telefone está suspenso. Porém, quando o contrato é rescindido, a cobrança não é mais permitida.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Quanto tempo após o atraso no pagamento da fatura o telefone pode ser bloqueado?</string>
+			<string>30 dias para fixo e 15 dias para móvel com bloqueio para efetuar ligações e 60 dias para fixo e 45 dias para móvel para bloqueio total</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Após quanto tempo de ligação sou cobrado?</string>
+			<string>Até 3s de ligação não há cobrança, entre 4s e 30s, cobra-se 30s, após os 30s não há regulamentação. De acordo com a Resolução 477/2007 da Anatel.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Pago DDD ligando  para localidades de mesmo código?</string>
+			<string>Não. Ligações para o mesmo código de DDD do número são contabilizadas como locais.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Pago deslocamento quando estou em um estado vizinho?</string>
+			<string>Sim, se o código de área tiver o primeiro dígito diferente, a ligação é tarifada com o padrão VC2 + adicional de chamada (AD), que é um valor fixo cobrado por chamada.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Posso ser cobrado por várias chamadas se a ligação cai constantemente?</string>
+			<string>Depende. Se as ligações tiverem um tempo superior a 3s e inferior a 30s, efetuadas entre os mesmos códigos de DDD e o tempo entre as ligações for inferior a 2min então a cobrança deve ser realizada somando-se o tempo total das ligações e considerada como uma única ligação.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>O sinal da minha localidade é ruim e a cidade é considerada coberta, o que posso fazer?</string>
+			<string>Reclamar com a operadora, que tem a obrigação de prover sinal de qualidade dentro da área de cobertura.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Pago ao receber chamadas quando não estou no meu DDD de registro?</string>
+			<string>As operadoras podem cobrar o adicional de deslocamento, porém, as condições e preços devem estar discriminados em contrato.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Posso ser cobrado ao verificar o saldo de créditos?</string>
+			<string>Não, o usuário deve ter à sua disposição recurso que lhe possibilite a verificação, em tempo real, do crédito existente, bem como sua validade, de forma gratuita, em todas as solicitações</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Meus créditos venceram, a operadora pode suspender o serviço?</string>
+			<string>Sim, a operadora pode suspender parcialmente, com bloqueio de chamadas originadas e recebimento de chamadas a cobrar.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Estou sem crédito, posso ligar a cobrar e para 0800?</string>
+			<string>Sim, pode realizar ligações que não importem em débitos por um prazo mínimo de 30 após o esgotamento dos créditos.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Posso solicitar o detalhamento da minha conta?</string>
+			<string>Sim. Tanto usuários de serviços pré-pagos quanto de serviços pós-pagos têm o direito de solicitar o detalhamento das ligações realizadas no período de até 90 dias anteriores à solicitação. O demonstrativo deve ser enviado em até 48h e não pode ser cobrado.</string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Houve uma cobrança indevida pela operadora, como devo ser ressarcido?</string>
+			<string>Com o dobro do valor cobrado, acrescido de correção monetária e juros e em até 30 dias. Em planos pré-pagos, o usuário pode escolher como quer ser ressarcido.</string>
+			<string></string>
+			<string></string>
+		</array>
+	</array>
+</dict>
+</plist>
